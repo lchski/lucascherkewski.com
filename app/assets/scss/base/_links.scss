@@ -1,0 +1,17 @@
+/*------------------------------------*\
+    $LINKS
+\*------------------------------------*/
+
+a {
+	color: $colour-primary-dark;
+
+	&:hover {
+		text-decoration: none;
+	}
+
+	&:active {
+		position: relative;
+
+		top: 1px;
+	}
+}

@@ -40,7 +40,9 @@ gulp.task('html', function() {
 });
 
 gulp.task('sass', function() {
-	sass_options = {};
+	sass_options = {
+		includePaths: require('node-normalize-scss').includePaths
+	};
 	autoprefixer_options = {
 		browsers: ['last 2 versions'],
 		cascade: false
