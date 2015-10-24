@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/lchski/lucascherkewski.com/issues"
   },
-  "homepage": "https://lucascherkewski.com"
+  "homepage": "https://lucascherkewski.com",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
 }
