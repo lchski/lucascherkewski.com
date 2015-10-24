@@ -4,7 +4,7 @@
 $main-font-stack: "Acumin Pro", "Aktiv Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 $base-font-size: 16px;
-$base-line-height: 23px;
+$base-line-height: 24px;
 $font-scale-ratio: 1.25;
 
 $line-height-ratio: $base-line-height / $base-font-size;
@@ -121,3 +121,13 @@ $pad-font-double:   $pad-font*2;
 /*------------------------------------*\
     $MEDIA QUERIES
 \*------------------------------------*/
+
+
+
+
+
+/*------------------------------------*\
+    $TOAST GRID
+\*------------------------------------*/
+$toast-col-groups: (6);
+$toast-gutter-width: $base-line-height;
