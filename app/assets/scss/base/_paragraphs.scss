@@ -3,5 +3,9 @@
 \*------------------------------------*/
 
 p {
-	margin-bottom: $space;
+	text-indent: $base-font-size;
+
+	&:first-of-type {
+		text-indent: 0;
+	}
 }
