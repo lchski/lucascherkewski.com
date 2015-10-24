@@ -1,0 +1,14 @@
+{
+  "name": "lucascherkewski.com",
+  "version": "1.0.0",
+  "description": "Personal site for Lucas Cherkewski.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lchski/lucascherkewski.com.git"
+  },
+  "author": "Lucas Cherkewski",
+  "bugs": {
+    "url": "https://github.com/lchski/lucascherkewski.com/issues"
+  },
+  "homepage": "https://lucascherkewski.com"
+}
