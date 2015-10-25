@@ -32,3 +32,35 @@
         clear: both;
     }
 }
+
+/**
+ * Text underline colour mixin, props @paulrobertlloyd:
+ * https://github.com/paulrobertlloyd/paulrobertlloyd.com/blob/master/source/_assets/stylesheets/helpers/_mixins.scss#L130
+ */
+@mixin text-decoration-colour($colour, $background-colour: transparent) {
+    @if $colour != 'none' {
+        background-image: linear-gradient(to bottom, transparent 89%, $colour 89%, $colour 93%, transparent 93%);
+        text-decoration: none;
+        text-shadow: 0 0.03em $background-colour,
+                     0 -0.03em $background-colour,
+                     0.06em 0 $background-colour,
+                     0 -0.06em $background-colour,
+                     0.03em 0 $background-colour,
+                     -0.03em 0 $background-colour,
+                     0.06em 0 $background-colour,
+                     -0.06em 0 $background-colour,
+                     0.09em 0 $background-colour,
+                     -0.09em 0 $background-colour,
+                     0.12em 0 $background-colour,
+                     -0.12em 0 $background-colour,
+                     0.15em 0 $background-colour,
+                     -0.15em 0 $background-colour;
+
+        &::selection {
+            text-shadow: none;
+        }
+    } @else {
+        background-image: none !important;
+        text-shadow: none !important;
+    }
+}

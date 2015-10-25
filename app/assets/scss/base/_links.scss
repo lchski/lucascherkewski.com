@@ -5,8 +5,10 @@
 a {
 	color: $colour-primary-dark;
 
+	@include text-decoration-colour( $colour-primary-dark, $colour-app-background );
+
 	&:hover {
-		text-decoration: none;
+		@include text-decoration-colour( none);
 	}
 
 	&:active {
