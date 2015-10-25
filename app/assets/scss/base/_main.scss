@@ -8,3 +8,7 @@ html {
 
     background-color: $colour-app-background;
 }
+
+::selection {
+  background: $colour-accent-main;
+}
