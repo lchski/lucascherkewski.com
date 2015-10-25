@@ -1,3 +1,11 @@
 .project {
 	margin-top: $space;
 }
+
+	.project__information {
+		margin-top: $space-half;
+	}
+
+	.project__points {
+		@include font-size( $type-small );
+	}
