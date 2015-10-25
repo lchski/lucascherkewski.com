@@ -5,3 +5,10 @@
 .site-header {
 	margin-bottom: $space;
 }
+
+	.site-header__title {
+		line-height: 1;
+
+		margin-top: $space-quad;
+		margin-bottom: 0;
+	}
