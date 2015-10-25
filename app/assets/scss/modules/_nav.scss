@@ -24,10 +24,15 @@
 
 		.nav__separator {
 			&:before {
+				color: lighten( $colour-text-secondary, 15% );
 				content: '\2022';
 			}
 		}
 
 	.nav--secondary {
 		@include font-size( $type-small );
+
+		.nav__link {
+			@extend .link--lighter;
+		}
 	}

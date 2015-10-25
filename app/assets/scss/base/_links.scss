@@ -3,17 +3,29 @@
 \*------------------------------------*/
 
 a {
-	color: $colour-primary-dark;
+	color: lighten( $colour-text-main, 15% );
 
-	@include text-decoration-colour( $colour-primary-dark, $colour-app-background );
+	@include text-decoration-colour( lighten( $colour-text-main, 15% ), $colour-app-background );
 
 	&:hover {
-		@include text-decoration-colour( none);
+		color: $colour-text-main;
+
+		@include text-decoration-colour( none );
 	}
 
 	&:active {
 		position: relative;
 
 		top: 1px;
+	}
+}
+
+.link--lighter {
+	color: lighten( $colour-text-secondary, 15% );
+
+	@include text-decoration-colour( lighten( $colour-text-secondary, 15% ), $colour-app-background );
+
+	&:hover {
+		color: $colour-text-secondary;
 	}
 }
