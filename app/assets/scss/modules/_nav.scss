@@ -10,5 +10,11 @@
 
 		.nav__item {
 			display: inline-block;
+
+			padding-right: $pad;
 		}
+	}
+
+	.nav--secondary {
+		@include font-size( $type-small );
 	}
