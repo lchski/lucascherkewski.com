@@ -7,6 +7,10 @@ a {
 
 	@include text-decoration-colour( lighten( $colour-text-main, 15% ), $colour-app-background );
 
+	.page--dark & {
+		@include text-decoration-colour( lighten( $colour-text-main, 15% ), $colour-primary-dark )
+	}
+
 	&:hover {
 		color: $colour-text-main;
 
@@ -24,6 +28,10 @@ a {
 	color: lighten( $colour-text-secondary, 15% );
 
 	@include text-decoration-colour( lighten( $colour-text-secondary, 15% ), $colour-app-background );
+
+	.page--dark & {
+		@include text-decoration-colour( lighten( $colour-text-secondary, 15% ), $colour-primary-dark )
+	}
 
 	&:hover {
 		color: $colour-text-secondary;
