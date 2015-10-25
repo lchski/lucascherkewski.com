@@ -12,3 +12,9 @@
 		margin-top: $space-quad;
 		margin-bottom: 0;
 	}
+
+@media ( min-width: $bp-introduce-full-columns ) {
+	.nav--header {
+		text-align: right;
+	}
+}
