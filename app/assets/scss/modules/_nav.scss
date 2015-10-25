@@ -15,14 +15,16 @@
 				.nav--secondary & {
 					padding-right: $pad;
 				}
-
-				&:first-of-type {
-					list-style-type: none;
-				}
 			}
 
 			.nav--horizontal.nav--secondary & {
 				padding-right: $pad-half;
+			}
+		}
+
+		.nav__separator {
+			&:before {
+				content: '\2022';
 			}
 		}
 
