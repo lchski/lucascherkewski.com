@@ -6,14 +6,25 @@
 		margin-left: 0;
 	}
 
-	.nav--site {
-
 		.nav__item {
-			display: inline-block;
+			.nav--horizontal & {
+				display: inline-block;
 
-			padding-right: $pad;
+				padding-right: $pad;
+
+				.nav--secondary & {
+					padding-right: $pad;
+				}
+
+				&:first-of-type {
+					list-style-type: none;
+				}
+			}
+
+			.nav--horizontal.nav--secondary & {
+				padding-right: $pad-half;
+			}
 		}
-	}
 
 	.nav--secondary {
 		@include font-size( $type-small );
