@@ -12,3 +12,8 @@ html {
 ::selection {
   background: $colour-accent-main;
 }
+
+.wrapper {
+	max-width: 1000px;
+	margin: 0 auto;
+}
