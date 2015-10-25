@@ -11,12 +11,14 @@ var paths = {
 	app: {
 		html: app + '**/*.html',
 		sass: app + 'assets/scss/**/*.scss',
-		js: app + 'assets/js/**/*.js'
+		js: app + 'assets/js/**/*.js',
+		img: app + 'assets/img/**/*'
 	},
 	dist: {
 		html: dist,
 		css: dist + 'assets/css/',
-		js: dist + 'assets/js/'
+		js: dist + 'assets/js/',
+		img: dist + 'assets/img/'
 	}
 }
 
@@ -31,6 +33,7 @@ gulp.task('watch', function(){
 	gulp.watch(paths.app.html, ['html']);
 	gulp.watch(paths.app.sass, ['sass']);
 	gulp.watch(paths.app.js, ['js']);
+	gulp.watch(paths.app.img, ['img']);
 });
 
 gulp.task('html', function() {
@@ -63,4 +66,10 @@ gulp.task('js', function() {
 		.pipe(connect.reload());
 });
 
-gulp.task('default', ['html', 'sass', 'js', 'serve', 'watch']);
+gulp.task('img', function() {
+	gulp.src(paths.app.img)
+		.pipe(gulp.dest(paths.dist.img))
+		.pipe(connect.reload());
+})
+
+gulp.task('default', ['html', 'sass', 'js', 'img', 'serve', 'watch']);
