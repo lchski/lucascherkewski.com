@@ -4,7 +4,7 @@
 html {
     font: 500 #{($base-font-size/16px)*1em}/#{$line-height-ratio} $main-font-stack;
 	color: $colour-text-main;
-    padding: 0 $pad;
+    padding: 0 $toast-gutter-width;
 
     background-color: $colour-app-background;
 }
