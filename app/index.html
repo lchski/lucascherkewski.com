@@ -10,14 +10,20 @@
 </head>
 <body>
 	<header class="site-header">
-		<h1>Lucas Cherkewski</h1>
-		<nav class="nav  nav--site  nav--header">
-			<ul class="nav__list">
-				<li class="nav__item"><a href="/library" class="nav__link">Library</a></li>
-				<li class="nav__item"><a href="/notepad" class="nav__link">Notepad</a></li>
-				<li class="nav__item"><a href="/office" class="nav__link">Office</a></li>
-			</ul>
-		</nav>
+		<div class="grid">
+			<div class="grid__col  grid__col--2-of-6  grid__col--push-1-of-6">
+				<h1>Lucas Cherkewski</h1>
+			</div>
+			<div class="grid__col grid__col--3-of-6">
+				<nav class="nav  nav--site  nav--header">
+					<ul class="nav__list">
+						<li class="nav__item"><a href="/library" class="nav__link">Library</a></li>
+						<li class="nav__item"><a href="/notepad" class="nav__link">Notepad</a></li>
+						<li class="nav__item"><a href="/office" class="nav__link">Office</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
 	</header>
 	<main>
 		<div class="grid">
@@ -33,19 +39,25 @@
 		</div>
 	</main>
 	<footer class="site-footer">
-		<p class="site-footer__information">&copy; 2015 Lucas Cherkewski</p>
-		<nav class="nav  nav--site  nav--footer">
-			<ul class="nav__list">
-				<li class="nav__item"><a href="/library" class="nav__link">Library</a></li>
-				<li class="nav__item"><a href="/notepad" class="nav__link">Notepad</a></li>
-				<li class="nav__item"><a href="/office" class="nav__link">Office</a></li>
-			</ul>
-		</nav>
-		<nav class="nav  nav--secondary  nav--footer">
-			<ul class="nav__list">
-				<li class="nav__item"><a href="/about/colophon" class="nav__link">Colophon</a></li>
-			</ul>
-		</nav>
+		<div class="grid">
+			<div class="grid__col grid__col--2-of-6 grid__col--push-1-of-6">
+				<p class="site-footer__information">&copy; 2015 Lucas Cherkewski</p>	
+			</div>
+			<div class="grid__col grid__col--3-of-6">
+				<nav class="nav  nav--site  nav--footer">
+					<ul class="nav__list">
+						<li class="nav__item"><a href="/library" class="nav__link">Library</a></li>
+						<li class="nav__item"><a href="/notepad" class="nav__link">Notepad</a></li>
+						<li class="nav__item"><a href="/office" class="nav__link">Office</a></li>
+					</ul>
+				</nav>
+				<nav class="nav  nav--secondary  nav--footer">
+					<ul class="nav__list">
+						<li class="nav__item"><a href="/about/colophon" class="nav__link">Colophon</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
 	</footer>
 </body>
 </html>
