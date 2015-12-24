@@ -28,7 +28,10 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # argument is a set of non-required options.
   # config.vm.synced_folder "../data", "/vagrant_data"
   # config.vm.synced_folder('----localfolder-----', '/home/vagrant/code', :nfs => true)
-  config.vm.synced_folder '.', '/home/vagrant/code', nfs: true
+  config.vm.synced_folder '.', '/home/vagrant/code',
+    owner: "www-data",
+    group: "www-data",
+    mount_options: ["dmode=775,fmode=664"]
 
   # Provider-specific configuration so you can fine-tune various
   # backing providers for Vagrant. These expose provider-specific options.
