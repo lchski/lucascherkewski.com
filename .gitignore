@@ -1,2 +1,10 @@
 node_modules/
 dist/
+
+# Vagrant LEMP
+.vagrant
+.librarian
+VagrantBK
+.tmp/
+.ruby-gemset
+.ruby-version
