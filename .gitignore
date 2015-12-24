@@ -1,5 +1,10 @@
-node_modules/
-dist/
+# PyroCMS
+.env
+/bin
+/core
+/build
+/vendor
+/node_modules
 
 # Vagrant LEMP
 .vagrant
