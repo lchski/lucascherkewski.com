@@ -1,75 +1,19 @@
-var gulp         = require('gulp'),
-	connect      = require('gulp-connect')
-	sass         = require('gulp-sass')
-	sourcemaps   = require('gulp-sourcemaps')
-	autoprefixer = require('gulp-autoprefixer');
+var elixir = require('laravel-elixir');
 
-app  = 'app/';
-dist = 'dist/'
+/*
+ |----------------------------------------------------------------
+ | Have a Drink!
+ |----------------------------------------------------------------
+ |
+ | Elixir provides a clean, fluent API for defining some basic
+ | Gulp tasks for your Laravel application. Elixir supports
+ | several common CSS, JavaScript and even testing tools!
+ |
+ */
 
-var paths = {
-	app: {
-		html: app + '**/*.html',
-		sass: app + 'assets/scss/**/*.scss',
-		js: app + 'assets/js/**/*.js',
-		img: app + 'assets/img/**/*'
-	},
-	dist: {
-		html: dist,
-		css: dist + 'assets/css/',
-		js: dist + 'assets/js/',
-		img: dist + 'assets/img/'
-	}
-}
-
-gulp.task('serve', function(){
-	connect.server({
-		root: 'dist',
-		livereload: true
-	});
+elixir(function(mix) {
+    mix.sass("bootstrap.scss")
+       .routes()
+       .events()
+       .phpUnit();
 });
-
-gulp.task('watch', function(){
-	gulp.watch(paths.app.html, ['html']);
-	gulp.watch(paths.app.sass, ['sass']);
-	gulp.watch(paths.app.js, ['js']);
-	gulp.watch(paths.app.img, ['img']);
-});
-
-gulp.task('html', function() {
-	gulp.src(paths.app.html)
-		.pipe(gulp.dest(paths.dist.html))
-		.pipe(connect.reload());
-});
-
-gulp.task('sass', function() {
-	sass_options = {
-		includePaths: require('node-normalize-scss').includePaths
-	};
-	autoprefixer_options = {
-		browsers: ['last 2 versions'],
-		cascade: false
-	};
-
-	gulp.src(paths.app.sass)
-		.pipe(sourcemaps.init())
-			.pipe(sass(sass_options).on('error', sass.logError))
-			.pipe(autoprefixer(autoprefixer_options))
-		.pipe(sourcemaps.write())
-		.pipe(gulp.dest(paths.dist.css))
-		.pipe(connect.reload());
-});
-
-gulp.task('js', function() {
-	gulp.src(paths.app.js)
-		.pipe(gulp.dest(paths.dist.js))
-		.pipe(connect.reload());
-});
-
-gulp.task('img', function() {
-	gulp.src(paths.app.img)
-		.pipe(gulp.dest(paths.dist.img))
-		.pipe(connect.reload());
-})
-
-gulp.task('default', ['html', 'sass', 'js', 'img', 'serve', 'watch']);

@@ -1,2 +1,15 @@
-node_modules/
-dist/
+# PyroCMS
+.env
+/bin
+/core
+/build
+/vendor
+/node_modules
+
+# Vagrant LEMP
+.vagrant
+.librarian
+VagrantBK
+.tmp/
+.ruby-gemset
+.ruby-version

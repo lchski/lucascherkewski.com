@@ -1,0 +1,114 @@
+{
+    "name": "pyrocms/pyrocms",
+    "description": "PyroCMS is a powerful, easy to use CMS built for everyone.",
+    "type": "project",
+    "keywords": [
+        "pyrocms",
+        "cms",
+        "streams",
+        "laravel"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AnomalyLabs",
+            "email": "hello@anomaly.is"
+        }
+    ],
+    "require": {
+        "anomaly/streams-platform": "dev-1.0/develop",
+        "anomaly/default_authenticator-extension": "~1.1",
+        "anomaly/user_security_check-extension": "~1.1",
+        "anomaly/throttle_security_check-extension": "~1.1",
+        "anomaly/local_storage_adapter-extension": "~1.1",
+        "anomaly/default_page_handler-extension": "~1.1",
+        "anomaly/xml_feed_widget-extension": "~1.1",
+        "anomaly/page_link_type-extension": "~1.1",
+        "anomaly/url_link_type-extension": "~1.1",
+        "anomaly/streams-composer-plugin": "~1.1",
+        "anomaly/relationship-field_type": "~1.1",
+        "anomaly/colorpicker-field_type": "~1.1",
+        "anomaly/polymorphic-field_type": "~1.0",
+        "anomaly/checkboxes-field_type": "~1.1",
+        "anomaly/encrypted-field_type": "~1.1",
+        "anomaly/datetime-field_type": "~1.1",
+        "anomaly/language-field_type": "~1.1",
+        "anomaly/multiple-field_type": "~1.1",
+        "anomaly/textarea-field_type": "~1.1",
+        "anomaly/wysiwyg-field_type": "~1.1",
+        "anomaly/boolean-field_type": "~1.1",
+        "anomaly/country-field_type": "~1.1",
+        "anomaly/decimal-field_type": "~1.1",
+        "anomaly/markdown-field_type": "~1.1",
+        "anomaly/integer-field_type": "~1.1",
+        "anomaly/editor-field_type": "~1.1",
+        "anomaly/select-field_type": "~1.1",
+        "anomaly/slider-field_type": "~1.1",
+        "anomaly/addon-field_type": "~1.1",
+        "anomaly/email-field_type": "~1.1",
+        "anomaly/state-field_type": "~1.1",
+        "anomaly/files-field_type": "~1.1",
+        "anomaly/tags-field_type": "~1.1",
+        "anomaly/user-field_type": "~1.1",
+        "anomaly/slug-field_type": "~1.1",
+        "anomaly/text-field_type": "~1.1",
+        "anomaly/file-field_type": "~1.1",
+        "anomaly/url-field_type": "~1.1",
+        "anomaly/configuration-module": "~1.1",
+        "anomaly/preferences-module": "~1.1",
+        "anomaly/navigation-module": "~1.1",
+        "anomaly/dashboard-module": "~1.1",
+        "anomaly/redirects-module": "~1.1",
+        "anomaly/installer-module": "~1.1",
+        "anomaly/variables-module": "~1.1",
+        "anomaly/settings-module": "~1.1",
+        "anomaly/partials-module": "~1.1",
+        "anomaly/search-module": "~1.1",
+        "anomaly/addons-module": "~1.1",
+        "anomaly/users-module": "~1.1",
+        "anomaly/pages-module": "~1.1",
+        "anomaly/posts-module": "~1.1",
+        "anomaly/files-module": "~1.1",
+        "anomaly/contact-plugin": "~1.0",
+        "anomaly/request-plugin": "~1.1",
+        "anomaly/helper-plugin": "~1.1",
+        "anomaly/anomaly-theme": "~1.0",
+        "anomaly/starter-theme": "~1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/TestCase.php"
+        ]
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php artisan clear-compiled",
+            "php artisan optimize"
+        ],
+        "pre-update-cmd": [
+            "php artisan clear-compiled"
+        ],
+        "post-update-cmd": [
+            "php artisan optimize"
+        ]
+    },
+    "config": {
+        "bin-dir": "bin",
+        "preferred-install": "dist"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-3.0/master": "3.0.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
