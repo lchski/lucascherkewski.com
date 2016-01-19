@@ -19,6 +19,7 @@
     "gulp-imagemin": "^2.3.0",
     "gulp-responsive": "^1.2.1",
     "gulp-sass": "^2.0.4",
-    "gulp-sourcemaps": "^1.6.0"
+    "gulp-sourcemaps": "^1.6.0",
+    "node-normalize-scss": "^1.0.3"
   }
 }
