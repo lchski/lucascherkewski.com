@@ -1,11 +1,12 @@
 var gulp         = require('gulp'),
-	connect      = require('gulp-connect')
-	sass         = require('gulp-sass')
-	sourcemaps   = require('gulp-sourcemaps')
-	autoprefixer = require('gulp-autoprefixer');
+	connect      = require('gulp-connect'),
+	sass         = require('gulp-sass'),
+	sourcemaps   = require('gulp-sourcemaps'),
+	autoprefixer = require('gulp-autoprefixer'),
+	imagemin     = require('gulp-imagemin');
 
 app  = 'app/';
-dist = 'dist/'
+dist = 'dist/';
 
 var paths = {
 	app: {
@@ -68,6 +69,9 @@ gulp.task('js', function() {
 
 gulp.task('img', function() {
 	gulp.src(paths.app.img)
+		.pipe(imagemin({
+			progressive: true
+		}))
 		.pipe(gulp.dest(paths.dist.img))
 		.pipe(connect.reload());
 })
