@@ -13,6 +13,12 @@
 		margin-bottom: 0;
 	}
 
+	.site-header__link {
+		color: $colour-text-main;
+
+		@include text-decoration-colour( none );
+	}
+
 @media ( min-width: $bp-introduce-full-columns ) {
 	.nav--header {
 		text-align: right;

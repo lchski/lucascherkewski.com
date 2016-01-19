@@ -8,7 +8,7 @@ a {
 	@include text-decoration-colour( lighten( $colour-text-main, 15% ), $colour-app-background );
 
 	.page--dark & {
-		@include text-decoration-colour( lighten( $colour-text-main, 15% ), $colour-primary-dark )
+		@include text-decoration-colour( lighten( $colour-text-main, 15% ), $colour-primary-dark );
 	}
 
 	&:hover {
