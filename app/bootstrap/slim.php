@@ -23,6 +23,12 @@ $c['view'] = function ($c) {
     return $view;
 };
 
+$c['api'] = function ($c) {
+    return new \GuzzleHttp\Client([
+       'base_uri' => env('API_URL', 'https://api.lucascherkewski.com') . '/' . env('API_VERSION', 'v1') . '/',
+    ]);
+}
+
 // Boot up our Slim instance.
 $app = new \Slim\App($c);
 
