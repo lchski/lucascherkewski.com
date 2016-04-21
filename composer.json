@@ -1,0 +1,27 @@
+{
+    "name": "lchski/lucascherkewski.com",
+    "description": "A Slim application for lucascherkewski.com.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Cherkewski",
+            "email": "lucas@lucascherkewski.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lchski\\": [
+                "app/middleware/",
+                "app/models/",
+                "app/controllers/"
+            ],
+            "Lchski\\Helpers\\": [
+                "app/helpers/"
+            ]
+        }
+    }
+}
