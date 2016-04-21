@@ -1,4 +1,4 @@
 <?php
 
-// Load up our bootstrap from the application folder.
+// Bootstrap the application.
 require __DIR__ . '/../app/' . 'bootstrap.php';

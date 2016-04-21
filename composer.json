@@ -21,6 +21,9 @@
                 "app/models/",
                 "app/controllers/"
             ],
+            "Lchski\\Contracts\\": [
+                "app/contracts/"
+            ],
             "Lchski\\Helpers\\": [
                 "app/helpers/"
             ]
