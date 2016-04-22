@@ -28,8 +28,6 @@ $c['api'] = function ($c) {
     return new \GuzzleHttp\Client([
         // API URL
         'base_uri' => env('API_URL', 'https://api.lucascherkewski.com') . '/' . env('API_VERSION', 'v1') . '/',
-        // API username and password
-        'auth' => [env('API_USERNAME'), env('API_PASSWORD')],
     ]);
 };
 
