@@ -1,10 +1,10 @@
 <?php
 
 $app->get('/', function($request, $response, $args) {
-    $apiResponse = json_decode($this->api->get('items/2')->getBody(), true);
+    $items = json_decode($this->api->get('items')->getBody(), true);
 
     return $this->view->render($response, 'pages/index.twig', [
-        'apiResponse' => $apiResponse,
+        'items' => $items,
         'page'        => [
             'title' => 'Home',
         ],

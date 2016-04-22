@@ -1,0 +1,8 @@
+<ol>
+{% for item in items %}
+    <li>
+        <p>{{ item['title'] }}</p>
+        <p>{{ item['created_at'] }}</p>
+    </li>
+{% endfor %}
+</ol>
