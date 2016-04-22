@@ -1,7 +1,7 @@
 <ol>
 {% for item in items %}
     <li>
-        <p>{{ item['title'] }}</p>
+        <p><a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item['title'] }}</a></p>
         <p>{{ item['created_at'] }}</p>
     </li>
 {% endfor %}
