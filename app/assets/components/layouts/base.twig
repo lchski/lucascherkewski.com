@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="/assets/css/tachyons.css">
+
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <main>
+        {% block content %}
+
+        {% endblock %}
+    </main>
+    <footer>
+        {% block footer %}
+            <p>&copy; Lucas Cherkewski</p>
+        {% endblock %}
+    </footer>
+</body>
+</html>
