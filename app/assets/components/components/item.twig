@@ -1,2 +1,12 @@
-<h1>{{ item.title }}</h1>
-<p>Originally created: {{ item.created_at|date(timezone="America/Toronto") }}</p>
+<h1>{{ item.item.title }}</h1>
+<p>Originally created: {{ item.item.created_at|date(timezone="America/Toronto") }}</p>
+
+{% if item.links is not empty %}
+    <p>Links to other items:</p>
+
+    <ul>
+        {% for link in item.links %}
+            <li>{{ link.title }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}

@@ -12,11 +12,21 @@ $app->get('/', function($request, $response, $args) {
 })->setName('index');
 
 $app->get('/item/{id:[0-9]+}', function($request, $response, $args) {
-    $item = json_decode($this->api->get('items/' . $args['id'])->getBody(), true);
+    $itemUri = 'items/' . $args['id'];
+
+    $item = json_decode($this->api->get($itemUri)->getBody(), true);
+
+    $itemLinks = json_decode($this->api->get($itemUri . '/links')->getBody(), true);
+
+    $relatedItems = json_decode($this->api->get($itemUri . '/items')->getBody(), true);
 
     return $this->view->render($response, 'pages/single.twig', [
-        'item' => $item,
-        'page'        => [
+        'item' => [
+            'item'  => $item,
+            'links' => $itemLinks,
+            'items' => $relatedItems,
+        ],
+        'page' => [
             'title' => $item['title'] . ' - Lucas Cherkewski',
         ],
     ]);
