@@ -15,6 +15,7 @@ $c['view'] = function ($c) {
     $view = new \Slim\Views\Twig(__DIR__ . '/../assets/components/', [
         'debug' => env('SLIM_DEBUG', false),
     ]);
+    
     $view->addExtension(new \Slim\Views\TwigExtension(
         $c['router'],
         $c['request']->getUri()
@@ -25,8 +26,10 @@ $c['view'] = function ($c) {
 
 // Register REST API client
 $c['api'] = function ($c) {
+    // Create handler, to insert middleware onto.
     $stack = \GuzzleHttp\HandlerStack::create();
 
+    // Set up caching system: array cache (doesn't persist), followed by filesystem cache (persists).
     $stack->push(
         new \Kevinrob\GuzzleCache\CacheMiddleware(
             new \Kevinrob\GuzzleCache\Strategy\PrivateCacheStrategy(
