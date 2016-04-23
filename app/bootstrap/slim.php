@@ -31,7 +31,10 @@ $c['api'] = function ($c) {
         new \Kevinrob\GuzzleCache\CacheMiddleware(
             new \Kevinrob\GuzzleCache\Strategy\PrivateCacheStrategy(
                 new \Kevinrob\GuzzleCache\Storage\DoctrineCacheStorage(
-                    new \Doctrine\Common\Cache\FilesystemCache('/tmp/')
+                    new \Doctrine\Common\Cache\ChainCache([
+                        new \Doctrine\Common\Cache\ArrayCache(),
+                        new \Doctrine\Common\Cache\FilesystemCache('/tmp/'),
+                    ])
                 )
             )
         ),
