@@ -2,7 +2,7 @@
 <p>Originally created: {{ item.item.created_at|date(timezone="America/Toronto") }}</p>
 
 {% if item.linksWithItems is not empty %}
-    <p>Links to other items:</p>
+    <p>Related items:</p>
 
     <ul>
         {% for linkWithItems in item.linksWithItems %}
