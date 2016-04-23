@@ -29,3 +29,21 @@ $app->get('/item/{id:[0-9]+}', function($request, $response, $args) {
     ]);
 })->setName('singleItem');
 
+$app->get('/link/{id:[0-9]+}', function($request, $response, $args) {
+    $linkUri = 'links/' . $args['id'];
+
+    $link = json_decode($this->api->get($linkUri)->getBody(), true);
+
+    $linkedItems = json_decode($this->api->get($linkUri . '/items')->getBody(), true);
+
+    return $this->view->render($response, 'pages/single-link.twig', [
+        'link' => [
+            'link'  => $link,
+            'linkedItems' => $linkedItems,
+        ],
+        'page' => [
+            'title' => $link['title'] . ' - Lucas Cherkewski',
+        ],
+    ]);
+})->setName('singleLink');
+

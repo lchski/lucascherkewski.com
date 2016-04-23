@@ -11,7 +11,7 @@
                     <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
                     {% if not loop.last %},{% endif %}
                 {% endfor %}
-                (connected by: {{ linkWithItems.title }})
+                (connected by: <a href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
             </li>
         {% endfor %}
     </ul>

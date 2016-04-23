@@ -1,0 +1,14 @@
+<h1>{{ link.link.title }}</h1>
+<p>Originally created: {{ link.link.created_at|date(timezone="America/Toronto") }}</p>
+
+{% if link.linkedItems is not empty %}
+    <p>Linked items:</p>
+
+    <ul>
+        {% for item in link.linkedItems %}
+            <li>
+                <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endif %}
