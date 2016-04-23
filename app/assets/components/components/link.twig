@@ -1,4 +1,4 @@
-<h1>{{ link.link.title }}</h1>
+<h1>LINK: {{ link.link.title }}</h1>
 <p>Originally created: {{ link.link.created_at|date(timezone="America/Toronto") }}</p>
 
 {% if link.linkedItems is not empty %}
