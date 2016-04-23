@@ -16,11 +16,14 @@ $app->get('/item/{id:[0-9]+}', function($request, $response, $args) {
 
     $item = json_decode($this->api->get($itemUri)->getBody(), true);
 
+    $itemContent = json_decode($this->api->get($itemUri . '/content')->getBody(), true);
+
     $linksWithItems = json_decode($this->api->get($itemUri . '/linksWithItems')->getBody(), true);
 
     return $this->view->render($response, 'pages/single.twig', [
         'item' => [
             'item'  => $item,
+            'content' => $itemContent,
             'linksWithItems' => $linksWithItems,
         ],
         'page' => [
@@ -34,11 +37,14 @@ $app->get('/link/{id:[0-9]+}', function($request, $response, $args) {
 
     $link = json_decode($this->api->get($linkUri)->getBody(), true);
 
+    $linkContent = json_decode($this->api->get($linkUri . '/content')->getBody(), true);
+
     $linkedItems = json_decode($this->api->get($linkUri . '/items')->getBody(), true);
 
     return $this->view->render($response, 'pages/single-link.twig', [
         'link' => [
             'link'  => $link,
+            'content' => $linkContent,
             'linkedItems' => $linkedItems,
         ],
         'page' => [
