@@ -1,0 +1,18 @@
+{
+  "name": "lucascherkewski.com",
+  "version": "1.0.0",
+  "description": "Static assets for lucascherkewski.com.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchski/lucascherkewski.com.git"
+  },
+  "author": "Lucas Cherkewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lchski/lucascherkewski.com/issues"
+  },
+  "homepage": "https://github.com/lchski/lucascherkewski.com#readme",
+  "devDependencies": {
+    "tachyons": "^4.0.0"
+  }
+}
