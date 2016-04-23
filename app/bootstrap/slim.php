@@ -21,6 +21,8 @@ $c['view'] = function ($c) {
         $c['request']->getUri()
     ));
 
+    $view->addExtension(new Twig_Extensions_Extension_Date());
+
     $view->addExtension(new \Aptoma\Twig\Extension\MarkdownExtension(new \Aptoma\Twig\Extension\MarkdownEngine\PHPLeagueCommonMarkEngine()));
 
     return $view;
