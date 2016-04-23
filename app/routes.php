@@ -22,7 +22,7 @@ $app->get('/item/{id:[0-9]+}', function($request, $response, $args) {
 
     return $this->view->render($response, 'pages/single.twig', [
         'item' => [
-            'item'  => $item,
+            'meta'  => $item,
             'content' => $itemContent,
             'linksWithItems' => $linksWithItems,
         ],
@@ -43,7 +43,7 @@ $app->get('/link/{id:[0-9]+}', function($request, $response, $args) {
 
     return $this->view->render($response, 'pages/single-link.twig', [
         'link' => [
-            'link'  => $link,
+            'meta'  => $link,
             'content' => $linkContent,
             'linkedItems' => $linkedItems,
         ],

@@ -1,5 +1,5 @@
-<h1>ITEM: {{ item.item.title }}</h1>
-<p>Originally created: {{ item.item.created_at|date(timezone="America/Toronto") }}</p>
+<h1>ITEM: {{ item.meta.title }}</h1>
+<p>Originally created: {{ item.meta.created_at|date(timezone="America/Toronto") }}</p>
 
 {{ item.content.content|markdown }}
 

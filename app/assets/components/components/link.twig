@@ -1,5 +1,5 @@
-<h1>LINK: {{ link.link.title }}</h1>
-<p>Originally created: {{ link.link.created_at|date(timezone="America/Toronto") }}</p>
+<h1>LINK: {{ link.meta.title }}</h1>
+<p>Originally created: {{ link.meta.created_at|date(timezone="America/Toronto") }}</p>
 
 {{ link.content.content|markdown }}
 
