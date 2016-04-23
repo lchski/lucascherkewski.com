@@ -2,5 +2,5 @@
 
 {% block content %}
     <a href="{{ path_for('index') }}">Back to home</a>
-    {% include "components/link.twig" %}
+    {% include "components/item.twig" with {'item': link} %}
 {% endblock %}

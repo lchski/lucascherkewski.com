@@ -1,4 +1,4 @@
-<h1>ITEM: {{ item.meta.title }}</h1>
+<h1>{{ item.meta.title }}</h1>
 <p>Originally created: {{ item.meta.created_at|date(timezone="America/Toronto") }}</p>
 
 {{ item.content.content|markdown }}
@@ -14,6 +14,18 @@
                     {% if not loop.last %},{% endif %}
                 {% endfor %}
                 (connected by: <a href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
+            </li>
+        {% endfor %}
+    </ul>
+{% endif %}
+
+{% if item.linkedItems is not empty %}
+    <p>Linked items:</p>
+
+    <ul>
+        {% for item in link.linkedItems %}
+            <li>
+                <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
             </li>
         {% endfor %}
     </ul>
