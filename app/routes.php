@@ -16,15 +16,12 @@ $app->get('/item/{id:[0-9]+}', function($request, $response, $args) {
 
     $item = json_decode($this->api->get($itemUri)->getBody(), true);
 
-    $itemLinks = json_decode($this->api->get($itemUri . '/links')->getBody(), true);
-
-    $relatedItems = json_decode($this->api->get($itemUri . '/items')->getBody(), true);
+    $linksWithItems = json_decode($this->api->get($itemUri . '/linksWithItems')->getBody(), true);
 
     return $this->view->render($response, 'pages/single.twig', [
         'item' => [
             'item'  => $item,
-            'links' => $itemLinks,
-            'items' => $relatedItems,
+            'linksWithItems' => $linksWithItems,
         ],
         'page' => [
             'title' => $item['title'] . ' - Lucas Cherkewski',
