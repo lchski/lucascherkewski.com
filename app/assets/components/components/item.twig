@@ -1,32 +1,39 @@
-<h1>{{ item.meta.title }}</h1>
-<p>Originally created: {{ item.meta.created_at|date(timezone="America/Toronto") }}</p>
+<article class="cf pa4">
+    <div class="fl w-100 w-60-ns pr3">
+        <h1>{{ item.meta.title }}</h1>
+        <p>Originally created: {{ item.meta.created_at|date(timezone="America/Toronto") }}</p>
 
-{{ item.content.content|markdown }}
+        <div class="measure lh-copy">
+            {{ item.content.content|markdown }}
+        </div>
+    </div>
+    <div class="fl w-100 w-40-ns bg-near-white pa3 lh-copy">
+        {% if item.linksWithItems is not empty %}
+            <p>Related items:</p>
 
-{% if item.linksWithItems is not empty %}
-    <p>Related items:</p>
-
-    <ul>
-        {% for linkWithItems in item.linksWithItems %}
-            <li>
-                {% for item in linkWithItems.items %}
-                    <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
-                    {% if not loop.last %},{% endif %}
+            <ul>
+                {% for linkWithItems in item.linksWithItems %}
+                    <li class="mt2">
+                        {% for item in linkWithItems.items %}
+                            <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
+                            {% if not loop.last %},{% endif %}
+                        {% endfor %}
+                        (connected by: <a href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
+                    </li>
                 {% endfor %}
-                (connected by: <a href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
-            </li>
-        {% endfor %}
-    </ul>
-{% endif %}
+            </ul>
+        {% endif %}
 
-{% if item.linkedItems is not empty %}
-    <p>Linked items:</p>
+        {% if item.linkedItems is not empty %}
+            <p>Linked items:</p>
 
-    <ul>
-        {% for item in link.linkedItems %}
-            <li>
-                <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
-            </li>
-        {% endfor %}
-    </ul>
-{% endif %}
+            <ul>
+                {% for item in link.linkedItems %}
+                    <li class="mt2">
+                        <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+</article>
