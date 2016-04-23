@@ -13,9 +13,20 @@
 
         {% endblock %}
     </main>
-    <footer class="pa4">
+    <footer class="pa4 mid-gray">
         {% block footer %}
-            <p>&copy; Lucas Cherkewski</p>
+            <small class="f5">&copy; Lucas Cherkewski</small>
+            {%
+            set footer_links = [
+            {text: "Colophon", href: "#"},
+            {text: "Home", href: "#"}
+            ]
+            %}
+            <ul class="dib f6">
+                {% for footer_link in footer_links %}
+                    <li class="dib ml2"><a class="link" href="{{ footer_link.href }}">{{ footer_link.text }}</a></li>
+                {% endfor %}
+            </ul>
         {% endblock %}
     </footer>
 </body>
