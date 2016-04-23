@@ -14,7 +14,8 @@
         "vlucas/phpdotenv": "^2.2",
         "illuminate/support": "^5.2",
         "guzzlehttp/guzzle": "~6.0",
-        "slim/twig-view": "^2.1"
+        "slim/twig-view": "^2.1",
+        "kevinrob/guzzle-cache-middleware": "^1.2"
     },
     "autoload": {
         "psr-4": {
