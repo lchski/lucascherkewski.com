@@ -25,9 +25,24 @@ $c['view'] = function ($c) {
 
 // Register REST API client
 $c['api'] = function ($c) {
+    $stack = \GuzzleHttp\HandlerStack::create();
+
+    $stack->push(
+        new \Kevinrob\GuzzleCache\CacheMiddleware(
+            new \Kevinrob\GuzzleCache\Strategy\PrivateCacheStrategy(
+                new \Kevinrob\GuzzleCache\Storage\DoctrineCacheStorage(
+                    new \Doctrine\Common\Cache\FilesystemCache('/tmp/')
+                )
+            )
+        ),
+        'cache'
+    );
+
     return new \GuzzleHttp\Client([
         // API URL
         'base_uri' => env('API_URL', 'https://api.lucascherkewski.com') . '/' . env('API_VERSION', 'v1') . '/',
+        // Custom handler, to include middleware.
+        'handler'  => $stack,
     ]);
 };
 

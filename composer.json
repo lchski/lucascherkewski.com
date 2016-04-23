@@ -15,7 +15,8 @@
         "illuminate/support": "^5.2",
         "guzzlehttp/guzzle": "~6.0",
         "slim/twig-view": "^2.1",
-        "kevinrob/guzzle-cache-middleware": "^1.2"
+        "kevinrob/guzzle-cache-middleware": "^1.2",
+        "doctrine/cache": "^1.6"
     },
     "autoload": {
         "psr-4": {
