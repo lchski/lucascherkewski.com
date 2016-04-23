@@ -15,11 +15,13 @@ $c['view'] = function ($c) {
     $view = new \Slim\Views\Twig(__DIR__ . '/../assets/components/', [
         'debug' => env('SLIM_DEBUG', false),
     ]);
-    
+
     $view->addExtension(new \Slim\Views\TwigExtension(
         $c['router'],
         $c['request']->getUri()
     ));
+
+    $view->addExtension(new \Aptoma\Twig\Extension\MarkdownExtension(new \Aptoma\Twig\Extension\MarkdownEngine\PHPLeagueCommonMarkEngine()));
 
     return $view;
 };

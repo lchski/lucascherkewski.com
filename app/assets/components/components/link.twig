@@ -1,7 +1,7 @@
 <h1>LINK: {{ link.link.title }}</h1>
 <p>Originally created: {{ link.link.created_at|date(timezone="America/Toronto") }}</p>
 
-{{ link.content.content }}
+{{ link.content.content|markdown }}
 
 {% if link.linkedItems is not empty %}
     <p>Linked items:</p>

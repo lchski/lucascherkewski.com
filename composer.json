@@ -16,7 +16,9 @@
         "guzzlehttp/guzzle": "~6.0",
         "slim/twig-view": "^2.1",
         "kevinrob/guzzle-cache-middleware": "^1.2",
-        "doctrine/cache": "^1.6"
+        "doctrine/cache": "^1.6",
+        "aptoma/twig-markdown": "^2.0",
+        "league/commonmark": "^0.13.2"
     },
     "autoload": {
         "psr-4": {
