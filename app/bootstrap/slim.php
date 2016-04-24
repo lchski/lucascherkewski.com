@@ -25,6 +25,7 @@ $c['view'] = function ($c) {
 
     $commonMarkEnv = \League\CommonMark\Environment::createCommonMarkEnvironment();
     $commonMarkEnv->addDocumentProcessor(new \Lchski\Twig\Markdown\ParagraphProcessor());
+    $commonMarkEnv->addInlineParser(new \Lchski\Twig\Markdown\TwitterHandleParser());
 
     $commonMarkConverter = new \League\CommonMark\CommonMarkConverter([], $commonMarkEnv);
 
