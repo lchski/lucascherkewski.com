@@ -42,19 +42,21 @@ $c['api'] = function ($c) {
     $stack = \GuzzleHttp\HandlerStack::create();
 
     // Set up caching system: array cache (doesn't persist), followed by filesystem cache (persists).
-    $stack->push(
-        new \Kevinrob\GuzzleCache\CacheMiddleware(
-            new \Kevinrob\GuzzleCache\Strategy\PrivateCacheStrategy(
-                new \Kevinrob\GuzzleCache\Storage\DoctrineCacheStorage(
-                    new \Doctrine\Common\Cache\ChainCache([
-                        new \Doctrine\Common\Cache\ArrayCache(),
-                        new \Doctrine\Common\Cache\FilesystemCache('/tmp/'),
-                    ])
+    if (!isset($_GET['nocache']) && true != $_GET['nocache']) {
+        $stack->push(
+            new \Kevinrob\GuzzleCache\CacheMiddleware(
+                new \Kevinrob\GuzzleCache\Strategy\PrivateCacheStrategy(
+                    new \Kevinrob\GuzzleCache\Storage\DoctrineCacheStorage(
+                        new \Doctrine\Common\Cache\ChainCache([
+                            new \Doctrine\Common\Cache\ArrayCache(),
+                            new \Doctrine\Common\Cache\FilesystemCache('/tmp/'),
+                        ])
+                    )
                 )
-            )
-        ),
-        'cache'
-    );
+            ),
+            'cache'
+        );
+    }
 
     return new \GuzzleHttp\Client([
         // API URL
