@@ -9,6 +9,11 @@
     <title>{{ page.title }}</title>
 </head>
 <body class="sans-serif {% block bodyClasses %}{% endblock %}">
+    <header class="ph4 pv3">
+        {% block header %}
+            <p class="f6 fw6"><a class="link blue dim" href="{{ path_for('index') }}">The Cherkewski View</a></p>
+        {% endblock %}
+    </header>
     <main>
         {% block content %}
 
