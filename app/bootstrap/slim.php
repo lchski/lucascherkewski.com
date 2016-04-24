@@ -28,6 +28,7 @@ $c['view'] = function ($c) {
     $commonMarkEnv->addExtension(new \League\CommonMark\Extras\TwitterHandleAutolink\TwitterHandleAutolinkExtension());
     $commonMarkEnv->addDocumentProcessor(new \Lchski\Twig\Markdown\ParagraphProcessor());
     $commonMarkEnv->addDocumentProcessor(new \Lchski\Twig\Markdown\LinkProcessor());
+    $commonMarkEnv->addDocumentProcessor(new \Lchski\Twig\Markdown\ThematicBreakProcessor());
 
     $commonMarkConverter = new \League\CommonMark\CommonMarkConverter([], $commonMarkEnv);
 
