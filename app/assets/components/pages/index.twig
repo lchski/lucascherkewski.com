@@ -1,5 +1,11 @@
 {% extends "layouts/base.twig" %}
 
 {% block content %}
-    {% include "components/items-list.twig" %}
+    <div class="ph4">
+        {% markdown %}
+        This is my way of organising thoughts.
+        {% endmarkdown %}
+
+        {% include "components/items-list.twig" %}
+    </div>
 {% endblock %}

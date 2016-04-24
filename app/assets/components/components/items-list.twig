@@ -1,8 +1,10 @@
-<ol>
+<ol class="list pl0 w-60-ns bt b--light-gray">
 {% for item in items %}
-    <li>
-        <p><a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item['title'] }}</a></p>
-        <p>{{ item['created_at']|time_diff }}</p>
+    <li class="bb w-100 mt0 dt b--light-gray">
+        <a class="dt-row link dim" href="{{ path_for('singleItem', {'id': item.id}) }}">
+            <p class="dtc w-80 black-70 pv3 lh-solid">{{ item.title }}</p>
+            <p class="dtc v-btm h-100 w-20 tr f6 mid-gray pv3 lh-solid">{{ item.created_at|time_diff }}</p>
+        </a>
     </li>
 {% endfor %}
 </ol>
