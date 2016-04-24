@@ -24,11 +24,11 @@
             <small class="f5">&copy; Lucas Cherkewski</small>
             {%
             set footer_links = [
-            {text: "Colophon", href: "#"},
-            {text: "Home", href: path_for('index')}
+            {text: "Home", href: path_for('index')},
+            {text: "Colophon", href: "https://github.com/lchski/lucascherkewski.com/blob/master/README.md"}
             ]
             %}
-            <ul class="dib ph0 ml3">
+            <ul class="list dib ph0 ml3">
                 {% for footer_link in footer_links %}
                     <li class="dib ml2 f6"><a class="black-70 dim" href="{{ footer_link.href }}">{{ footer_link.text }}</a></li>
                 {% endfor %}
