@@ -10,15 +10,13 @@ use League\CommonMark\DocumentProcessorInterface;
 use League\CommonMark\Util\Configuration;
 use League\CommonMark\Util\ConfigurationAwareInterface;
 
-class ParagraphProcessor implements DocumentProcessorInterface, ConfigurationAwareInterface
+class ParagraphProcessor implements DocumentProcessorInterface
 {
-    private $config;
-
-    public function setConfiguration(Configuration $configuration)
-    {
-        $this->config = $configuration;
-    }
-
+    /**
+     * @param Document $document
+     *
+     * @return void
+     */
     public function processDocument(Document $document)
     {
         $walker = $document->walker();
@@ -26,6 +24,7 @@ class ParagraphProcessor implements DocumentProcessorInterface, ConfigurationAwa
         while($event = $walker->next()) {
             $node = $event->getNode();
 
+            // Only process Paragraph nodes when we first encounter them
             if (!($node instanceof Paragraph) || !$event->isEntering()) {
                 continue;
             }
