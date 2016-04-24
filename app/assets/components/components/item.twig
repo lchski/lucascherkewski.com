@@ -1,39 +1,8 @@
 <article class="cf pa4">
     <div class="fl w-100 w-60-ns pr3">
-        <h1>{{ item.meta.title }}</h1>
-        <p>Originally created: {{ item.meta.created_at|date(timezone="America/Toronto") }}</p>
-
-        <div class="">
-            {{ item.content.content|markdown }}
-        </div>
+        {% include "components/item-contents.twig" %}
     </div>
     <div class="fl w-100 w-40-ns bg-near-white pa3 lh-copy">
-        {% if item.linksWithItems is not empty %}
-            <p>Related items:</p>
-
-            <ul>
-                {% for linkWithItems in item.linksWithItems %}
-                    <li class="mt2">
-                        {% for item in linkWithItems.items %}
-                            <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
-                            {% if not loop.last %},{% endif %}
-                        {% endfor %}
-                        (connected by: <a href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
-                    </li>
-                {% endfor %}
-            </ul>
-        {% endif %}
-
-        {% if item.linkedItems is not empty %}
-            <p>Linked items:</p>
-
-            <ul>
-                {% for item in link.linkedItems %}
-                    <li class="mt2">
-                        <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
-                    </li>
-                {% endfor %}
-            </ul>
-        {% endif %}
+        {% include "components/item-relations.twig" %}
     </div>
 </article>

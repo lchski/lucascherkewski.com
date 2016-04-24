@@ -1,0 +1,6 @@
+<h1 class="f3">{{ item.meta.title }}</h1>
+<p class="f6">Originally created: {{ item.meta.created_at|date(timezone="America/Toronto") }}</p>
+
+<div>
+    {{ item.content.content|markdown }}
+</div>
