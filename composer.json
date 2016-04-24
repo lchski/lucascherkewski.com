@@ -33,6 +33,12 @@
             ],
             "Lchski\\Helpers\\": [
                 "app/helpers/"
+            ],
+            "Lchski\\Twig\\": [
+                "app/twig/"
+            ],
+            "Lchski\\Twig\\Markdown\\": [
+                "app/twig/markdown/"
             ]
         }
     }

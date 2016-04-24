@@ -23,7 +23,12 @@ $c['view'] = function ($c) {
 
     $view->addExtension(new Twig_Extensions_Extension_Date());
 
-    $view->addExtension(new \Aptoma\Twig\Extension\MarkdownExtension(new \Aptoma\Twig\Extension\MarkdownEngine\PHPLeagueCommonMarkEngine()));
+    $commonMarkEnv = \League\CommonMark\Environment::createCommonMarkEnvironment();
+    $commonMarkEnv->addDocumentProcessor(new \Lchski\Twig\Markdown\ParagraphProcessor());
+
+    $commonMarkConverter = new \League\CommonMark\CommonMarkConverter([], $commonMarkEnv);
+
+    $view->addExtension(new \Aptoma\Twig\Extension\MarkdownExtension(new \Aptoma\Twig\Extension\MarkdownEngine\PHPLeagueCommonMarkEngine($commonMarkConverter)));
 
     return $view;
 };

@@ -3,7 +3,7 @@
         <h1>{{ item.meta.title }}</h1>
         <p>Originally created: {{ item.meta.created_at|date(timezone="America/Toronto") }}</p>
 
-        <div class="measure lh-copy">
+        <div class="">
             {{ item.content.content|markdown }}
         </div>
     </div>

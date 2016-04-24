@@ -22,9 +22,9 @@
             {text: "Home", href: "#"}
             ]
             %}
-            <ul class="dib f6">
+            <ul class="dib ph0 ml3">
                 {% for footer_link in footer_links %}
-                    <li class="dib ml2"><a class="link" href="{{ footer_link.href }}">{{ footer_link.text }}</a></li>
+                    <li class="dib ml2 f6"><a class="link  dim" href="{{ footer_link.href }}">{{ footer_link.text }}</a></li>
                 {% endfor %}
             </ul>
         {% endblock %}
