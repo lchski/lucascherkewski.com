@@ -3,3 +3,4 @@ dist/
 vendor/
 .idea
 .env
+public/assets/
