@@ -12,9 +12,7 @@
             </li>
         {% endfor %}
     </ul>
-{% endif %}
-
-{% if item.linkedItems is not empty %}
+{% elseif item.linkedItems is not empty %}
     <p>Linked items:</p>
 
     <ul>
@@ -24,4 +22,6 @@
             </li>
         {% endfor %}
     </ul>
+{% else %}
+    <p>This item has no relations.</p>
 {% endif %}
