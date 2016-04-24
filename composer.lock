@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "25397009a0c1138d9f364875c2f0f5bc",
-    "content-hash": "2a08ad887600f1b6bb53aa7a52d8b346",
+    "hash": "cf2fc08de1470dc503490146030209cd",
+    "content-hash": "06462788783813a74724d0c9755a220b",
     "packages": [
         {
             "name": "aptoma/twig-markdown",
@@ -640,6 +640,62 @@
                 "parser"
             ],
             "time": "2016-03-27 19:10:13"
+        },
+        {
+            "name": "league/commonmark-extras",
+            "version": "0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thephpleague/commonmark-extras.git",
+                "reference": "31f4befea9335341ea9ec1d164e83b650a2aeda8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thephpleague/commonmark-extras/zipball/31f4befea9335341ea9ec1d164e83b650a2aeda8",
+                "reference": "31f4befea9335341ea9ec1d164e83b650a2aeda8",
+                "shasum": ""
+            },
+            "require": {
+                "league/commonmark": "~0.13.0",
+                "php": ">=5.4.8"
+            },
+            "require-dev": {
+                "jgm/smartpunct": "0.24",
+                "phpunit/phpunit": "~4.3|~5.0",
+                "scrutinizer/ocular": "~1.1"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.2-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "League\\CommonMark\\Extras\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Colin O'Dell",
+                    "email": "colinodell@gmail.com",
+                    "homepage": "http://www.colinodell.com",
+                    "role": "Lead Developer"
+                }
+            ],
+            "description": "Useful extensions for customizing the league/commonmark parser",
+            "homepage": "https://github.com/thephpleague/commonmark-extras",
+            "keywords": [
+                "Extras",
+                "commonmark",
+                "extensions",
+                "markdown"
+            ],
+            "time": "2016-01-16 15:00:23"
         },
         {
             "name": "nikic/fast-route",

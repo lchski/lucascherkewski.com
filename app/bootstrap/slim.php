@@ -24,8 +24,9 @@ $c['view'] = function ($c) {
     $view->addExtension(new Twig_Extensions_Extension_Date());
 
     $commonMarkEnv = \League\CommonMark\Environment::createCommonMarkEnvironment();
+    $commonMarkEnv->addExtension(new \League\CommonMark\Extras\SmartPunct\SmartPunctExtension());
+    $commonMarkEnv->addExtension(new \League\CommonMark\Extras\TwitterHandleAutolink\TwitterHandleAutolinkExtension());
     $commonMarkEnv->addDocumentProcessor(new \Lchski\Twig\Markdown\ParagraphProcessor());
-    $commonMarkEnv->addInlineParser(new \Lchski\Twig\Markdown\TwitterHandleParser());
 
     $commonMarkConverter = new \League\CommonMark\CommonMarkConverter([], $commonMarkEnv);
 
