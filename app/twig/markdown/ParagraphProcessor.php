@@ -7,8 +7,6 @@ namespace Lchski\Twig\Markdown;
 use League\CommonMark\Block\Element\Document;
 use League\CommonMark\Block\Element\Paragraph;
 use League\CommonMark\DocumentProcessorInterface;
-use League\CommonMark\Util\Configuration;
-use League\CommonMark\Util\ConfigurationAwareInterface;
 
 class ParagraphProcessor implements DocumentProcessorInterface
 {
