@@ -12,7 +12,7 @@ $c = new \Slim\Container($configuration);
 
 // Register component on container
 $c['view'] = function ($c) {
-    $view = new \Slim\Views\Twig(__DIR__ . '/../assets/components/', [
+    $view = new \Slim\Views\Twig(__DIR__ . '/../templates/', [
         'debug' => env('SLIM_DEBUG', false),
     ]);
 
