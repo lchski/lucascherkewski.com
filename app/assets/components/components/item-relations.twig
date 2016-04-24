@@ -5,10 +5,10 @@
         {% for linkWithItems in item.linksWithItems %}
             <li class="mt2">
                 {% for item in linkWithItems.items %}
-                    <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
+                    <a class="black-70 dim" href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
                     {% if not loop.last %},{% endif %}
                 {% endfor %}
-                (connected by: <a href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
+                (connected by: <a class="black-70 dim" href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
             </li>
         {% endfor %}
     </ul>
@@ -18,7 +18,7 @@
     <ul>
         {% for item in link.linkedItems %}
             <li class="mt2">
-                <a href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
+                <a class="black-70 dim" href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
             </li>
         {% endfor %}
     </ul>
