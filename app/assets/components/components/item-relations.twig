@@ -1,5 +1,5 @@
 {% if item.linksWithItems is not empty %}
-    <p>Related items:</p>
+    <p class="lh-copy">Related items:</p>
 
     <ul>
         {% for linkWithItems in item.linksWithItems %}
@@ -13,7 +13,7 @@
         {% endfor %}
     </ul>
 {% elseif item.linkedItems is not empty %}
-    <p>Linked items:</p>
+    <p class="lh-copy">Linked items:</p>
 
     <ul>
         {% for item in link.linkedItems %}
@@ -23,5 +23,5 @@
         {% endfor %}
     </ul>
 {% else %}
-    <p>This item has no relations.</p>
+    <p class="lh-copy">This item has no relations.</p>
 {% endif %}
