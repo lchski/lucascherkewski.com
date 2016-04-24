@@ -13,7 +13,7 @@
 
         {% endblock %}
     </main>
-    <footer class="pa4 mid-gray">
+    <footer class="pa4">
         {% block footer %}
             <small class="f5">&copy; Lucas Cherkewski</small>
             {%
@@ -24,7 +24,7 @@
             %}
             <ul class="dib ph0 ml3">
                 {% for footer_link in footer_links %}
-                    <li class="dib ml2 f6"><a class="link  dim" href="{{ footer_link.href }}">{{ footer_link.text }}</a></li>
+                    <li class="dib ml2 f6"><a class="black-70 dim" href="{{ footer_link.href }}">{{ footer_link.text }}</a></li>
                 {% endfor %}
             </ul>
         {% endblock %}
