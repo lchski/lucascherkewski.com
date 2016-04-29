@@ -1,14 +1,18 @@
 {% if item.linksWithItems is not empty %}
-    <p class="lh-copy">Related items:</p>
+    <p class="lh-copy">Connections with this item:</p>
 
     <ul>
         {% for linkWithItems in item.linksWithItems %}
             <li class="mt2">
+                <a class="black-70 dim" href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>
+                <ul>
                 {% for item in linkWithItems.items %}
-                    <a class="black-70 dim" href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
-                    {% if not loop.last %},{% endif %}
+                    <li>
+                        <a class="black-70 dim" href="{{ path_for('singleItem', {'id': item['id']}) }}">{{ item.title }}</a>
+                        {% if not loop.last %},{% endif %}
+                    </li>
                 {% endfor %}
-                (connected by: <a class="black-70 dim" href="{{ path_for('singleLink', {'id': linkWithItems['id']}) }}">{{ linkWithItems.title }}</a>)
+                </ul>
             </li>
         {% endfor %}
     </ul>
