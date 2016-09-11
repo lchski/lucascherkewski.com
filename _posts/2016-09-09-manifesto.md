@@ -47,8 +47,8 @@ need fertile soil within which to spread their roots and bloom.
 
 Anne Lamott points out that there are essentially two metaphors which encompass human experience: the river and the garden.[^lamott]
 All those other sites are rushing rivers, while a personal site is a growing garden. Admittedly, gardens can grow wild
-and unruly, as unregulated as those rushing rivers. It’s much easier, though, to guide a garden back to order than it is
-a river; furthermore, when you don’t own the river it’s that much harder to wield your own influence over it. We don’t
+and unruly, as unregulated as those rushing rivers; it’s much easier, though, to guide a garden back to order than it is
+a river. Furthermore, when you don’t own the river it’s that much harder to wield your own influence over it. We don’t
 own those convenient sites where we post our content. We own our own sites.
 
 [^lamott]: Anne Lamott, *Bird by Bird*, page XX
