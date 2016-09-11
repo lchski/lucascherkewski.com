@@ -17,7 +17,7 @@ title: Study (The Cherkewski View)
 		{% endif %}
 		<li class="{{ post_item_classes }}">
 			<a class="link dim light-purple f4 b" href="{{ post.url }}">{{ post.title }}</a>
-			<p class="f6 black-70">{{ post.subtitle }}</p>
+			<p class="f6 black-70">{{ post.subtitle }} <span class="i">({{ post.date | date: "%Y" }})</span></p>
 		</li>
 	{% endfor %}
 </ul>
