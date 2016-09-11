@@ -8,8 +8,8 @@
 <header>
 	{% case page.url %}
 		{% when '/' %}
-			<h1>Lucas Cherkewski</h1>
+			<h1 class="f3">Lucas Cherkewski</h1>
 		{% else %}
-			<p class="b"><a class="{{ 'link dim ' | append: colour_class }}" href="/">Lucas Cherkewski</a></p>
+			<p class="b"><a class="{{ 'link dim ' | append: colour_class }}" href="/">Lucas Cherkewski</a><span class="f3">&nbsp;</span></p>
 	{% endcase %}
 </header>

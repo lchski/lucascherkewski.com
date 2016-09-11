@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: study
 title:  "Welcome to Jekyll!"
 date:   2016-09-10 20:07:45 -0400
 categories: jekyll update

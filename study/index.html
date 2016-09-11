@@ -2,4 +2,10 @@
 layout: study
 ---
 
-Hello!
+<ul class="list pl0">
+	{% for post in site.posts %}
+		<li>
+			<a class="dim black-70" href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
