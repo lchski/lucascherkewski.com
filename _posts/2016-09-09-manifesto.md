@@ -5,6 +5,8 @@ subtitle: "A personal website manifesto"
 date: 2016-09-09 00:00:00 -0400
 ---
 
+{:h2: .f6 .ttu .tracked .mt5 .lh-title}
+
 What’s a personal website? What are these things all about? Why should we even bother to have one, when so many services
 exist to hold and display our content online?
 {: .f2}
@@ -12,7 +14,8 @@ exist to hold and display our content online?
 I’ve struggled with these questions for years: it’s resulted in bursts of energy towards new designs and new writing,
 coupled with long, long periods of quiet.
 
-<h2 class="f6 ttu tracked mt5 lh-title">Principles</h2>
+## Principles
+{:h2}
 
 Over a year ago, I sat down and wrote out a set of loose principles by which to craft a new personal site. Taken together,
 they show my intention with this latest iteration.
@@ -27,17 +30,31 @@ they show my intention with this latest iteration.
 * The web is loud, filled with noise, and huge. *Conscious, restrained cultivation is a real alternative to
   the web’s unchecked default.*
 
-This last point is the most important, in my mind: though the web’s natural state is a beautiful thing, it too often
-stops us from slowing to think. Other places for our content—Facebook, Twitter, Medium, and so on—offer convenient
-interfaces and stores for our thoughts, but they pressure us to senselessly throw our thoughts into the stream. A
-personal site provides a place for a slower, more considered pace.
+## The garden versus the river
+{:h2}
 
-Anne Lamott points out that there are essentially two metaphors to encompass human experience: the river and the garden.[^lamott]
-All those other sites are rushing rivers, while a personal site is a growing garden.
+The last principle is the most important, in my mind.
+
+The web’s natural state is pretty wild. There is *so much information* being constantly created, processed, and discarded.
+There are many places that people congregate to do this: Facebook, Twitter, Medium, and so on. It’s great that so many
+people feel empowered by these tools! People are giving *public* voice to their thoughts, and gaining the platform to do
+so, allowing more people than ever to exchange ideas and consider new viewpoints. This is a beautiful thing.
+
+But. This content churn stops us from slowing to think. These convenient third-party stores for our content—intentionally or not—
+pressure us to senselessly throw our thoughts into the stream. While it’s great to dive into the shared stream, it incessantly
+propels us forward, and discourages deep consideration or reflection. The seeds of thought can’t grow in a stream—they
+need fertile soil within which to spread their roots and bloom.
+
+Anne Lamott points out that there are essentially two metaphors which encompass human experience: the river and the garden.[^lamott]
+All those other sites are rushing rivers, while a personal site is a growing garden. Admittedly, gardens can grow wild
+and unruly, as unregulated as those rushing rivers. It’s much easier, though, to guide a garden back to order than it is
+a river; furthermore, when you don’t own the river it’s that much harder to wield your own influence over it. We don’t
+own those convenient sites where we post our content. We own our own sites.
 
 [^lamott]: Anne Lamott, *Bird by Bird*, page XX
 
-<h2 class="f6 ttu tracked mt5 lh-title">The Cherkewski View</h2>
+## The Cherkewski View
+{:h2}
 
 A few years ago, my friend Isaac suggested that I one day publish a book titled “The Cherkewski View”. I don’t foresee
 any books in my immediate future, but the title’s stuck with me—it may be slightly pretentious, but it’s also honest 
