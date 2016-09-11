@@ -9,7 +9,7 @@ What’s a personal website? What are these things all about? Why should we even
 exist to hold and display our content online?
 {: .f2}
 
-I’ve struggled with this question for years: it’s resulted in bursts of energy towards new designs and new writing,
+I’ve struggled with these questions for years: it’s resulted in bursts of energy towards new designs and new writing,
 coupled with long, long periods of quiet.
 
 <h2 class="f6 ttu tracked mt5 lh-title">Principles</h2>
