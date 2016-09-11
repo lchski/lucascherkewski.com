@@ -1,12 +1,13 @@
 ---
 layout: study--post
 title:  "Designated typist"
+subtitle: "Anne Lamott on letting your subject talk"
 date:   2016-09-10 22:00:00 -0400
 categories: reading
 ---
 
 <blockquote class="ml0 pl4 bl bw3 b--black-10 f4">
-<p class="measure">I imagine my characters, and let myself daydream about them. A movie begins to play in my head, with emotion pulsing underneath it, and I stare at it in a trancelike state, until words bounce around together and form a sentence. Then I do the menial work of getting it down on paper, because I’m the designated typist, and I’m also the person whose job it is to hold the lantern while the kid does the digging. What is the kid digging for? The *stuff*. Details and clues and images, invention, fresh ideas, an intuitive understanding of people. I tell you, the holder of the lantern doesn’t even know what the kid is digging for half the time—but she knows gold when she sees it.</p>
+<p class="measure">I imagine my characters, and let myself daydream about them. A movie begins to play in my head, with emotion pulsing underneath it, and I stare at it in a trancelike state, until words bounce around together and form a sentence. Then I do the menial work of getting it down on paper, because I’m the designated typist, and I’m also the person whose job it is to hold the lantern while the kid does the digging. What is the kid digging for? The <em>stuff</em>. Details and clues and images, invention, fresh ideas, an intuitive understanding of people. I tell you, the holder of the lantern doesn’t even know what the kid is digging for half the time—but she knows gold when she sees it.</p>
 <p class="f5 measure">(Anne Lamott, <span class="i">Bird by Bird: Some Instructions on Writing and Life</span>, pg. 56)</p>
 </blockquote>
 
