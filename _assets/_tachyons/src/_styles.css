@@ -6,6 +6,18 @@
 
 */
 
+/*
+RESET
+*/
+cite {
+	font-style: normal;
+}
+
+
+
+/*
+FOOTNOTES
+*/
 .footnotes {
 	border-top-style: dashed;
 	border-width: .25rem;
