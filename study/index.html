@@ -9,15 +9,15 @@ title: Study (The Cherkewski View)
 	This is where I write things, about my reading and more. Rather than a neat list of articles, think of this as a scattered collection of notes. This is thinking via the best medium: writing.
 </p>
 
-<ul class="list pl0 w-50-ns">
+<ul class="list pl0 w-50-ns mw6">
 	{% for post in site.posts %}
 		{% assign post_item_classes = 'b--black-20 pb2' %}
 		{% if forloop.last != true %}
 			{% assign post_item_classes = post_item_classes | append: ' bw1 bb' %}
 		{% endif %}
 		<li class="{{ post_item_classes }}">
-			<a class="link dim light-purple f4 b" href="{{ post.url }}">{{ post.title }}</a>
-			<p class="f6 black-70">{{ post.subtitle }} <span class="i">({{ post.date | date: "%Y" }})</span></p>
+			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ post.url }}">{{ post.title }}</a></h2>
+			<p class="f6 black-70 mt2">{{ post.subtitle }} <span class="i">({{ post.date | date: "%Y" }})</span></p>
 		</li>
 	{% endfor %}
 </ul>
