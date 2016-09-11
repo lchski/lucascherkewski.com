@@ -20,6 +20,12 @@
 		{% assign site_section_class = 'bg-near-white' %}
 {% endcase %}
 <body class="{{ 'pa4 sans-serif ' | append: site_section_class }}">
-    {{ content }}
+	{% include header.html %}
+
+	<main>
+    	{{ content }}
+	</main>
+
+	{% include footer.html %}
 </body>
 </html>
