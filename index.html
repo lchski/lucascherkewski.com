@@ -2,22 +2,28 @@
 layout: default
 ---
 
-<div class="home">
+<header>
+	<h1>Lucas Cherkewski</h1>
+</header>
 
-  <h1 class="page-heading">Posts</h1>
+<main>
+	<p class="measure f2 lh-copy">
+		I’m a designer in Ottawa, just doing my best.
+	</p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<p class="measure f3 lh-copy">
+		This site is a holding grounds for things related to me: <a class="dim purple" href="/office/">those I’ve worked
+		on</a>, and <a class="dim purple" href="/study/">those I’ve produced</a>.
+		This site has <a class="dim purple" href="/study/manifesto/">a manifesto</a>; though it’s hardly fully realised,
+		it suggests what a personal site could be.
+	</p>
+</main>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<footer>
+	<p class="f4 dib">&copy; {{ site.time | date: "%Y" }} Lucas Cherkewski</p>
+	<nav class="dib ml3">
+		<a class="dim purple" href="/">Home</a>
+		<a class="dim purple" href="/office/">Office</a>
+		<a class="dim purple" href="/study/">Study</a>
+	</nav>
+</footer>
