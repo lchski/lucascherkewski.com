@@ -10,7 +10,7 @@ date: 2016-09-11 16:15:00 -0400
 {:blockquote: .ml0 .pl4 .bl .bw3 .b--black-10 .f4}
 
 Picture it: You’re working on a web design project. Things are humming along well, until suddenly you hit it. That moment.
-*Here I am again*, you think, *that painful point in any project—designing the links.*
+*Here I am again*, you think, *that painful point in any project—dealing with the links.*
 
 You may know this moment well. Certainly, I‘ve grappled with it quite a few times, and still do.
 
@@ -23,16 +23,30 @@ This is the default link style: [Link to nowhere.](#){: #linkToNowhere} It’s q
 	document.getElementById('linkToNowhere').href = '#' + Date.now();
 </script>
 
-Jarring though it is, the default browser style has two qualities that make it extremely clear that the content is a link: a bright blue colour,
-high enough to create contrast against both the default white background and to stand out amongst the default black text;
-and an underline, to help those with difficulty discerning colours. These two qualities *ensure* that the link will stand out
-and be noticed.
-
 Unfortunately, our occasional inclination is to style links almost to the point of invisibility. We do this by muting the
 colours, bringing them much closer to that of the text, or by removing the underlines. There are any number of modifications
 that we make when it comes to links. It’s probably just an extreme reaction to the scary default style, but it’s worth questioning.
 
-See, links are the fundamental building block of the web. They’re *meaningful*. They carry weight. (With Google, literally
+## Accessibility
+{:h2}
+
+The first, most obvious, and most important reason to make links visible is for accessibility reasons.
+
+Different people have differeng levels of sight: some can discern the whole spectrum of colour with ease, some
+have difficulty discerning between specific shades, and some are severely limited in the ability to see colour. (This to
+say nothing of non-sighted individuals; make sure you’re using proper markup from the start to help those with screen
+readers.)
+
+Jarring though it is, the default browser style has two qualities that make it extremely visible that the content is a link:
+a bright blue colour, with high contrast both against the default white background and amongst the default black text;
+and an underline, to help those with greater difficulty in discerning colours. These two qualities *ensure* that the link will stand out
+and be noticed.
+
+## Building the web
+{:h2}
+
+Though it should be sufficient, if the accessibility argument isn’t enough, consider one about the spirit of the Internet.
+links are the fundamental building block of the web. They’re *meaningful*. They carry weight. (With Google, literally
 so.) We have links to thank for a huge part of the web’s success, and its power: with links, we construct the connections
 that make the web’s potential for disseminating information so potent.
 
