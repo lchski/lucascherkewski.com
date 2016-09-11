@@ -61,11 +61,11 @@ own those convenient sites where we post our content. We own our own sites.
 This is my little garden. I’m not very good at real gardening, so I’d prefer to get my hands dirty here. Expect to find
 many quotations and excerpts from whatever I’m reading, whether digital or physical. I’ll provide commentary sometimes,
 though the act of quoting is itself a form of commentary and may sometimes be all. In a moment of inconsistency (may 
-inconsistency be the only pattern in your life), I’m calling it [the Study](/study){:link} (alternately titled
+inconsistency be the only pattern in your life), I’m calling it [the study](/study){:link} (alternately titled
 *The Cherkewski View*[^cherkewski-view]).
 
 In addition to setting aside space for my thought garden, I’m creating a space to document my work (paid or otherwise).
-Appropriately, this space will be [my Office](/office){:link}. Stop by to see what I’ve been up to, and what I can do.
+Appropriately, this space will be [my office](/office){:link}. Stop by to see what I’ve been up to, and what I can do.
 
 Taken together, my study and my office form my home on the internet. It’s fitting to use these metaphors, because
 they describe well the place a personal site can have in our lives. By coming into my personal site, you’re stepping into
