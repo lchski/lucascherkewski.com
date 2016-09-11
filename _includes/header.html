@@ -1,8 +1,15 @@
+{% case layout.site_section %}
+	{% when 'office' %}
+		{% assign colour_class = 'white-70' %}
+	{% else %}
+		{% assign colour_class = 'black-80' %}
+{% endcase %}
+
 <header>
 	{% case page.url %}
 		{% when '/' %}
 			<h1>Lucas Cherkewski</h1>
 		{% else %}
-			<p class="b"><a class="link dim black-80" href="/">Lucas Cherkewski</a></p>
+			<p class="b"><a class="{{ 'link dim ' | append: colour_class }}" href="/">Lucas Cherkewski</a></p>
 	{% endcase %}
 </header>
