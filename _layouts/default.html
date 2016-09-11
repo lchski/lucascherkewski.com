@@ -4,7 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-    <title>{{ page.title }}</title>
+	{% assign page_title = page.title %}
+	{% if page.url != '/' %}
+		{% assign page_title = page_title | append: ' – Lucas Cherkewski' %}
+	{% endif %}
+
+    <title>{{ page_title }}</title>
 
     <meta name="author" content="">
     <meta name="description" content="">
