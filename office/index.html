@@ -9,3 +9,16 @@ title: Office
 	These are projects I’ve worked on through the years, both commercially and personally. It’s not an exhaustive list.
 	If you’re interested, or would like to know more, <a href="mailto:lucas@lucascherkewski.com" class="dim light-purple">send me an email</a>.
 </p>
+
+<ul class="list pl0 w-50-ns mw6">
+	{% for project in site.projects %}
+		{% assign project_item_classes = 'b--black-20 pb2' %}
+		{% if forloop.last != true %}
+			{% assign project_item_classes = project_item_classes | append: ' bw1 bb' %}
+		{% endif %}
+		<li class="{{ project_item_classes }}">
+			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ project.url }}">{{ project.title }}</a></h2>
+			<p class="f6 black-70 mt2">{{ project.subtitle }} <span class="i">({{ project.date | date: "%Y" }})</span></p>
+		</li>
+	{% endfor %}
+</ul>

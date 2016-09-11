@@ -23,6 +23,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lucascherkewski.com" # the base hostname & protocol for your site
 permalink: /study/:title/
 
+collections:
+  projects:
+    output: true
+    permalink: /office/:title/
+
+
 # Build settings
 markdown: kramdown
 exclude: [ _assets ]
