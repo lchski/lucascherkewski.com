@@ -18,7 +18,7 @@ title: Office
 		{% endif %}
 		<li class="{{ project_item_classes }}">
 			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ project.url }}">{{ project.title }}</a></h2>
-			<p class="f6 black-70 mt2">{{ project.subtitle }} <span class="i">({{ project.date | date: "%Y" }})</span></p>
+			<p class="f6 black-70 mt2">{{ project.subtitle }} <span class="i">({{ project.date_ui | default: project.date | date: "%Y" }})</span></p>
 		</li>
 	{% endfor %}
 </ul>
