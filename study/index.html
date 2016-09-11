@@ -11,8 +11,13 @@ title: Study (The Cherkewski View)
 
 <ul class="list pl0 w-50-ns">
 	{% for post in site.posts %}
-		<li class="bt bw1">
-			<a class="dim black-70 f4" href="{{ post.url }}">{{ post.title }}</a>
+		{% assign post_item_classes = 'b--black-20 pb2' %}
+		{% if forloop.last != true %}
+			{% assign post_item_classes = post_item_classes | append: ' bw1 bb' %}
+		{% endif %}
+		<li class="{{ post_item_classes }}">
+			<a class="link dim light-purple f4 b" href="{{ post.url }}">{{ post.title }}</a>
+			<p class="f6 black-70">{{ post.subtitle }}</p>
 		</li>
 	{% endfor %}
 </ul>
