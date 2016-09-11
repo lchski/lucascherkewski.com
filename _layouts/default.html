@@ -11,7 +11,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/assets/css/main.css">
 </head>
-<body class="pa4 sans-serif bg-near-white">
+{% case layout.site_section %}
+	{% when 'office' %}
+		{% assign site_section_class = 'bg-dark-gray' %}
+	{% when 'study' %}
+		{% assign site_section_class = 'bg-washed-yellow' %}
+	{% else %}
+		{% assign site_section_class = 'bg-near-white' %}
+{% endcase %}
+<body class="{{ 'pa4 sans-serif ' | append: site_section_class }}">
     {{ content }}
 </body>
 </html>
