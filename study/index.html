@@ -2,14 +2,16 @@
 layout: study
 ---
 
+<h1 class="f2">Study</h1>
+
 <p class="f3 measure lh-copy">
-	This is where I write things, about my reading and more. Rather than a neat list of articles, think of this as a scattered collection of notes. This is me thinking via the best medium: writing.
+	This is where I write things, about my reading and more. Rather than a neat list of articles, think of this as a scattered collection of notes. This is thinking via the best medium: writing.
 </p>
 
 <ul class="list pl0">
 	{% for post in site.posts %}
 		<li>
-			<a class="dim black-70" href="{{ post.url }}">{{ post.title }}</a>
+			<a class="dim black-70 f5" href="{{ post.url }}">{{ post.title }}</a>
 		</li>
 	{% endfor %}
 </ul>
