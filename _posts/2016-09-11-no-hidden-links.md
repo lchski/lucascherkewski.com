@@ -8,6 +8,7 @@ date: 2016-09-11 16:15:00 -0400
 {:h2: .f6 .ttu .tracked .mt5 .lh-title}
 {:link: .dim .light-purple}
 {:blockquote: .ml0 .pl4 .bl .bw3 .b--black-10 .f4}
+{:blockquote__citation: .f5 .measure}
 
 Picture it: You’re working on a web design project. Things are humming along well, until suddenly you hit it. That moment.
 *Here I am again*, you think, *that painful point in any project—dealing with the links.*
@@ -42,6 +43,16 @@ a bright blue colour, with high contrast both against the default white backgrou
 and an underline, to help those with greater difficulty in discerning colours. These two qualities *ensure* that the link will stand out
 and be noticed.
 
+WebAIM puts it best:
+
+> Links should look like links, and nothing else should. Users may get frustrated if they try to click on textual phrases or graphics that look like links but are not. They will also be frustrated if they have to move their mouse all over the page trying to discover links that do not look like links.
+> {: .measure}
+> <cite>WebAIM, [“Link Text and Appearance”](http://webaim.org/techniques/hypertext/link_text#appearance){:link}, *Links and Hypertext*</cite>
+> {:blockquote__citation}
+{:blockquote}
+
+Do not frustrate the people using your design. They’re people, just like you and I, and they deserve your respect.
+
 ## Building the web
 {:h2}
 
@@ -59,7 +70,7 @@ reach where it is today. The whole piece is engaging—certainly worth a read—
 > I would like us all to spend more time in the garden of forking paths. I would like us all to continue to grow this garden of forking paths. Add your own website to this garden of forking paths. Use it to make more links.
 > {: .measure}
 > <cite>Jeremy Keith, [*&lt;A&gt;*](https://adactio.com/articles/10887){:link}</cite>
-> {: .f5 .measure}
+> {:blockquote__citation}
 {:blockquote}
 
 With links—big, bold, beautiful, obvious links—we shout our participation in this Garden of Forking Paths. We position
