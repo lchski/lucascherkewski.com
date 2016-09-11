@@ -7,6 +7,7 @@ date: 2016-09-09 00:00:00 -0400
 
 What’s a personal website? What are these things all about? Why should we even bother to have one, when so many services
 exist to hold and display our content online?
+{: .f2}
 
 I’ve struggled with this question for years: it’s resulted in bursts of energy towards new designs and new writing,
 coupled with long, long periods of quiet.
@@ -23,9 +24,18 @@ they show my intention with this latest iteration.
 * Curious exploration is one of the most rewarding experiences; my personal website is like a long, rambling walk through
   my brain.
 * Our thoughts and beliefs change. A personal website is a place to document and celebrate this process.
-* The web is loud, filled with noise, and huge. Conscious, restrained cultivation is a real alternative to
-  the web’s unchecked default.
+* The web is loud, filled with noise, and huge. *Conscious, restrained cultivation is a real alternative to
+  the web’s unchecked default.*
 
+This last point is the most important, in my mind: though the web’s natural state is a beautiful thing, it too often
+stops us from slowing to think. Other places for our content—Facebook, Twitter, Medium, and so on—offer convenient
+interfaces and stores for our thoughts, but they pressure us to senselessly throw our thoughts into the stream. A
+personal site provides a place for a slower, more considered pace.
+
+Anne Lamott points out that there are essentially two metaphors to encompass human experience: the river and the garden.[^lamott]
+All those other sites are rushing rivers, while a personal site is a growing garden.
+
+[^lamott]: Anne Lamott, *Bird by Bird*, page XX
 
 <h2 class="f6 ttu tracked mt5 lh-title">The Cherkewski View</h2>
 
