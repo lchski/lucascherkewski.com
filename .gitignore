@@ -1,6 +1,3 @@
-node_modules/
-dist/
-vendor/
-.idea
-.env
-public/assets/
+_site
+.sass-cache
+.jekyll-metadata
