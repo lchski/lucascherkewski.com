@@ -1,3 +1,8 @@
 <header>
-	<h1>Lucas Cherkewski</h1>
+	{% case page.url %}
+		{% when '/' %}
+			<h1>Lucas Cherkewski</h1>
+		{% else %}
+			<p class="b"><a class="link dim black-80" href="/">Lucas Cherkewski</a></p>
+	{% endcase %}
 </header>
