@@ -18,5 +18,7 @@ With Chris taking the lead on project management and design, I worked as a desig
 ## A new look (2014)
 {:h2}
 
+![Superfeedr’s redesigned dashboard, with a focus on statistics and commonly-used functions](/assets/img/superfeedr.png)
+
 After five years, Superfeedr’s dashboard was in serious need of repair. This redesign brought all the features of this
 API-based service into a clean, usable interface underpinned by a consistent design language.
