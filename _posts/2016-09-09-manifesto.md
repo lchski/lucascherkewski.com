@@ -6,6 +6,7 @@ date: 2016-09-09 00:00:00 -0400
 ---
 
 {:h2: .f6 .ttu .tracked .mt5 .lh-title}
+{:link: .dim .light-purple}
 
 What’s a personal website? What are these things all about? Why should we even bother to have one, when so many services
 exist to hold and display our content online?
@@ -38,7 +39,8 @@ The last principle is the most important, in my mind.
 The web’s natural state is pretty wild. There is *so much information* being constantly created, processed, and discarded.
 There are many places that people congregate to do this: Facebook, Twitter, Medium, and so on. It’s great that so many
 people feel empowered by these tools! People are giving *public* voice to their thoughts, and gaining the platform to do
-so, allowing more people than ever to exchange ideas and consider new viewpoints. This is a beautiful thing.
+so, allowing more people than ever to exchange ideas and consider new viewpoints. This is a beautiful thing, and I plan
+to continue using [Twitter](https://twitter.com/lchski){:link} for random notes.
 
 But. This content churn stops us from slowing to think. These convenient third-party stores for our content—intentionally or not—
 pressure us to senselessly throw our thoughts into the stream. While it’s great to dive into the shared stream, it incessantly
@@ -53,10 +55,24 @@ own those convenient sites where we post our content. We own our own sites.
 
 [^lamott]: Anne Lamott, *Bird by Bird*, page XX
 
-## The Cherkewski View
+## My garden
 {:h2}
 
-A few years ago, my friend Isaac suggested that I one day publish a book titled “The Cherkewski View”. I don’t foresee
-any books in my immediate future, but the title’s stuck with me—it may be slightly pretentious, but it’s also honest 
-enough to suit what I’m trying to accomplish here. Thanks for the name, Isaac—you may have meant it as a joke, but it’s
-one I took seriously. :)
+This is my little garden. I’m not very good at real gardening, so I’d prefer to get my hands dirty here. Expect to find
+many quotations and excerpts from whatever I’m reading, whether digital or physical. I’ll provide commentary sometimes,
+though the act of quoting is itself a form of commentary and may sometimes be all. In a moment of inconsistency (may 
+inconsistency be the only pattern in your life), I’m calling it [the Study](/study){:link} (subtitled *The Cherkewski View*[^cherkewski-view]).
+
+In addition to setting aside space for my thought garden, I’m creating a space to document my work (paid or otherwise).
+Appropriately, this space will be [my Office](/office){:link}. Stop by to see what I’ve been up to, and what I can do.
+
+Taken together, my study and my office form my home on the internet. It’s fitting to use these metaphors, because
+they describe well the place a personal site can have in our lives. By coming into my personal site, you’re stepping into
+my home. It may be messy sometimes, but it’s also one of the best embodiments of who I am.
+
+[^cherkewski-view]:
+	A few years ago, my friend Isaac suggested that I one day publish a book titled *The Cherkewski View*. I don’t foresee
+	any books in my immediate future, but the title’s stuck with me—it may be slightly pretentious, but it’s also honest 
+	enough to suit what I’m trying to accomplish here. Thanks for the name, Isaac—you may have meant it as a joke, but it’s
+	one I took seriously!
+
