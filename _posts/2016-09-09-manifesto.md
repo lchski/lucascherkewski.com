@@ -61,7 +61,8 @@ own those convenient sites where we post our content. We own our own sites.
 This is my little garden. I’m not very good at real gardening, so I’d prefer to get my hands dirty here. Expect to find
 many quotations and excerpts from whatever I’m reading, whether digital or physical. I’ll provide commentary sometimes,
 though the act of quoting is itself a form of commentary and may sometimes be all. In a moment of inconsistency (may 
-inconsistency be the only pattern in your life), I’m calling it [the Study](/study){:link} (subtitled *The Cherkewski View*[^cherkewski-view]).
+inconsistency be the only pattern in your life), I’m calling it [the Study](/study){:link} (alternately titled
+*The Cherkewski View*[^cherkewski-view]).
 
 In addition to setting aside space for my thought garden, I’m creating a space to document my work (paid or otherwise).
 Appropriately, this space will be [my Office](/office){:link}. Stop by to see what I’ve been up to, and what I can do.
