@@ -3,6 +3,7 @@ layout: office--project
 title: "Superfeedr"
 subtitle: "Updating and uniting a brand"
 date_ui: "2014-2016"
+date: 2016-09-11 00:00:00 -0400
 ---
 
 {:h2: .f6 .ttu .tracked .mt5 .lh-title}

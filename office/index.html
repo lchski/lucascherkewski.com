@@ -11,7 +11,8 @@ title: Office
 </p>
 
 <ul class="list pl0 w-50-ns mw6">
-	{% for project in site.projects %}
+	{% assign sorted_projects = (site.projects | sort: 'date') | reverse %}
+	{% for project in sorted_projects %}
 		{% assign project_item_classes = 'b--black-20 pb2' %}
 		{% if forloop.last != true %}
 			{% assign project_item_classes = project_item_classes | append: ' bw1 bb' %}
