@@ -23,7 +23,7 @@ With Chris taking the lead on project management and design, I worked as a desig
 ![Superfeedr’s redesigned dashboard, with a focus on statistics and commonly-used functions](/assets/img/superfeedr.png)
 
 After five years, Superfeedr’s dashboard was in serious need of repair. For this part of the project, we researched what
-Superfeedr’s users most wanted to get out of a new back-end interface, and worked to accomplisht those goals. This redesign brought
+Superfeedr’s users most wanted to get out of a new back-end interface, and worked to accomplish those goals. This redesign brought
 all the features of this API-based service into a clean, usable interface underpinned by a consistent design language.
 
 ## A shared design language (2016)
