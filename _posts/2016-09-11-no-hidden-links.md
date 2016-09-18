@@ -78,4 +78,4 @@ ourselves within the huge network that is the web, capitalizing on te relative i
 it fosters. We shouldn’t be ashamed of our links, styling them to near-invisibility. We should embrace them, styling
 them to be obvious.
 
-Links are the foundation of the web. Go make some.
+Links are the foundation of the web. Go make some—then display them proudly.
