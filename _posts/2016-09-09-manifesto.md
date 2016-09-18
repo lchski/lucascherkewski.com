@@ -71,6 +71,13 @@ Taken together, my study and my office form my home on the internet. It’s fitt
 they describe well the place a personal site can have in our lives. By coming into my personal site, you’re stepping into
 my home. It may be messy sometimes, but it’s also one of the best embodiments of who I am.
 
+Another excellent description of my goal here comes from Marcus Aurelius, a 2<sup>nd</sup> century Roman emperor, who commands,
+“To enter others’ minds and let them enter yours.”[^aurelius]
+
+[^aurelius]: Marcus Aurelius, *Meditations*, pg. 114 (Hays Translation, 8.61) 
+
+This site is where I attempt to enter other minds, and, in doing so, permit you to enter mine. Welcome.
+
 [^cherkewski-view]:
 	A few years ago, my friend Isaac suggested that I one day publish a book titled *The Cherkewski View*. I don’t foresee
 	any books in my immediate future, but the title’s stuck with me—it may be slightly pretentious, but it’s also honest 
