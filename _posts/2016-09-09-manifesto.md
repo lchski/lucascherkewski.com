@@ -75,7 +75,7 @@ my home. It may be messy sometimes, but it’s also one of the best embodiments 
 ---
 {:hr}
 
-Another excellent description of my goal here comes from Marcus Aurelius, a 2<sup>nd</sup> century Roman emperor, who commands,
+To borrow greater words, I close with some from Marcus Aurelius, a 2<sup>nd</sup> century Roman emperor:
 “To enter others’ minds and let them enter yours.”[^aurelius]
 
 [^aurelius]: Marcus Aurelius, *Meditations*, pg. 114 (Hays Translation, 8.61) 
