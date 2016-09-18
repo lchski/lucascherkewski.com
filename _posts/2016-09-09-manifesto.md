@@ -7,6 +7,7 @@ date: 2016-09-09 00:00:00 -0400
 
 {:h2: .f6 .ttu .tracked .mt5 .lh-title}
 {:link: .dim .light-purple}
+{:hr: .w-40 .mv5 .bw1 .ba .b--black-10}
 
 What’s a personal website? What are these things all about? Why should we even bother to have one, when so many services
 exist to hold and display our content online?
@@ -70,6 +71,9 @@ Appropriately, this space will be [my office](/office){:link}. Stop by to see wh
 Taken together, my study and my office form my home on the internet. It’s fitting to use these metaphors, because
 they describe well the place a personal site can have in our lives. By coming into my personal site, you’re stepping into
 my home. It may be messy sometimes, but it’s also one of the best embodiments of who I am.
+
+---
+{:hr}
 
 Another excellent description of my goal here comes from Marcus Aurelius, a 2<sup>nd</sup> century Roman emperor, who commands,
 “To enter others’ minds and let them enter yours.”[^aurelius]
