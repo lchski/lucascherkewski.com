@@ -13,7 +13,7 @@ date: 2016-09-11 16:15:00 -0400
 Picture it: You’re working on a web design project. Things are humming along well, until suddenly you hit it. That moment.
 *Here I am again*, you think, *that painful point in any project—dealing with the links.*
 
-You may know this moment well. Certainly, I‘ve grappled with it quite a few times, and still do.
+You may know this moment well. Certainly, I’ve grappled with it quite a few times, and still do.
 
 Browsers don’t help the issue much: the default link style is so garish, so brash, that we’re inclined to do something,
 *anything*, to get it looking respectable.
@@ -57,7 +57,7 @@ Do not frustrate the people using your design. They’re people, just like you a
 {:h2}
 
 Though it should be sufficient, if the accessibility argument isn’t enough, consider one about the spirit of the Internet.
-links are the fundamental building block of the web. They’re *meaningful*. They carry weight. (With Google, literally
+Links are the fundamental building block of the web. They’re *meaningful*. They carry weight. (With Google, literally
 so.) We have links to thank for a huge part of the web’s success, and its power: with links, we construct the connections
 that make the web’s potential for disseminating information so potent.
 
@@ -74,7 +74,7 @@ reach where it is today. The whole piece is engaging—certainly worth a read—
 {:blockquote}
 
 With links—big, bold, beautiful, obvious links—we shout our participation in this Garden of Forking Paths. We position
-ourselves within the huge network that is the web, capitalizing on te relative instead of hierarchical organisation that
+ourselves within the huge network that is the web, capitalizing on the relative instead of hierarchical organisation that
 it fosters. We shouldn’t be ashamed of our links, styling them to near-invisibility. We should embrace them, styling
 them to be obvious.
 
