@@ -39,7 +39,7 @@ The last principle is the most important, in my mind.
 
 The web’s natural state is pretty wild. There is *so much information* being constantly created, processed, and discarded.
 There are many places that people congregate to do this: Facebook, Twitter, Medium, and so on. It’s great that so many
-people feel empowered by these tools! People are giving *public* voice to their thoughts, and gaining the platform to do
+people feel empowered by these tools. People are giving *public* voice to their thoughts, and gaining the platform to do
 so, allowing more people than ever to exchange ideas and consider new viewpoints. This is a beautiful thing, and I plan
 to continue using [Twitter](https://twitter.com/lchski){:link} for random notes.
 
