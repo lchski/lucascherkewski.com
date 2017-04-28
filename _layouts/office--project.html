@@ -11,7 +11,11 @@ site_section: office
 	</header>
 
 	<div class="f3 measure lh-copy serif">
-		{{ content }}
+		{% if page.published == true %}
+			{{ content }}
+		{% else %}
+			<p class="i">I’m still writing this project’s description.</p>
+		{% endif %}
 	</div>
 
 </article>
