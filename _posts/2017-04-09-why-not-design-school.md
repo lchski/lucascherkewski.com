@@ -1,6 +1,11 @@
 ---
-published: true
+layout: study--post
+title:  "Why not design school"
+subtitle: "Michael Bierut answers the question I receive most often"
+date:   2017-04-09 22:00:00 -0400
+categories: reading
 ---
+
 *What do you study?* Political science and history.
 
 *But don’t you design websites?* Yeah.
