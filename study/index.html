@@ -1,0 +1,24 @@
+---
+layout: study
+title: Study (The Cherkewski View)
+---
+
+<h1 class="f2">Study</h1>
+
+<p class="f3 measure lh-copy">
+	This is where I write, about my reading and more. Rather than a neat list of articles, think of this as a
+	scattered collection of notes. This is public thinking via the best medium: writing.
+</p>
+
+<ul class="list pl0 w-50-ns mw6">
+	{% for post in site.posts %}
+		{% assign post_item_classes = 'b--black-20 pb2' %}
+		{% if forloop.last != true %}
+			{% assign post_item_classes = post_item_classes | append: ' bw1 bb' %}
+		{% endif %}
+		<li class="{{ post_item_classes }}">
+			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ post.url }}">{{ post.title }}</a></h2>
+			<p class="f6 black-70 mt2">{{ post.subtitle }} <span class="i">({{ post.date | date: "%Y" }})</span></p>
+		</li>
+	{% endfor %}
+</ul>

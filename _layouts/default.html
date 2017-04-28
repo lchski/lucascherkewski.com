@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+	{% assign page_title = page.title %}
+	{% if page.url != '/' %}
+		{% assign page_title = page_title | append: ' – Lucas Cherkewski' %}
+	{% endif %}
+
+    <title>{{ page_title }}</title>
+
+    <meta name="author" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+{% case layout.site_section %}
+	{% when 'office' %}
+		{% assign site_section_class = 'bg-washed-green' %}
+	{% when 'study' %}
+		{% assign site_section_class = 'bg-washed-yellow' %}
+	{% else %}
+		{% assign site_section_class = 'bg-near-white' %}
+{% endcase %}
+<body class="{{ 'pa4 sans-serif ' | append: site_section_class }}">
+	{% include header.html %}
+
+	<main>
+    	{{ content }}
+	</main>
+
+	{% include footer.html %}
+</body>
+</html>

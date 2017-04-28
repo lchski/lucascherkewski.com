@@ -1,0 +1,25 @@
+---
+layout: office
+title: Office
+---
+
+<h1 class="f2">Office</h1>
+
+<p class="f3 measure lh-copy">
+	These are projects I’ve worked on through the years, both commercially and personally. It’s not an exhaustive list.
+	If you’re interested, let’s <a class="dim light-purple" href="/office/working-together/">learn more about how we can work together</a>.
+</p>
+
+<ul class="list pl0 w-50-ns mw6">
+	{% assign sorted_projects = (site.projects | sort: 'date') | reverse %}
+	{% for project in sorted_projects %}
+		{% assign project_item_classes = 'b--black-20 pb2' %}
+		{% if forloop.last != true %}
+			{% assign project_item_classes = project_item_classes | append: ' bw1 bb' %}
+		{% endif %}
+		<li class="{{ project_item_classes }}">
+			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ project.url }}">{{ project.title }}</a></h2>
+			<p class="f6 black-70 mt2">{{ project.subtitle }} <span class="i">({{ project.date_ui | default: project.date | date: "%Y" }})</span></p>
+		</li>
+	{% endfor %}
+</ul>
