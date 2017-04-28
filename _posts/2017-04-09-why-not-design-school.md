@@ -6,6 +6,8 @@ date:   2017-04-09 22:00:00 -0400
 categories: reading
 ---
 
+{:link: .dim .light-purple}
+
 *What do you study?* Political science and history.
 
 *But don’t you design websites?* Yeah.
@@ -20,8 +22,8 @@ Enter Michael Bierut.
 
 Two essays of his answer the question more effectively than I ever have:
 
-1. [Warning: May Contain Non-Design Content](http://designobserver.com/feature/warning-may-contain-non-design-content/4137)
-2. [Why Designers Can’t Think](http://risd.generic.cx/why.html)
+1. [Warning: May Contain Non-Design Content](http://designobserver.com/feature/warning-may-contain-non-design-content/4137){:link}
+2. [Why Designers Can’t Think](http://risd.generic.cx/why.html){:link}
 
 I came across them excitedly, because they word my thoughts so well.
 Maybe they’ll help others understand why I’m not at design school.
