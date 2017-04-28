@@ -24,6 +24,7 @@ Two essays of his answer the question more effectively than I ever have:
 
 1. [Warning: May Contain Non-Design Content](http://designobserver.com/feature/warning-may-contain-non-design-content/4137){:link}
 2. [Why Designers Can’t Think](http://risd.generic.cx/why.html){:link}
+{: .pl5}
 
 I came across them excitedly, because they word my thoughts so well.
 Maybe they’ll help others understand why I’m not at design school.
