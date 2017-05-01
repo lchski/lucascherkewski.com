@@ -29,5 +29,5 @@ collections:
 
 # Build settings
 markdown: kramdown
-exclude: [ _assets ]
+exclude: [ _assets, deploy.sh, Gemfile, Gemfile.lock ]
 timezone: America/Toronto
