@@ -6,7 +6,9 @@ date:   2017-04-30 22:00:00 -0400
 categories: politics
 ---
 
-Well, [the Liberals have abandoned some of their most “contentious” plans for reforming the House](http://www.cbc.ca/news/politics/wherry-liberals-parliament-reform-1.4092596). That’s good. But the remains still fail the democratic sniff test.
+{:link: .dim .light-purple}
+
+Well, [the Liberals have abandoned some of their most “contentious” plans for reforming the House](http://www.cbc.ca/news/politics/wherry-liberals-parliament-reform-1.4092596){:link}. That’s good. But the remains still fail the democratic sniff test.
 
 The reforms left on the table are pretty tame. But the process to pass them won’t be. The Liberals justify pushing the remaining reforms through—likely with a whipped vote—because they’re campaign commitments. This makes sense for most policies, but how many voters voted specifically to reform some arcane House rules? This isn’t a question we can answer, of course. It doesn’t take much, however, to realize that changing House rules and procedure is a different matter than most policy issues.
 
