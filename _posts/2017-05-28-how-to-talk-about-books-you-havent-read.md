@@ -6,7 +6,9 @@ date:   2017-05-28 20:45:00 -0400
 categories: reading-writing
 ---
 
-In *How to Talk About Books You Haven’t Read* Pierre Bayard argues that reading books should never get in the way of writing. Probably. I say probably because this book is—[as Mandy Brown puts it](http://aworkinglibrary.com/reading/how-to-talk-about-books-you-havent-read/)—“very French.” Following Bayard down his various twisted alleyways of thought is an enjoyable exercise.
+{:link: .dim .light-purple}
+
+In *How to Talk About Books You Haven’t Read* Pierre Bayard argues that reading books should never get in the way of writing. Probably. I say probably because this book is—[as Mandy Brown puts it](http://aworkinglibrary.com/reading/how-to-talk-about-books-you-havent-read/){:link}—“very French.” Following Bayard down his various twisted alleyways of thought is an enjoyable exercise.
 
 He opens by cataloguing four modes of not reading:
 
