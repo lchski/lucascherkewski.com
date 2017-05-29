@@ -17,6 +17,6 @@ He opens by cataloguing four modes of not reading:
 3. Reducing books to their essence through judicious skimming
 4. Acknowledging that we forget more about books than we ever take away, making those takeaways all the more potent
 
-Building from these, Bayard provides his perspective on how all reading and writing is ultimately personal. Each reader takes from a book their own ideas, usually a reflection of their inner thoughts. To produce great personal writing requires rejecting the constraints of cultural thought. To be sure, we need to experience enough of culture—enough of a book—to know ourselves, but once we’ve hit that understanding we ought to put the book down and start writing.
+Building from these, Bayard provides his perspective on how all reading and writing is ultimately personal. Each reader takes from a book their own ideas, usually a reflection of their inner thoughts. To produce great personal writing requires rejecting the constraints of cultural thought. To be sure, we need to experience enough of culture—enough of a book—to know ourselves, but once we’ve hit that understanding we ought to put the book down and start writing. Read to write.
 
 If you care about reading and writing, read this book. Or skim it. Or don’t read it, and take from these words here what you need for your own writing. Doubtless you’ll understand Bayard differently than I, and that’s precisely the point.
