@@ -1,0 +1,5 @@
+Why read? Why read broadly when books make usually the same point, just in new contexts? The books we read often make the same arguments that writers have argued for thousands of years. What’s the value in reading, then?
+
+When we read, we rarely *read* the entirety of the text. Even if we spend sufficient time on each word to understand its meaning, our mind invariably drifts to other thoughts. The power of reading is to direct that drift: our idle mind is driven toward an idea inspired by the text, though that idea may not be directly related to it. I remember Eco—or was it Manguel?—writing of the book that inspired the solution to his thesis. Upon returning to that book so many years later, he discovered that the idea he remembered from it had never been there at all.
+
+The power of books is in their ideas, yes, but especially in how those ideas direct us to our own understanding. We may encounter the same ideas repeatedly, yet we do not *realize* them until the proper encounter. This is the power of reading: to inspire our own realization.
