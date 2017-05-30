@@ -1,7 +1,7 @@
 ---
 layout: study--post
 title: 'Paying for news'
-subtitle: 'Dave Winer offers an interesting proposal to pay for news from multiple outlets.'
+subtitle: 'Dave Winer offers an interesting proposal to pay for news from multiple outlets'
 date: '2017-05-30 17:00:00 -0400'
 categories: news-media
 published: true
