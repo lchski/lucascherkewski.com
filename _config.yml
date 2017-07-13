@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Cherkewski View
-email: lucas@ucascherkewski.com
+email: lucas@lucascherkewski.com
 description: > # this means to ignore newlines until "baseurl:"
   The personal website of Lucas Cherkewski.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,5 +29,5 @@ collections:
 
 # Build settings
 markdown: kramdown
-exclude: [ _assets, deploy.sh, Gemfile, Gemfile.lock, README.md ]
+exclude: [ _assets, make-it-so.sh, Gemfile, Gemfile.lock, README.md ]
 timezone: America/Toronto
