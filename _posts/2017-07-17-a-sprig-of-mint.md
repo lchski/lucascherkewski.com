@@ -1,6 +1,6 @@
 ---
 layout: study--post
-title: '“I wouldn’t” by John Vance Chaney'
+title: '“I wouldn’t” by John Vance Cheney'
 subtitle: 'A perfect summertime poem'
 date: '2017-07-13 17:00:00 -0400'
 categories: poetry reading
