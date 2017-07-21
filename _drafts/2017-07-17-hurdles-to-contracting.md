@@ -19,3 +19,6 @@ contracting is laden with jargon. Potential contractors shouldn’t have to wade
 glossary to understand the proposal process. Plain language alternatives abound; government should use them.
 
 Aside from an overabundance of passive voice constructions
+
+https://buyandsell.gc.ca/procurement-data/tender-notice/PW-17-00786791
+https://buyandsell.gc.ca/cds/public/2017/07/14/953a858f885807fdc56876f42800594c/loi_no._24062-180072a.pdf
