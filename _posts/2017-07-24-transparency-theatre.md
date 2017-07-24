@@ -35,9 +35,9 @@ Departments across the federal government have a mix of reporting techniques. Fo
 years—and for some departments, to this day—departments released information about contracts
 on a website such as [this one, from the Department of Justice](http://www.justice.gc.ca/eng/trans/pd-dp/contra/rep-rap.asp){:link}.
 A long list of quarters leads to a long list of contracts, and each contract page yields data
-about that contract. This system, however, lacks a way
+about that contract.
 
-For those interested in government contracting at a large scale, there is no simple method to
+For those interested in government contracting at a large scale, this system has no simple method to
 access the details for multiple or all contracts at once. You need to page through to each contract
 and note the data yourself, or write a [tool](https://github.com/GoC-Spending/goc-spending-mini){:link}
 that does this for you.
