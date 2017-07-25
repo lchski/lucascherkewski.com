@@ -38,6 +38,10 @@ FOOTNOTES
 		color: var(--light-purple);
 	}
 
+	.reversefootnote {
+		font-size: .875rem;
+	}
+
 .reversefootnote,
 .footnote {
 	opacity: 1;
