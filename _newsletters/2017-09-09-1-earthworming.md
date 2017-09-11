@@ -12,9 +12,15 @@ I’m now, happily, back in Ottawa. I’m figuring out where I want to devote my
 
 ![Many books, sitting in piles on the floor](https://lucascherkewski.com/assets/img/newsletters/1/shelving-1-medium.jpg)
 
+*Unpacking, stacking, and sorting the books*
+
 ![Those same books filling a stack of bookshelves](https://lucascherkewski.com/assets/img/newsletters/1/shelving-2-medium.jpg)
 
+*The books loaded onto the main shelves*
+
 ![A few of those books sitting on an overflow shelf](https://lucascherkewski.com/assets/img/newsletters/1/shelving-3-medium.jpg)
+
+*The overflow fiction section, occupying the top of my dresser*
 
 I’d like to talk for a bit about my books.
 
