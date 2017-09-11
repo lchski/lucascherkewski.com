@@ -40,7 +40,7 @@ One of the best books I read this summer was *How to Tell When You’re Tired*, 
 
 Some of Theriault’s major themes: we must respect workers (of all kinds); work is social in nature (this is one of the non-economic costs associated with the cuts automation inevitably brings, the loss of work as a social environment); and the need to “give everyone hope for the future.”
 
-That last theme is worth elaborating a bit further. In the section the quotation is from, Theriault discusses providing paths toward meaningful advancement, even if that’s outside of management. The technology industry certainly grapples with this problem. How can you advance as a developer or a designer if you don’t want to become a manager? Theriault points out that, quite simply, “Everyone cannot be a boss; there are not that many openings.” Finding ways to reward people for their service beyond a move up the [org chart](https://en.wikipedia.org/wiki/Organizational_chart) is essential to caring for the people who work for you.
+That last theme is worth elaborating. In the section the quotation is from, Theriault discusses providing paths toward meaningful advancement, even if that’s outside of management. The technology industry certainly grapples with this problem. How can you advance as a developer or a designer if you don’t want to become a manager? Theriault points out that, quite simply, “Everyone cannot be a boss; there are not that many openings.” Finding ways to reward people for their service beyond a move up the [org chart](https://en.wikipedia.org/wiki/Organizational_chart) is essential to caring for the people who work for you.
 
 The other way I think this theme develops is exemplified with this quotation:
 
@@ -52,7 +52,7 @@ There’ll be more from this handy little book sometime in the future. If you ca
 
 ## Digging in and putting out roots
 
-I’ve been thinking a lot about local community: how to support your local community (communities), how community can hold so many distinct meanings and take a multitude of forms, and how to cultivate communities. I don’t have answers for most of these thoughts, though I reckon that the latter, about cultivating communities, depends very much on context.
+I’ve been thinking a lot about local community: how to support your local community (communities), how community can hold so many distinct meanings and take a multitude of forms, and how to cultivate communities. I don’t have answers for most of these thoughts, though I reckon that the latter, about cultivating communities, depends very much on context. I’m still playing through different perspectives on these issues—if you have any thoughts on any of them, I’d love to hear them.
 
 The title of this section is quite intentional. My thinking on this issue has intensified thanks to seeing [*Look and See* at Princess Cinemas](http://www.princesscinemas.com/movie/look-see-a-portrait-of-wendell-berry) (ahh, the Original Princess) while I was in Waterloo last week. *Look and See* is a documentary profiling the life and works of Wendell Berry, the American farmer and writer.
 
