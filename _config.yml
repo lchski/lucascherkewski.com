@@ -25,6 +25,9 @@ collections:
   projects:
     output: true
     permalink: /office/:title/
+  newsletters:
+    output: true
+    permalink: /hit-and-miss/:title/
 
 
 # Build settings
