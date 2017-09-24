@@ -1,0 +1,26 @@
+---
+layout: study
+title: Hit and Miss
+---
+
+<h1 class="f2 i">Hit and Miss</h1>
+
+<p class="f3 measure lh-copy">
+	I publish a small weekly newsletter titled <i>Hit and Miss</i>. In it, I write about whatever
+	I’ve been reading each week, usually with some tilt toward the interaction of technology and
+	society. Check out the archive below—if it interests you, <a class="dim light-purple" href="https://buttondown.email/lchski">please consider subscribing</a>.
+</p>
+
+<ul class="list pl0 w-50-ns mw6">
+	{% assign sorted_newsletters = (site.newsletters | sort: 'date') | reverse %}
+	{% for newsletter in sorted_newsletters %}
+		{% assign newsletter_item_classes = 'b--black-20 pb2' %}
+		{% if forloop.last != true %}
+			{% assign newsletter_item_classes = newsletter_item_classes | append: ' bw1 bb' %}
+		{% endif %}
+		<li class="{{ newsletter_item_classes }}">
+			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ newsletter.url }}">{{ newsletter.title }}</a></h2>
+			<p class="f6 black-70 mt2">{{ newsletter.subtitle }} <span class="i">({{ newsletter.date | date: '%B ~%dth, %Y' | replace: '~0', '' | replace: '~', '' | replace: '1th', '1st' | replace: '2th', '2nd' | replace: '3th', '3rd' | replace: '11st', '11th' | replace: '12nd', '12th' | replace: '13rd', '13th' }})</span></p>
+		</li>
+	{% endfor %}
+</ul>
