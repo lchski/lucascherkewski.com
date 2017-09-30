@@ -17,8 +17,8 @@ title: Study (The Cherkewski View)
 			{% assign post_item_classes = post_item_classes | append: ' bw1 bb' %}
 		{% endif %}
 		<li class="{{ post_item_classes }}">
-			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ post.url }}">{{ post.title }}</a></h2>
-			<p class="f6 black-70 mt2 lh-copy">{{ post.subtitle }} <span class="i">({{ post.date | date: "%Y" }})</span></p>
+			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
+			<p class="f6 black-70 mt2 lh-copy">{{ post.subtitle | markdownify | remove: '<p>' | remove: '</p>' }} <span class="i">({{ post.date | date: "%Y" }})</span></p>
 		</li>
 	{% endfor %}
 </ul>
