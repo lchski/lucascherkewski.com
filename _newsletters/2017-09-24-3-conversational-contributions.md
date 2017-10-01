@@ -43,4 +43,4 @@ On an indulgent closing note, I’d like to share that [I was in the CBC this we
 
 Thanks to everyone whose conversations over the years set me up for where I am today. We may not have realized the value of those chats at the time, but hopefully they benefit us both with time. Here’s to many more.
 
-*Sent from Ottawa, Ontario on September 24<sup>th</sup>, 2017..*
+*Sent from Ottawa, Ontario on September 24<sup>th</sup>, 2017.*
