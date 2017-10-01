@@ -1,6 +1,20 @@
+---
+layout: study--newsletter
+title: 'Loving libraries'
+number: '4'
+date: '2017-10-01 19:40:00 -0400'
+published: true
+---
+
+{:h2: .f6 .ttu .tracked .mt5 .lh-title}
+{:link: .dim .light-purple}
+{:blockquote: .ml0 .pl4 .bl .bw3 .b--black-10 .f4}
+{:blockquote__citation: .f5 .measure}
+{:hr: .w-40 .mv5 .bw1 .ba .b--black-10}
+
 It’s time to nerd out about libraries. I love that we have places that collect lots of books and enable us to enjoy them well into the future.
 
-To start, here’s [a surprisingly fiery thread from the McMaster Rare Books official Twitter account](https://twitter.com/MacResColls/status/913842397800534016). Who said that librarians were shy? I like this thread because it speaks to some of the great challenges faced by libraries and archives, in no uncertain terms: though they collect essential traces of the past, they lack so much  of the support required to do so. (This thread also led me to learn about McMaster’s [Bertrand Russell Research Centre](http://russell.mcmaster.ca), including [its origin story](http://www.mcmaster.ca/russdocs/purchase.htm)—very cool stuff!)
+To start, here’s [a surprisingly fiery thread from the McMaster Rare Books official Twitter account](https://twitter.com/MacResColls/status/913842397800534016){:link}. Who said that librarians were shy? I like this thread because it speaks to some of the great challenges faced by libraries and archives, in no uncertain terms: though they collect essential traces of the past, they lack so much  of the support required to do so. (This thread also led me to learn about McMaster’s [Bertrand Russell Research Centre](http://russell.mcmaster.ca){:link}, including [its origin story](http://www.mcmaster.ca/russdocs/purchase.htm){:link}—very cool stuff!)
 
 Since financial support isn’t really feasible from me, I’d like to share some library love. Here are some of my favourite libraries, and a little note on why I love them so:
 
@@ -17,4 +31,4 @@ Why am I talking about libraries so much? They’ve been on my mind a lot lately
 
 To close, I’d like to share a quotation from Umberto Eco: “Although we sometimes go to the library to find a book that we already know exists, we often go to the library to find out *if* a book exists, or to discover books about which we have no previous knowledge.” (*How to Write a Thesis*, 54) This depiction of the library, as a place for the possible, that’s the greatest draw for me. To maintain a place for the possible—what better life is there than that?
 
-*Sent from Ottawa, Ontario. Edited while gazing at the Library and Archives.*
+*Sent from Ottawa, Ontario on October 1<sup>st</sup>, 2017. Edited while gazing at the Library and Archives.*
