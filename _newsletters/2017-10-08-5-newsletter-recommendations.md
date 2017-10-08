@@ -1,6 +1,6 @@
 Good morning!
 
-It’s a long weekend here. That means this newsletter is nice and short. Too much time off means too little time to write, apparently :)
+It’s a long weekend here, meaning that this newsletter is nice and short. Too much time off means too little time to write, apparently :)
 
 I thought I’d share a list of newsletters I particularly enjoy. Each of them is written by a person, with no institution or “brand” at play. Reading them makes me happy. In a way, these all inspire my own newsletter—I aspire to be as worth reading as them. If any interest you, consider checking them out:
 
@@ -11,6 +11,6 @@ I thought I’d share a list of newsletters I particularly enjoy. Each of them i
 * [Jack Cheng](https://jackcheng.com/sunday/): An intimate perspective on the writing process, always with interesting snapshots of life during the previous week.
 * [Deb Chachra](https://tinyletter.com/metafoundry): Critical technology commentary from the academic perspective, among other neat tidbits.
 
-That’s all for this week! Have a great one, folks. You’re all awesome :)
+That’s all for this week! Have a great one, folks. In the spirit of the Thanksgiving weekend, I want to thank you for subscribing to my newsletter—you don’t know how much it means to me that you’re willing to give some time and space to me. You’re awesome.
 
 *Sent from Waterloo, Ontario. Written on the backroads between Hamilton and Waterloo.*
