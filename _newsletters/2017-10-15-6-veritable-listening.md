@@ -29,3 +29,5 @@ This issue can manifest in many ways—consider the free labour we expect from p
 Another significant way to say thank-you? We ought to actually listen to the people we turn to for education. I bring this up knowing how government consultations don’t always incorporate their testimony into their decisions, and how those looking to improve their image often “consult” with members of underrepresented communities without actually listening.
 
 When someone uniquely qualified teaches us, we must meaningfully consider what they share.
+
+*Sent on October 15<sup>th</sup>, 2017.*
