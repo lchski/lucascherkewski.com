@@ -1,4 +1,4 @@
-# Two disheartening, sickening failures from this week
+# A revealing week
 
 I must raise two issues that had significant moments this week.
 
