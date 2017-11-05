@@ -12,7 +12,7 @@ Increasingly, this information is sold not just to advertisers, but to political
 
 Considering issues like these is often overwhelming. A major obstacle for me is that, despite my criticism and awareness of their flaws, I continue to turn to these platforms. They have captured me: I feel trapped and not sure where else to go. It’s hard to keep up with friends—these platforms make it easier. But is that a sufficient reason to stay?
 
-In times like these, I turn to writers like [Zeynep Tufecki](http://technosociology.org) and [Tim Wu](http://www.timwu.org)—their critical eyes continue to nuance my perspective. I highly recommend reading them.
+In times like these, I turn to writers like [Zeynep Tufecki](http://technosociology.org) ([columns](https://www.nytimes.com/column/zeynep-tufekci), [*Twitter and Tear Gas: The Power and Fragility of Networked Protest* book](https://www.twitterandteargas.org), [TED talk](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)) and [Tim Wu](http://www.timwu.org) ([columns](https://www.nytimes.com/column/tim-wu), [*The Attention Merchants* book](http://www.timwu.org/AttentionMerchants.html))—their critical eyes continue to nuance my perspective. I highly recommend reading them.
 
 I have some thoughts on these issues, but I’m still working on articulating them. Consider this a first foray—I’m frustrated and thinking about it a lot, but still figuring out what I want to say.
 
