@@ -31,3 +31,5 @@ The edits I made to my bio moved me beyond labels (“a designer”), toward act
 Is this hierarchy really so important? A bio is mostly meant for those who don’t yet know us. But I think the real value in revising my bio is that it forced me to consider how I understand *myself*. Explicitly enumerating my guiding principles clarified what drives me.
 
 In the end, perhaps my bio isn’t for others so much as it’s for me. It’s a reference to what’s important in my life, a set of personal principles that I’m proud to share with others.
+
+Have a great week!
