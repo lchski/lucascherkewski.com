@@ -25,4 +25,4 @@ I’m not going underground during this break. I’ll still be using messaging a
 ***
 {:hr}
 
-[In my site’s first essay](https://lucascherkewski.com/study/manifesto/){:link}, I addressed many concerns similar to these. To paraphrase from that piece, I’m now taking a little break from the river, in favour of the various projects in my garden.
+[In my site’s first essay](/study/manifesto/){:link}, I addressed many concerns similar to these. To paraphrase from that piece, I’m now taking a little break from the river, in favour of the various projects in my garden.
