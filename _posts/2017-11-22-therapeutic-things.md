@@ -3,7 +3,7 @@ layout: study--post
 title: 'Therapeutic things'
 subtitle: 'Reminders of what I find relaxing'
 date: '2017-11-22 19:45:00 -0500'
-date_updated: '2017-11-22 19:45:00 -0500'
+date_updated: '2017-11-23 14:00:00 -0500'
 categories: lists
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 {:blockquote__citation: .f5 .measure}
 {:hr: .w-40 .mv5 .bw1 .ba .b--black-10}
 
-As a note to self, here are activities I find relaxing:
+As a note to self and in no particular order, here are activities I find relaxing:
 
 * Caring for leather shoes or boots
 * Oiling wooden countertops or cutting boards
@@ -26,5 +26,6 @@ As a note to self, here are activities I find relaxing:
 * Skimming through a book I’ve previously annotated[^annotated-books]
 * Sketching letters (especially a double-story ‘a’)
 * Walking (just about anywhere, but especially [these routes](/study/walking-routes/){:link})
+* Eating a clementine in the winter
 
 [^annotated-books]: So any book I’ve read, really.
