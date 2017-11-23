@@ -25,6 +25,6 @@ As a note to self, here are activities I find relaxing:
 * Looking at maps, like the one of Ottawa hanging above my desk
 * Skimming through a book I’ve previously annotated[^annotated-books]
 * Sketching letters (especially a double-story ‘a’)
-* Walking (just about anywhere)
+* Walking (just about anywhere, but especially [these routes](/study/walking-routes/){:link})
 
 [^annotated-books]: So any book I’ve read, really.
