@@ -3,7 +3,7 @@ layout: study--post
 title: 'Therapeutic things'
 subtitle: 'Reminders of what I find relaxing'
 date: '2017-11-22 19:45:00 -0500'
-date_updated: '2017-11-23 14:00:00 -0500'
+date_updated: '2017-11-25 20:15:00 -0500'
 categories: lists
 published: true
 ---
@@ -27,5 +27,6 @@ As a note to self and in no particular order, here are activities I find relaxin
 * Sketching letters (especially a double-story ‘a’)
 * Walking (just about anywhere, but especially [these routes](/study/walking-routes/){:link})
 * Eating a clementine in the winter
+* Handwashing a few items of clothing
 
 [^annotated-books]: So any book I’ve read, really.
