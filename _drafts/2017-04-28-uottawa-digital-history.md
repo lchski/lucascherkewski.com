@@ -15,3 +15,5 @@ As presentation, digital history is a step forward. The keynote speaker, [Dr. Sh
 
 * caveat: some presentation an essay online
 * as platform: Lebanese information database
+
+* one of my earliest, albeit unconscious, attempts in this space had to do with creating a website for a science fair project instead of a board (I was sick of making boards and my science teacher was quite obliging)
