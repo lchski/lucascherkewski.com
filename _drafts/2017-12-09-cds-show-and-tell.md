@@ -21,7 +21,7 @@ Part of CDS’s approach is to engage with the community. The team hosted the sh
 
 To jump onto CDS’s willingness to engage with the community, I want to offer my summary of the event and some ideas for improvement ([jump to section](#my-thoughts-and-some-humble-advice){:link})—hopefully there’s something useful for anyone, attendees or not!
 
-<div class="f5 pa3 bg-black-10">
+<div class="f5 pa4 bg-black-10 measure">
 	<p class="i mt0">Key takeaways for me:</p>
 
 	<ul class="mb0">
