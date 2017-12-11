@@ -75,8 +75,8 @@ too.
 
 Something to mull over.
 
-<small class="f6 i">Thanks to [Sean](https://twitter.com/sboots) for reading over a draft. You can read our discussion
-[at GitHub](https://github.com/lchski/lucascherkewski.com/pull/5).</small>
+<small class="f6 i">Thanks to [Sean](https://twitter.com/sboots){:link} for reading over a draft. You can read our discussion
+[at GitHub](https://github.com/lchski/lucascherkewski.com/pull/5){:link}.</small>
 
 [^newer-fields]: Whether or not these fields are truly novel is debatable. We tend to
 	obscure past progress in favour of claiming that current conversations are truly
