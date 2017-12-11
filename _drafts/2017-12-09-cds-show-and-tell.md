@@ -1,8 +1,8 @@
 ---
 layout: study--post
-title: ''
-subtitle: ''
-date: '2017-12-11 10:30:00 -0500'
+title: 'The Canadian Digital Service’s first show and tell'
+subtitle: 'A summary and some recommendations'
+date: '2017-12-11 18:00:00 -0500'
 categories:
 published: true
 ---
@@ -15,21 +15,29 @@ published: true
 
 I love show and tell. Participants reveal what’s important to them, sharing it with the audience—a rare but rewarding experience!
 
-Last week, the [Canadian Digital Service](https://digital.canada.ca) (CDS) hosted its first show and tell. CDS is a new group within the Government of Canada, using new approaches to revitalize government services and [building on past successes further afield](https://digital.canada.ca/2017/07/28/think-big-start-small/). It’s a major project, one that I’ve been excitedly tracking from the sidelines.
+Last week, the [Canadian Digital Service](https://digital.canada.ca) (CDS) hosted its first show and tell. CDS is a new group within the Government of Canada, using new approaches to revitalize government services by [building on successes further afield](https://digital.canada.ca/2017/07/28/think-big-start-small/). It’s a major project, one that I’ve been excitedly tracking from the sidelines.
 
-Part of CDS’s approach is to engage with the community. To that end, I want to offer my [summary of]()***LINKME*** and [thoughts on]()***LINKME*** the event—hopefully there’s a useful takeaway or two for anyone, attendees or not!
+Part of CDS’s approach is to engage with the community. They hosted the show and tell in a downtown Ottawa conference room, simultaneously livestreaming it. The audience included both government and non-government attendees. While the event was in a lecture format due to the constraints of the room, they took questions from both the physical and virtual audiences via a web app, and hung out afterward to chat. (They’re already planning on changing the setup to be more interactive, once they have a better space—a great example of the team’s willingness to experiment and evolve.)
+
+To jump onto CDS’s willingness to engage with the community, I want to offer my [summary of]()***LINKME*** and [thoughts on]()***LINKME*** the event—hopefully there’s something useful for anyone, attendees or not!
+
+Key takeaways
+
+* Reading correspondence is a great form of user research.
+* Government serves its clients at key (and potentially stressful) moments in their lives—government services should recognize and empathetically incorporate that into their design.
+* CDS is doing great work and sharing it openly. That said, their open blogging could cover more aspects of CDS’s operations while also being more frequent and more detailed.
 
 ## Careful collaboration
 
 CDS does three things: deliver solutions, build capacity, and provide advice. The event mostly profiled the first activity.
 
-Guiding CDS’s approach to service delivery are their "three Rs": reach, readiness, and replicability. These principles allow them to select projects based on who will benefit, how primed the problem and partnering department are for a collaboration, and the extent to which a solution could be extended for other situations. CDS [publishes these principles](https://digital.canada.ca/how-we-work/), along with questions that detail them further. We heard a few examples of existing projects that touched on these principles. (For example, the recently launched [Impact Canada Challenge Platform](https://digital.canada.ca/2017/12/07/always-a-challenge/).)
+Guiding CDS’s approach to service delivery are their “three Rs”: reach, readiness, and replicability. These principles allow them to select projects based on who will benefit, how primed the problem and partnering department are for a collaboration, and the extent to which a solution could be extended for other situations. CDS [publishes these principles](https://digital.canada.ca/how-we-work/), along with questions that detail them further. We heard a few examples of existing projects that touched on these principles. (For example, the recently launched [Impact Canada Challenge Platform](https://digital.canada.ca/2017/12/07/always-a-challenge/).)
 
 ## Case study: rescheduling immigration appointments (or, the part where Lucas teared up)
 
-The best part of the event, for me, was hearing an in-depth case study from Mithula Naik and Chris Govias about CDS’s collaboration with Immigration, Refugees and Citizenship Canada (IRCC). The team had already published [a blog post about it](https://digital.canada.ca/2017/10/24/framing-a-design-problem/), but the show and tell case study provided some memorable details.
+The best part of the event, for me, was hearing an in-depth case study from Mithula Naik and Chris Govias about CDS’s collaboration with Immigration, Refugees and Citizenship Canada (IRCC). The team had already published [a blog post about it](https://digital.canada.ca/2017/10/24/framing-a-design-problem/), but the show and tell presentation provided some memorable details.
 
-A CDS team went out to IRCC’s Vancouver offices to learn about the citizenship application process. Through interviews, participation, shadowing, and other methods, they identified some significant pain points. They chose to focus on the appointment rescheduling process, for citizenship tests and oath ceremonies—two momentous events in the citizenship process.
+A CDS team visited IRCC’s Vancouver offices to learn about the citizenship application process. Through interviews, participation, shadowing, and other methods, they identified some significant pain points. They chose to focus on the appointment rescheduling process, for citizenship tests and oath ceremonies—two momentous events in the citizenship process.
 
 Interviewing participants and studying correspondence received by IRCC, the team found that the process was stressful, unclear, and—sometimes—inconsiderate. The appointment notification came in a six page letter, including several imposing paragraphs about what could disqualify someone from receiving their citizenship. Compounding this stress, there was little guidance on rescheduling: if someone couldn’t make the assigned appointment, they were told that they had to write a letter to IRCC—furthermore, if their reason wasn’t valid, their citizenship process could be halted.
 
@@ -48,7 +56,7 @@ That said, IRCC knew there were limitations, and were ready and willing to impro
 
 ## Hiring flexibly
 
-One of the recurrent themes brought up by CDS folks was that [they’re hiring](https://digital.canada.ca/work-with-us/)!
+One of the recurring themes brought up by CDS folks was that [they’re hiring](https://digital.canada.ca/work-with-us/)!
 
 We heard that scaling up is going a bit slower than expected. CDS is experimenting in a lot of dimensions: in addition to bringing in modern design and development workflows for service delivery, they’re also testing new approaches to hiring for government.
 
@@ -60,11 +68,11 @@ One aspect of this is the “tour of duty” approach, pioneered by other jurisd
 
 Throughout the event, I felt constantly that the library is a good metaphor for CDS.
 
-They’re a group of highly-skilled individuals who collaborate with external clients, providing advice and laying the way with service prototypes before handing them off for others to continue. Their constant experimentation with new approaches—and the desire to share their successes and failures in ways that others can study—echoes the library-as-laboratory approach.(It helps that I love both libraries and what CDS is up to...)
+They’re a group of highly-skilled individuals who collaborate with external clients, providing advice and laying the way with service prototypes before handing them off for others to continue. Their constant experimentation with new approaches—and the desire to share their successes and failures in ways that others can study—echoes the library-as-laboratory approach. (It helps that I love both libraries and what CDS is up to…)
 
-If I could provide some humble advice, it’d be on the subject of open blogging. There have been some good first steps, but at times it’s felt a bit like the thing that’s always just around the corner. To be fair, it’s still early on, but early on is when a lot of decisions are being made, decisions that are worth documenting. Even if they get reevaluated a year down the line, recording them now can make that reevaluation a more useful public lesson.
+If I could provide some humble advice, it’d be on the subject of open blogging. There have been some good first steps on [the CDS blog](https://digital.canada.ca/blog/), but at times it’s felt a bit like the thing that’s always just around the corner. To be fair, it’s still early on, but early on is when a lot of decisions are made, decisions that are worth documenting. Even if they get reevaluated a year down the line, recording them now can make that reevaluation a more useful public lesson.
 
-That said, I was assured that more open blogging is coming, and I believe it. One of the concerns I heard was regarding the length of blog posts: one way to address that could be to include a point-form summary of lessons or takeaways at the start of each post. This way, the long body of the post would serve to detail each takeaway, and it’d be even easier to share each post as a resource.
+That said, I was assured that more open blogging is coming, and I believe it. One of the concerns I heard was regarding the length of blog posts: one way to address that could be to include a point-form summary of lessons or takeaways at the start of each post. This way, the long body of the post would serve to detail each takeaway, and it’d be even easier to share each post as a resource. (I tried doing this with this very post! It may not be perfect, but it could be a first step.)
 
 There’s quite a bit I’d like to read or hear more about. To that end (and if this isn’t too presumptuous), here are some ideas for open blogging:
 
