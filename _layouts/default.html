@@ -11,8 +11,26 @@
 
     <title>{{ page_title }}</title>
 
-    <meta name="author" content="">
-    <meta name="description" content="">
+	  <meta content="{{ site.title }}" property="og:site_name">
+	{% if page.title %}
+	  <meta content="{{ page.title | append: ' – Lucas Cherkewski' }}" property="og:title">
+	{% else %}
+	  <meta content="{{ site.title }}" property="og:title">
+	{% endif %}
+	{% if page.title %}
+	  <meta content="article" property="og:type">
+	{% else %}
+	  <meta content="website" property="og:type">
+	{% endif %}
+	{% if page.subtitle %}
+	  <meta content="{{ page.subtitle }}" property="og:description">
+	{% else %}
+	  <meta content="{{ site.description }}" property="og:description">
+	{% endif %}
+	{% if page.url %}
+	  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+	{% endif %}
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/assets/css/main.min.css">
 </head>

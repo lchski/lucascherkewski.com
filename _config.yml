@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Cherkewski View
 email: lucas@lucascherkewski.com
-description: > # this means to ignore newlines until "baseurl:"
-  The personal website of Lucas Cherkewski.
+description: "The personal website of Lucas Cherkewski."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lucascherkewski.com" # the base hostname & protocol for your site
 permalink: /study/:title/
