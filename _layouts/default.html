@@ -30,6 +30,11 @@
 	{% if page.url %}
 	  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 	{% endif %}
+	{% if page.image %}
+	  <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
+	{% else %}
+	  <meta content="{{ site.url }}/assets/img/headshot.jpg" property="og:image">
+	{% endif %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/assets/css/main.min.css">
