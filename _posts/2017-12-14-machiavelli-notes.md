@@ -34,7 +34,7 @@ I recently read *The Prince* for a course. In the process, I noted principle ide
 * Moving into unfamiliar territory? Build support among weaker potential players there, building a local buttress against major opponents. (13)
 * But, don’t strengthen your allies too much: they could more easily turn against you. (14)
 * Look to the future, don’t procrastinate: if you see trouble coming, deal with it *on your own terms* as soon as possible, as opposed to delaying and leaving it to fortune. (14–15)
-* Don’t abandon your supporters in favour of the nest big ruler; support your supporters. (17)
+* Don’t abandon your supporters in favour of the next big ruler; support your supporters. (17)
 * Don’t bring in external rulers strong enough to challenge you. (17)
 
 ## 4: Conquered by Alexander the Great, the Kingdom of Darius did not rebel against his successors after his death. Why not?
