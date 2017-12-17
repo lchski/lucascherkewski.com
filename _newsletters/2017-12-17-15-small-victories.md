@@ -14,6 +14,6 @@ Three links to read this week:
 * Evan Solomon [asks why we rarely publicly express our affection](http://www.macleans.ca/society/what-we-dont-talk-about-when-we-talk-about-gord-downie/). (I’ve been reflecting often on this one.)
 * Michael Bierut [celebrates the life of the most formidable Lella Vignelli](https://designobserver.com/article.php?id=8277). (Good versus successful, the shoe box, the couch—Lella is an inspiration. See also [this touching tribute](http://www.vignelli.com/Designed_by_Lella.pdf) from Massimo, her partner in crime for over half a century.)
 
-That’s it for me. I hope to catch up with many of you once I’m back in Waterloo this holiday season. Let’s try to set something up. If you’re in Ottawa or elsewhere, let’s schedule something for the New Year. You’re all wonderful people—I’m fortunate and grateful to have you in my life.
+That’s it for me. I hope to see many of you once I’m back in Waterloo this holiday season. Let’s schedule coffee or a walk. If you’re in Ottawa or elsewhere, let’s schedule something for the New Year. You’re all wonderful people—I’m fortunate and grateful to have you in my life.
 
 Have an excellent week.
