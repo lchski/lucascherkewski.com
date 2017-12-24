@@ -1,3 +1,17 @@
+---
+layout: study--newsletter
+title: 'Three welcome books'
+number: '16'
+date: '2017-12-24 11:25:00 -0400'
+published: true
+---
+
+{:h2: .f6 .ttu .tracked .mt5 .lh-title}
+{:link: .dim .light-purple}
+{:blockquote: .ml0 .pl4 .bl .bw3 .b--black-10 .f4}
+{:blockquote__citation: .f5 .measure}
+{:hr: .w-40 .mv5 .bw1 .ba .b--black-10}
+
 Hello there,
 
 It’s the holiday season. It’s an odd one, with intense periods of busyness followed by long stretches of quiet. While enjoying the break, I seek things to do. That said, much of my time is happily occupied with family and friends! This and next week’s letters will be brief.
@@ -14,3 +28,5 @@ I read three books this year that I found particularly fulfilling:
 I recommend any and all of the three. I’ve read a fun collection of books this year, and would be happy to recommend books to you personally depending on your interests. (This is a standing offer!)
 
 That’s all for today. Wherever you are, whomever you’re with, and whatever you’re doing, I wish you a pleasant week.
+
+*Sent on December 24<sup>th</sup>, 2017.*
