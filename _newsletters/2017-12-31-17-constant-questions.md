@@ -15,6 +15,8 @@ published: true
 > Isn’t it splendid to think of all the things there are to find out about? It wouldn’t be half so interesting if we know all about everything, would it? There’d be no scope for imagination then, would there?
 > 
 > —Anne Shirley, *Anne of Green Gables*
+> {:blockquote__citation}
+{:blockquote}
 
 Sometimes it’s important to recapture your sense of wonder.
 
@@ -26,9 +28,9 @@ Vacation offers a chance to reflect. Literally stepping away from school allows 
 
 I’m pretty content. This past year had some unfortunate moments, but I’ve strengthened the social ties that sustain me through such times. I’ve found a comfortable groove to work in, finding fulfilment there. If you’ve read these newsletters the past few months, you’ll know where I put my time. I plan to deepen those commitments.
 
-But I’d like to change one thing. I feel I’ve diminished my sense of wonder. The other night I began rereading *Anne of Green Gables*, an old favourite. In the first few chapters, I was struck by the volume and variety of questions that the main character, Anne Shirley, asks—of herself, of her companions, of the world around her. This excited spirit infected me. Inspired, I extracted [all the questions in the book](https://github.com/lchski/aogg-questions/blob/master/aogg_questions.csv). The quoted questions opening this email, I think, reflect Anne Shirley’s spirit: she never stops questioning.
+But I’d like to change one thing. I feel I’ve diminished my sense of wonder. The other night I began rereading *Anne of Green Gables*, an old favourite. In the first few chapters, I was struck by the volume and variety of questions that the main character, Anne Shirley, asks—of herself, of her companions, of the world around her. This excited spirit infected me. Inspired, I extracted [all the questions in the book](https://github.com/lchski/aogg-questions/blob/master/aogg_questions.csv){:link}. The quoted questions opening this email, I think, reflect Anne Shirley’s spirit: she never stops questioning.
 
-This constant questioning requires a sort of perspective. The questions you ask while focused on details differ from those you ask while looking at a work as a whole. (*cf.* [Frank Chimero on How and Why, Near and Far, and so on](http://shapeofdesignbook.com/chapters/01-how-and-why/).) It requires lifting your focus from the ground in front of you to the landscape surrounding you.
+This constant questioning requires a sort of perspective. The questions you ask while focused on details differ from those you ask while looking at a work as a whole. (*cf.* [Frank Chimero on How and Why, Near and Far, and so on](http://shapeofdesignbook.com/chapters/01-how-and-why/){:link}.) It requires lifting your focus from the ground in front of you to the landscape surrounding you.
 
 In the year ahead, I hope to lift my head more often. If that sounds appealing to you, I invite you to join me. Maybe together we can better reinvigorate our sense of wonder.
 
