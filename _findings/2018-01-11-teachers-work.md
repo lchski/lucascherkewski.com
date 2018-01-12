@@ -2,7 +2,7 @@
 layout: study--finding
 title: 'Teacher’s work'
 date: '2018-01-11 13:00:00 -0400'
-published: true
+published: false
 ---
 
 {:h2: .f6 .ttu .tracked .mt5 .lh-title}
