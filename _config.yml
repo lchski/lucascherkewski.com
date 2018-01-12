@@ -27,6 +27,9 @@ collections:
   newsletters:
     output: true
     permalink: /hit-and-miss/:title/
+  findings:
+    output: true
+    permalink: /study/urop/:title/
 
 
 # Build settings
