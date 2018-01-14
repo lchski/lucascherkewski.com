@@ -53,6 +53,7 @@ and thinking to date before moving on.
 	* What issues people foresaw, how dreams differed from reality
 
 ## Pre analysis meeting notes
+{:h2}
 
 * Alison Prentice on the introduction of blackboards in the 19th century
 	* Blackboards represented a shift toward teacher as the central figure (versus the *individualized learning* offered from slate-based work)

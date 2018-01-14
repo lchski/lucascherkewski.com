@@ -11,4 +11,4 @@ published: true
 {:blockquote__citation: .f5 .measure}
 {:hr: .w-40 .mv5 .bw1 .ba .b--black-10}
 
-Building on the [apparent fizzling excitement over computer-assisted instruction](/study/urop/fizzling-excitement-cai/), the turn seems to be from one of the computer classroom—where students learned from individualized software programs, either in a school or at home—to the traditional classroom that now does some new things via the computer, like teach students how to use word processing software or conduct digital research.
+Building on the [apparent fizzling excitement over computer-assisted instruction](/study/urop/fizzling-excitement-cai/){:link}, the turn seems to be from one of the computer classroom—where students learned from individualized software programs, either in a school or at home—to the traditional classroom that now does some new things via the computer, like teach students how to use word processing software or conduct digital research.
