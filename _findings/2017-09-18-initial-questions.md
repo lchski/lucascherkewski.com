@@ -1,6 +1,6 @@
 ---
 layout: study--finding
-title: 'Nuancing the idea of a shift from CAI'
+title: 'Initial questions'
 date: '2017-09-18 17:00:00 -0400'
 published: true
 ---
@@ -13,6 +13,10 @@ published: true
 
 In the 1980s, the Ontario Ministry of Education moved to create its own computer. Learning about this
 prompted initial thinking around this project, noted below.
+
+<small>*Note: My understanding of this project has grown greatly since I originally noted these questions.
+Rereading them now, some are clearly based on incorrect assumptions or incomplete information. In the interest
+of research transparency, however, I leave them as-is.*</small>
 
 ## Context
 {:h2}
