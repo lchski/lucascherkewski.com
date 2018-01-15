@@ -1,6 +1,6 @@
 ---
 layout: office--project
-title: "uOttawa"
+title: "uOttawa courses"
 subtitle: "Creating tools to help students navigate course selection"
 date: 2016-09-11 00:00:00 -0400
 published: true
