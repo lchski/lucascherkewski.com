@@ -43,8 +43,8 @@ people feel empowered by these tools. People are giving *public* voice to their 
 so, allowing more people than ever to exchange ideas and consider new viewpoints. This is a beautiful thing, and I plan
 to continue using [Twitter](https://twitter.com/lchski){:link} for random notes.
 
-But. This content churn stops us from slowing to think. These convenient third-party stores for our content—intentionally or not—
-pressure us to senselessly throw our thoughts into the stream. While it’s great to dive into the shared stream, it incessantly
+But this content churn stops us from slowing to think. These convenient third-party stores for our content—intentionally or not—pressure
+us to senselessly throw our thoughts into the stream. While it’s great to dive into the shared stream, it incessantly
 propels us forward, and discourages deep consideration or reflection. The seeds of thought can’t grow in a stream—they
 need fertile soil within which to spread their roots and bloom.
 
