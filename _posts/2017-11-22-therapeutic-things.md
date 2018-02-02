@@ -28,5 +28,6 @@ As a note to self and in no particular order, here are activities I find relaxin
 * Walking (just about anywhere, but especially [these routes](/study/walking-routes/){:link})
 * Eating a clementine in the winter
 * Handwashing a few items of clothing
+* Holding *Madness, Rack, and Honey*, by Mary Ruefle, in my hands (it’s the perfectly sized book)
 
 [^annotated-books]: So any book I’ve read, really.
