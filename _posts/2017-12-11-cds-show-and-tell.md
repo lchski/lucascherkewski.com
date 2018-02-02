@@ -85,7 +85,7 @@ That said, I was assured that more open blogging is coming, and I believe it. On
 
 There’s quite a bit I’d like to read or hear more about. To that end (and if this isn’t too presumptuous), here are some ideas for open blogging:
 
-* Every action (including the show and tell event itself) is an opportunity for a post on lessons learned, a resource that others can learn from.
+* Every action (including the show and tell event itself) is an opportunity for a post on lessons learned, a resource from which others can learn.
 * Capacity building and advice are really interesting aspects of the mandate. I’d like to hear more case studies about those activities: in the words of one CDSer, they’re “boring but important”, and important work should always be shared!
 * Thoughts on the hiring process and challenges with government HR policies would also be interesting. How is CDS pushing against traditional job descriptions? What obstacles come up while doing so?
 
