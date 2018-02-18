@@ -6,7 +6,7 @@ On Friday, my dad and I drove from Ottawa to Waterloo. He drove up in the mornin
 
 It was one of our classic Ottawa drives: fiddling with the radio as our preferred stations passed in and out of range, stopping at Kingston’s Division Street rest stop mecca,  finding ways to keep each other awake as we passed by familiar landmarks.
 
-Though we didn’t take Highway 7 on this trip, that trip, too, is loaded with ritual and routine. My parents took us on many road trips when we were younger—my experience of Canada is essentially one of road trips, an experience of the unfamiliar exterior landscape from the all too familiar interior of the family car.
+Though we didn’t take Highway 7 on this trip, that trip, too, is loaded with ritual and routine. My parents took us on many road trips when we were younger—my experience of Canada is essentially one of road trips, an experience of viewing the unfamiliar exterior landscape from the all too familiar interior of the family car.
 
 ***
 
@@ -16,7 +16,9 @@ As you may know, I love walking and am a proud pedestrian. When I learned to dri
 
 ***
 
-Much as I love driving, I often feel conflicted as I drive. The environmental cost of it is huge, and it feels a bit arrogant for me to hop in a car when I could adjust my life to better accommodate walking or busing. In [an excellent article on learning to drive](https://www.newyorker.com/magazine/2015/02/02/drivers-seat), Adam Gopnik touches on these points in the context of a broader ode to driving as a democratic act. While I don’t see myself continuing to drive much in the long-term—I doubt I’ll ever buy a car—Gopnik summarizes well what I enjoy so much about it.
+Much as I love driving, I often feel conflicted as I drive. Its environmental costs are huge, and it feels a bit arrogant for me to hop in a car when I could adjust my life to better accommodate walking or busing.
+
+In [an excellent article on learning to drive](https://www.newyorker.com/magazine/2015/02/02/drivers-seat), Adam Gopnik touches on these points in the context of a broader ode to driving as a democratic act. While I don’t see myself continuing to drive much in the long-term—I doubt I’ll ever buy a car—Gopnik summarizes well what I enjoy so much about it.
 
 ***
 
