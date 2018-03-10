@@ -1,4 +1,4 @@
-last week 26th edition, let it pass
+two weeks ago 26th edition, let it pass
 wary about commemoration
 opinion on birthdays
 renaming monuments/buildings isn't erasing history: history books preserve those
