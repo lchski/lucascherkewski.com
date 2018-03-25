@@ -6,11 +6,11 @@ The other week, two friends had to endure a bit of a moment from me when I incoh
 
 The line that got me going came from Kurt Vonnegut: “I know of very few people who are dreaming of a world for their grandchildren.” (Vonnegut, *A Man Without a Country*, 71) That sentiment struck me, because I don’t even dream of a world for possible *children* of mine. (Sorry to mom and dad.) I don’t judge anyone who has kids, I just struggle to accept that as a future for me.
 
-Later, Vonnegut writes that “Our planet’s immune system is trying to get rid of people.” (Vonnegut, *A Man Without a Country*, 104) This is an idea that comes up a fair bit in climate change writing, at least the writing I encounter: we (humans) are not bigger than the planet, and ultimately it will sort itself out, whether we make it or not.
+Later, Vonnegut writes that “Our planet’s immune system is trying to get rid of people.” (Vonnegut, *A Man Without a Country*, 104) This is an idea that comes up a fair bit in climate change writing, at least the writing I encounter: we (humans) are not bigger than the planet, and ultimately it will sort itself out, whether we survive it or not.
 
 ***
 
-Have you heard of the brown marmorated stinkbug? It’s a strikingly adaptable insect that destroys crops during the summer and migrates indoors for the colder months. [Kathryn Schulz profiles the insect.](https://www.newyorker.com/magazine/2018/03/12/when-tweenty-six-thousand-stinkbugs-invade-your-home) She pays particular attention to our relative weakness in the face of this insect: we can’t easily kill or control it, and it’s quite content to destroy our crops.
+Have you heard of the brown marmorated stinkbug? It’s a strikingly adaptable insect that destroys crops during the summer and migrates indoors for the colder months. [Kathryn Schulz profiles the insect.](https://www.newyorker.com/magazine/2018/03/12/when-twenty-six-thousand-stinkbugs-invade-your-home) She pays particular attention to our relative weakness in its face: we can’t easily kill or control it, and it’s quite content to destroy our crops.
 
 If you’re a bit squeamish—as I am—the first section will be rough, but persevere because what follows is absolutely worth reading. You’ll laugh-cry all the way through. (Also, Schulz writes so well. This article should be required reading for students learning how to write transition sentences—just look at those section enders!)
 
@@ -42,7 +42,7 @@ Heavy stuff, but necessary to consider.
 
 ***
 
-In the time it’s taken me to write this letter, it’s no longer quite so bright outside. I’m reassured that tomorrow will likely be a bright day, or at least some other day this week. On a micro scale, we get by. But I’m deeply concerned about the macro scale. Will bright days continue to shine on humans? Do we even really deserve them, in the long run?
+In the time it’s taken me to write this letter, it’s no longer quite so bright outside. I’m reassured that tomorrow will likely be a bright day, or at least some other day this week. On a micro scale, we get by. But I’m deeply concerned about the macro scale. Will bright days continue to shine on humans? Do we deserve them, in the long run?
 
 I’m not one for cosmic judgement, but I think humanity needs a major dose of humility. Here’s to one that’s willingly self-induced, rather than unconsciously administered by our planet’s immune system.
 
