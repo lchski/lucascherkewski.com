@@ -1,6 +1,6 @@
 ---
 layout: study--newsletter
-title: 'Keep going'
+title: 'Portable pasta party kit'
 number: '34'
 date: '2018-04-29 13:35:00 -0400'
 published: true
