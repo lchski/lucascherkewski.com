@@ -1,5 +1,5 @@
 ---
-layout: study--finding
+layout: study--finding--unconstrained
 title: '*Output* tables of contents'
 date: '2018-05-05 12:00:00 -0400'
 published: true
@@ -12,17 +12,15 @@ published: true
 </p>
 
 <div class="urop-tocs">
-	<figure class="urop-tocs__toc">
+	{% for toc in site.data.urop.tocs %}
+	{% capture issue_date %}
+	1970-{{ toc.month | prepend: '00' | slice: -2, 2 }}-01
+	{% endcapture %}
+	<figure class="urop-tocs__toc ma0">
 		<img src="http://placehold.it/850x1100" alt="Output volume 5, issue 1 table of contents">
-		<figcaption>
-			vol 5, no 1, May 2018
+		<figcaption class="sans-serif f6 black-70">
+			vol. {{ toc.volume }}, no. {{ toc.number }}, {{ issue_date | date: "%B" }} {{ toc.year }}; ed. {{ toc.editor_name }}
 		</figcaption>
 	</figure>
-
-	<figure class="urop-tocs__toc">
-		<img src="http://placehold.it/850x1100" alt="Output volume 5, issue 1 table of contents">
-		<figcaption>
-			vol 5, no 1, May 2018
-		</figcaption>
-	</figure>
+	{% endfor %}
 </div>

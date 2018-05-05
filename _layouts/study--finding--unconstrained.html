@@ -1,0 +1,24 @@
+---
+layout: study
+site_section: study
+---
+
+<article>
+
+	<header>
+		<h1 class="f2 mb0">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
+		<p class="f5 black-70 measure-wide lh-copy">{{ page.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+	</header>
+
+	<div class="f3 lh-copy serif nested-list-item-spacing">
+		{{ content }}
+	</div>
+
+	<footer class="mt4 f6">
+		<p class="measure lh-copy">
+			Part of my research notes for <a href="/study/urop/" class="dim light-purple i">Introducing Computers in Ontario‘s Classrooms</a>,
+			a research project supervised by Chad Gaffield and funded by the University of Ottawa’s Undergraduate Research Opportunity Program.
+		</p>
+	</footer>
+
+</article>
