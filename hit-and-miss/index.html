@@ -3,13 +3,20 @@ layout: study
 title: Hit and Miss
 ---
 
-<h1 class="f2 i">Hit and Miss</h1>
+<header class="ph4 pv1 nl4 nr4 mt4 mb4 bg-white-70 bt bb b--black-05 b--dotted bl-0 br-0">
+	<h1 class="f2 i">Hit and Miss</h1>
 
-<p class="f3 measure lh-copy">
-	I publish a small weekly newsletter titled <i>Hit and Miss</i>. In it, I write about whatever
-	I’ve been reading each week, usually with some tilt toward the interaction of technology and
-	society. Check out the archive below—if it interests you, <a class="dim light-purple" href="https://buttondown.email/lchski">please consider subscribing</a>.
-</p>
+	<p class="f3 measure lh-copy">
+		I publish a small weekly newsletter titled <i>Hit and Miss</i>. In it, I write about whatever
+		I’ve been reading each week, usually with some tilt toward the interaction of technology and
+		society. Check out the archive below—if it interests you, <a class="dim light-purple" href="https://buttondown.email/lchski">please consider subscribing</a>.
+	</p>
+
+	<p class="f5 measure lh-copy black-70">
+		You might also be interested in <a class="dim light-purple" href="/study/">my blog</a> or
+		<a class="dim light-purple" href="/study/urop/">my research into the history of educational computing in Ontario</a>.
+	</p>
+</header>
 
 <ul class="list pl0 w-50-ns mw6">
 	{% assign sorted_newsletters = (site.newsletters | sort: 'date') | reverse %}
