@@ -47,7 +47,7 @@ title: Introducing Computers in Ontario’s Classrooms
 			{% assign finding_item_classes = finding_item_classes | append: ' bw1 bb' %}
 		{% endif %}
 		<li class="{{ finding_item_classes }}">
-			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ finding.url }}">{{ finding.title }}</a></h2>
+			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ finding.url }}">{{ finding.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
 			<p class="f6 black-70 mt2">{{ finding.subtitle }} <span class="i">({{ finding.date | date: '%B ~%dth, %Y' | replace: '~0', '' | replace: '~', '' | replace: '1th', '1st' | replace: '2th', '2nd' | replace: '3th', '3rd' | replace: '11st', '11th' | replace: '12nd', '12th' | replace: '13rd', '13th' }})</span></p>
 		</li>
 	{% endfor %}
