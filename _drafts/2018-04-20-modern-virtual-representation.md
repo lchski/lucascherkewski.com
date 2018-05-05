@@ -1,6 +1,6 @@
 ---
 layout: study--post
-title: ''
+title: 'Modern virtual representation'
 subtitle: ''
 date: '2018-04-20 08:16:28 -0400'
 categories:
