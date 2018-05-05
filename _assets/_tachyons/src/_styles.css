@@ -58,3 +58,12 @@ FOOTNOTES
 .footnote:active {
 	opacity: .8; transition: opacity .15s ease-out;
 }
+
+
+
+/*
+UROP TOC GRID
+*/
+.urop-tocs {
+	display: grid;
+}
