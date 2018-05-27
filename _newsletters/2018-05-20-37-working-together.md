@@ -1,3 +1,17 @@
+---
+layout: study--newsletter
+title: 'Working (together)'
+number: '37'
+date: '2018-05-20 10:20:00 -0400'
+published: true
+---
+
+{:h2: .f6 .ttu .tracked .mt5 .lh-title}
+{:link: .dim .light-purple}
+{:blockquote: .ml0 .pl4 .bl .bw3 .b--black-10 .f4}
+{:blockquote__citation: .f5 .measure}
+{:hr: .w-40 .mv5 .bw1 .ba .b--black-10}
+
 It’s a *beautiful* (beautiful beautiful beautiful) Sunday morning on a long weekend. As I write this I’m staring out at intense sky blues and leaf greens—somewhere in the last few weeks, trees regrew their leaves, and it’s completely changed the view. I hope you can enjoy today.
 
 Briefly, though, I want to talk about work. Specifically, about working with others.
@@ -15,17 +29,21 @@ Now, though, I’m surrounded by other people who are really good at what they d
 3. I don’t think I want to go back to truly independent work. Even if I freelance more in the future, I’d like to do so as part of a team. Combining independent with collaborative work in a cyclical structure may be a good compromise in the long term.
 
 ***
+{:hr}
 
 Unsurprisingly, I am not the first to consider this.
 
-“[Back to the Cave](https://frankchimero.com/writing/back-to-the-cave/)”, by Frank Chimero, grapples directly with this issue, tying it to creative work.
+“[Back to the Cave](https://frankchimero.com/writing/back-to-the-cave/){:link}”, by Frank Chimero, grapples directly with this issue, tying it to creative work.
 
-Though she doesn’t touch much on this issue, Kate Kiefer Lee’s “[Putting Work in Its Place](https://themanual.org/read/issues/5/kate-kiefer-lee/article)” is a wonderful meditation on work and life.
+Though she doesn’t touch much on this issue, Kate Kiefer Lee’s “[Putting Work in Its Place](https://themanual.org/read/issues/5/kate-kiefer-lee/article){:link}” is a wonderful meditation on work and life.
 
-And to close, I leave you with this, from a [Paddington](https://en.wikipedia.org/wiki/Paddington_Bear) book:
+And to close, I leave you with this, from a [Paddington](https://en.wikipedia.org/wiki/Paddington_Bear){:link} book:
 
-> A problem shared is a problem halved.  
+> A problem shared is a problem halved.
+> {: .measure}
 > —M. Bond (More About Paddington, 58)
+> {:blockquote__citation}
+{:blockquote}
 
 All the best for the week ahead!
 
