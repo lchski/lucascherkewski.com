@@ -1,0 +1,30 @@
+---
+layout: study
+site_section: study
+---
+
+<article>
+
+	<header>
+		<h1 class="f2 mb0">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
+		<p class="f5 black-70 measure-wide lh-copy">{{ page.author | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+	</header>
+
+	<div class="f3 measure lh-copy serif nested-list-item-spacing">
+		{{ content }}
+	</div>
+
+	<ol>
+	{% for quotation in site.data.book_quotations %}
+	{% if quotation.book_id == page.book_id %}
+		<li>
+			<blockquote class="ml0 pl4 bl bw3 b--black-10 f4">
+				<p class="measure">{{ quotation.quotation }}</p>
+				<p class="f5 measure"><cite>– {{ page.author }}, pg. {{ quotation.page }}</cite></p>
+			</blockquote>
+		</li>
+	{% endif %}
+	{% endfor %}
+	</ol>
+
+</article>

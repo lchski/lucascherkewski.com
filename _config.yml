@@ -30,6 +30,9 @@ collections:
   findings:
     output: true
     permalink: /study/urop/:title/
+  books:
+    output: true
+    permalink: /study/reading/:title/
 
 
 # Build settings
