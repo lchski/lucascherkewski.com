@@ -15,6 +15,11 @@ module.exports = {
       '_assets/_images'
     ]
   },
+  npm: {
+    styles: {
+      "normalize.css": ['normalize.css']
+    }
+  },
   plugins: {
     postcss: {
       processors: [

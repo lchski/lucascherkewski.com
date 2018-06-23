@@ -18,7 +18,7 @@ title: Hit and Miss
 	</p>
 </header>
 
-<ul class="list pl0 w-50-ns mw6">
+<ul class="block-list pl0 w-50-ns mw6">
 	{% assign sorted_newsletters = (site.newsletters | sort: 'date') | reverse %}
 	{% for newsletter in sorted_newsletters %}
 		{% assign newsletter_item_classes = 'b--black-20 pb2' %}
