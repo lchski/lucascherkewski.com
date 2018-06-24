@@ -21,6 +21,8 @@ a {
 }
 
 	a:hover {
+		opacity: 0.7;
+
 		text-decoration-style: dashed;
 	}
 
@@ -98,6 +100,7 @@ a {
 
 		.masthead__title a:hover {
 			text-decoration: underline;
+			text-decoration-style: dashed;
 		}
 
 	.masthead__nav {
