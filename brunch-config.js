@@ -23,6 +23,7 @@ module.exports = {
   plugins: {
     postcss: {
       processors: [
+        require('postcss-import'),
         require('postcss-custom-properties'),
         require('autoprefixer')(['last 8 versions']),
         require('csswring')()
