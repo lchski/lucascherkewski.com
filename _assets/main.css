@@ -17,7 +17,7 @@ p {
 	}
 
 a {
-	color: #5E2CA5;
+	color: rgb(var(--c-purple));
 }
 
 	a:hover {
@@ -25,9 +25,9 @@ a {
 	}
 
 	a:focus {
-		background-color: #FFB700;
-		outline: 3px solid #FFB700;
-		color: #000000;
+		background-color: var(--c-gold);
+		outline: 3px solid var(--c-gold);
+		color: var(--c-black);
 
 		text-decoration: none;
 	}
@@ -41,25 +41,25 @@ a {
 	}
 
 .text-container {
-	background-color: #ffffff;
+	background-color: var(--c-white);
 	opacity: 0.9;
 
 	padding: var(--spacing-medium);
 }
 
 .page {
-	background-color: #f4f4f4;
+	background-color: var(--c-near-white);
 	background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23A463F2' fill-opacity='0.075'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 
 	.page__header {
-		padding: 0 var(--spacing-medium);
+		padding: var(--spacing-medium) var(--spacing-medium);
 
-		border-bottom: var(--spacing-small) solid rgba(53,25,93,0.75);
+		border-bottom: var(--spacing-small) solid rgba(var(--c-dark-purple),0.75);
 	}
 
 	.page__footer {
-		background-color: rgba(53,25,93,0.75);
+		background-color: rgba(var(--c-dark-purple),0.75);
 		color: rgba(244,244,244, 0.85);
 
 		padding: var(--spacing-medium);
@@ -77,21 +77,36 @@ a {
 		}
 
 			.page__footer a:focus {
-				color: #000000;
+				color: var(--c-black);
 			}
 
 .masthead {
 
 }
 
-	.masthead__title {
+	.masthead__title,
+	.masthead__title a {
 		margin: 0;
 
-		font-size: var(--fz-3);
+		font-size: var(--fz-4);
 		font-weight: 400;
+
+		color: var(--c-black);
+
+		text-decoration: none;
 	}
+
+		.masthead__title a:hover {
+			text-decoration: underline;
+		}
 
 	.masthead__nav {
 		font-family: var(--ff-sans);
 		font-size: var(--fz-6);
+
+		margin-top: var(--spacing-extra-small);
 	}
+
+		.masthead__nav a {
+			margin-right: var(--spacing-small);
+		}

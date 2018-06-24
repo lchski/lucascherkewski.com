@@ -18,4 +18,11 @@
 	--spacing-extra-large: 4rem;
 	--spacing-extra-extra-large: 8rem;
 	--spacing-extra-extra-extra-large: 16rem;
+
+	--c-black: #000000;
+	--c-white: #ffffff;
+	--c-near-white: #f4f4f4;
+	--c-gold: #FFB700;
+	--c-purple: 94, 44, 165;
+	--c-dark-purple: 53, 25, 93;
 }
