@@ -1,10 +1,15 @@
 <header class="page__header masthead">
-	{% case page.url %}
-		{% when '/' %}
-			<h1 class="masthead__title"><a href="/">Lucas Cherkewski</a></h1>
-		{% else %}
-			<p class="masthead__title"><a href="/">Lucas Cherkewski</a></p>
-	{% endcase %}
+	<div class="masthead__me">
+		<picture class="masthead__mark">
+			<img src="/assets/img/icon.png" alt="mark">
+		</picture>
+		{% case page.url %}
+			{% when '/' %}
+				<h1 class="masthead__title"><a href="/">Lucas Cherkewski</a></h1>
+			{% else %}
+				<p class="masthead__title"><a href="/">Lucas Cherkewski</a></p>
+		{% endcase %}
+	</div>
 	<nav class="f6 dib masthead__nav">
 		<a class="dim light-purple mr1" href="/office/">Office</a>
 		<a class="dim light-purple mr1" href="/study/">Study</a>

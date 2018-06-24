@@ -118,6 +118,32 @@ a {
 	grid-gap: var(--spacing-extra-small);
 }
 
+	.masthead__mark {
+		height: var(--spacing-large);
+		width: var(--spacing-large);
+		display: block;
+		position: relative;
+		z-index: 1;
+
+		margin-bottom: var(--spacing-extra-small);
+	}
+
+		.masthead__mark::before {
+			content: '';
+			background: #281928;
+			position: absolute;
+			width: 100%;
+			height: calc(var(--spacing-large) + var(--spacing-medium));
+			bottom: 50%;
+		}
+
+		.masthead__mark img {
+			max-width: 100%;
+			max-height: 100%;
+			z-index: 1;
+			position: relative;
+		}
+
 	.masthead__title,
 	.masthead__title a {
 		margin: 0;
@@ -149,6 +175,6 @@ a {
 				grid-template-columns: auto 1fr;
 				grid-gap: var(--spacing-medium);
 
-				align-items: baseline;
+				align-items: center;
 			}
 		}
