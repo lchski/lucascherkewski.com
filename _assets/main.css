@@ -1,4 +1,5 @@
 @import '_css/_vars.css';
+@import '_css/_misc.css';
 
 body {
 	font-family: var(--ff-serif);
@@ -6,14 +7,33 @@ body {
 }
 
 p {
-	margin-top: var(--spacing-medium);
-	margin-bottom: 0;
+	margin-top: 0;
+	margin-bottom: var(--spacing-medium);
 
 	max-width: 30em;
 }
 
-	p:first-of-type {
-		margin-top: 0;
+	p:last-of-type {
+		margin-bottom: 0;
+	}
+
+
+hr {
+	max-width: 30em;
+	position: relative;
+	border: 0;
+
+	margin: 0;
+	padding: var(--spacing-extra-large) 0;
+}
+
+	hr:after {
+		border: 0.125rem solid rgba(0,0,0,0.1);
+		content: '';
+		width: 40%;
+		font-size: 0;
+		position: absolute;
+		left: 30%;
 	}
 
 a {
@@ -58,6 +78,15 @@ a {
 		padding: var(--spacing-medium) var(--spacing-medium);
 
 		border-bottom: var(--spacing-small) solid rgba(var(--c-dark-purple),0.75);
+	}
+
+	.page__intro,
+	.page__content h1 {
+		font-size: var(--fz-3);
+		font-weight: 400;
+
+		margin-top: 0;
+		margin-bottom: var(--spacing-small);
 	}
 
 	.page__footer {
