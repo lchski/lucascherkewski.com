@@ -1,11 +1,31 @@
+:root {
+	--ff-sans: acumin, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--ff-serif: 'expo-serif-pro', Georgia, serif;
+
+	--fz-1: 3rem;
+	--fz-2: 2.25rem;
+	--fz-3: 1.5rem;
+	--fz-4: 1.25rem;
+	--fz-5: 1rem;
+	--fz-6: .875rem;
+	--fz-7: .75rem;
+}
+
 body {
-	font-family: 'expo-serif-pro', Georgia, serif;
+	font-family: var(--ff-serif);
 	line-height: 1.4;
 }
 
 p {
+	margin-top: 1rem;
+	margin-bottom: 0;
+
 	max-width: 30em;
 }
+
+	p:first-of-type {
+		margin-top: 0;
+	}
 
 a {
 	color: #5E2CA5;
@@ -31,6 +51,58 @@ a {
 		margin-bottom: 0.5rem;
 	}
 
-.page {
+.text-container {
+	background-color: #ffffff;
+	opacity: 0.9;
+
 	padding: 1rem;
 }
+
+.page {
+	background-color: #f4f4f4;
+	background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23A463F2' fill-opacity='0.075'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+	.page__header {
+		padding: 0 1rem;
+
+		border-bottom: 0.5rem solid rgba(53,25,93,0.75);
+	}
+
+	.page__footer {
+		background-color: rgba(53,25,93,0.75);
+		color: rgba(244,244,244, 0.85);
+
+		padding: 1rem;
+
+		font-family: var(--ff-sans);
+		font-size: var(--fz-6);
+	}
+
+		.page__footer nav {
+			margin-top: 0.5rem;
+		}
+
+		.page__footer a {
+			color: rgba(244,244,244, 0.7);
+		}
+
+			.page__footer a:focus {
+				color: #000000;
+			}
+
+.masthead {
+
+}
+
+	.masthead__title {
+		margin: 0;
+
+		font-size: var(--fz-3);
+		font-weight: 400;
+	}
+
+	.masthead__nav {
+		font-family: var(--ff-sans);
+		font-size: var(--fz-6);
+	}
