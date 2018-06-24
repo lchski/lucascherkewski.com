@@ -83,7 +83,10 @@ a {
 			}
 
 .masthead {
+	display: grid;
 
+	grid-template-columns: 1fr;
+	grid-gap: var(--spacing-extra-small);
 }
 
 	.masthead__title,
@@ -106,10 +109,17 @@ a {
 	.masthead__nav {
 		font-family: var(--ff-sans);
 		font-size: var(--fz-6);
-
-		margin-top: var(--spacing-extra-small);
 	}
 
 		.masthead__nav a {
 			margin-right: var(--spacing-small);
+		}
+
+		@media screen and (min-width: 30em) {
+			.masthead {
+				grid-template-columns: auto 1fr;
+				grid-gap: var(--spacing-medium);
+
+				align-items: baseline;
+			}
 		}
