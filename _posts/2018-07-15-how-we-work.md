@@ -25,7 +25,7 @@ I’ve been considering what appeals to me in certain organizations. These chara
 * We have a physical presence: in each others’ lives, in the lives of those we serve or work with, and in our community.
 * We value sustainability and continuity. We’re not indispensable, but people work with us because we do excellent work. Furthermore, the planet isn’t hurt by our success.
 * We value enduring quality—even if at our short-term disadvantage.
-* We’re not precious about process or tools—we focus on outcomes, achieving them however best suits the situation. That said, everything we do is informed and constrained by our values: thought we adapt our approach, we insist on respecting some ethical lines.
+* We’re not precious about process or tools—we focus on outcomes, achieving them however best suits the situation. That said, everything we do is informed and constrained by our values: though we adapt our approach, we insist on respecting some ethical lines.
 * We deliver concrete value—people walk away satisfied, without needing to justify their experience or expense.
 * We do enough to get by, happily.
 * We enable others, facilitating their success.
