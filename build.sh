@@ -3,8 +3,6 @@
 ## Create directories
 mkdir assets
 mkdir assets/css
-mkdir assets/img
-mkdir assets/files
 
 ## CSS
 cd _assets/_tachyons
