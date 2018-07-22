@@ -58,3 +58,34 @@ FOOTNOTES
 .footnote:active {
 	opacity: .8; transition: opacity .15s ease-out;
 }
+
+.table {
+	font-size: 0.875rem;
+
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+	.table tr {
+		border-bottom: 1px solid rgba(0,0,0,0.2);
+	}
+
+	.table th,
+	.table tbody td {
+		padding-bottom: var(--spacing-medium);
+		padding-right: var(--spacing-medium);
+	}
+
+	.table th {
+		font-weight: 600;
+
+		padding-right: var(--spacing-medium);
+	}
+
+	.table tbody {
+		line-height: 1.5;
+	}
+
+	.table tbody td {
+		padding-top: var(--spacing-medium);
+	}
