@@ -2,7 +2,7 @@
 layout: study--post
 title: '“He was how old??”'
 subtitle: 'Analysing historical data about Members of Parliament'
-date: '2018-07-21 17:00:00 -0400'
+date: '2018-07-222 14:00:00 -0400'
 categories:
 published: true
 ---
