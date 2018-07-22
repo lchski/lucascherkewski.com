@@ -2,7 +2,7 @@
 layout: study--post
 title: '“He was how old??”'
 subtitle: 'Analysing historical data about Members of Parliament'
-date: '2018-07-222 14:00:00 -0400'
+date: '2018-07-22 14:00:00 -0400'
 categories:
 published: true
 ---
@@ -22,7 +22,7 @@ Some quick poking around Google yielded few results, so I decided to take the op
 
 Finding such a dataset took a bit of work. The House of Commons publishes [open data about *current* MPs](https://www.ourcommons.ca/en/open-data){:link}, but not MPs from previous Parliaments. The Linked Parliamentary Data Project (LiPaD) offers [a dataset on politicians, including those from previous Parliaments](https://www.lipad.ca/data/){:link}. The dataset is in XML format, which requires more effort to load and analyze than a simple CSV file. I noted the LiPaD dataset as a viable option, but kept looking.
 
-Finally, I found the Library of Parliament’s [parliamentarians search interface](https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/parliamentarians){:link}. At first glance this seemed only useful for searching, but two features make it useful for our purposes: searching without any filters returns every record in the dataset (i.e. every parliamentarian); there’s an export button to download search results in the easy-to-use CSV format. These two features combined allow us to download a CSV containing the information of every Canadian parliamentarian (or, in this case, every MP). I noted [my instructions for extracting the data](https://github.com/lchski/mps-analysis#appendix-extracting-the-data-from-parlinfo){:link} in GitHub.
+Finally, I found the Library of Parliament’s [parliamentarians search interface](https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/parliamentarians){:link}. At first glance this seemed only useful for searching, but two features make it useful for our purposes: searching without any filters returns every record in the dataset (i.e. every parliamentarian); there’s an export button to download search results in the easy-to-use CSV format. These two features combined allow us to download a CSV containing the information of every Canadian parliamentarian (or, in this case, every MP). I noted [my instructions for extracting the data](https://github.com/lchski/mps-analysis#appendix-extracting-the-data-from-parlinfo){:link} from this “[API by accident](https://twitter.com/lchski/status/1017103734789140481){:link}” in GitHub.
 
 With the CSV in hand, I then did some basic analysis with R and the `tidyverse` packages. You can [see the code in my GitHub repo](https://github.com/lchski/mps-analysis){:link}.
 
