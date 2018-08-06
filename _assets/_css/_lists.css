@@ -1,3 +1,8 @@
+ul li,
+ol li {
+	margin-top: var(--spacing-small);
+}
+
 .block-list {
 	padding-left: 0;
 }
