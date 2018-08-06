@@ -1,0 +1,36 @@
+body {
+	font-family: var(--ff-serif);
+	line-height: 1.4;
+}
+
+p {
+	margin: var(--spacing-medium) 0;
+
+	max-width: 30em;
+}
+
+	p:last-of-type {
+		margin-bottom: 0;
+	}
+
+h1, h2, h3, h4 {
+	font-weight: 400;
+}
+
+h1 {
+	font-size: var(--fz-3);
+}
+
+h2 {
+	font-size: var(--fz-4);
+}
+
+h3 {
+	font-size: var(--fz-5);
+}
+
+h4 {
+	font-size: var(--fz-6);
+
+	font-style: italic;
+}

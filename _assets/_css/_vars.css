@@ -10,6 +10,14 @@
 	--fz-6: .875rem;
 	--fz-7: .75rem;
 
+	--spacing-neg-extra-small: -0.25rem;
+	--spacing-neg-small: -0.5rem;
+	--spacing-neg-medium: -1rem;
+	--spacing-neg-large: -2rem;
+	--spacing-neg-extra-large: -4rem;
+	--spacing-neg-extra-extra-large: -8rem;
+	--spacing-neg-extra-extra-extra-large: -16rem;
+
 	--spacing-none: 0;
 	--spacing-extra-small: .25rem;
 	--spacing-small: .5rem;

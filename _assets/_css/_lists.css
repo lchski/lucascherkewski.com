@@ -1,0 +1,11 @@
+.block-list {
+	padding-left: 0;
+}
+
+	.block-list li {
+		margin-bottom: var(--spacing-small);
+	}
+
+.text-item-list {
+
+}
