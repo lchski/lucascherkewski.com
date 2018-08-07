@@ -34,3 +34,11 @@ h4 {
 
 	font-style: italic;
 }
+
+blockquote {
+	margin-left: 0;
+
+	padding-left: var(--spacing-large);
+
+	border-left: var(--spacing-extra-small) double rgba(0,0,0,0.1);
+}
