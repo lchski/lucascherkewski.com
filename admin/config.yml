@@ -3,8 +3,8 @@ backend:
   branch: master
 media_folder: "_assets/_images"
 collections:
-  - name: "blog"
-    label: "Blog"
+  - name: "posts"
+    label: "Blog Posts"
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
