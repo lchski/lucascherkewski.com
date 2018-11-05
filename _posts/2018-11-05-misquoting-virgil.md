@@ -18,10 +18,10 @@ categories: reading
 > {:blockquote__citation}
 {:blockquote}
 
-This line—“No day shall erase you from the memory of time”[^traduction]—stirs something deep inside when you read it in the context of the 9/11 Museum, or here in Ottawa, where it adorns a wall in the [Valiants Memorial](https://www.canada.ca/en/canadian-heritage/services/art-monuments/monuments/valiants.html). In either of those places, this beautiful line offers a powerful call to action.
+This line—“No day shall erase you from the memory of time”[^traduction]—stirs something deep inside when you read it in the context of the 9/11 Museum, or here in Ottawa, where it adorns a wall in the [Valiants Memorial](https://www.canada.ca/en/canadian-heritage/services/art-monuments/monuments/valiants.html){:link}. In either of those places, this beautiful line offers a powerful call to action.
 
-But as Mendelsohn demonstrates, this meaning is not so much a result of the words themselves as it is the context within which they’re read. Though it is odd that we use this quotation in places that commemorate great loss and tragedy, given its original opposite context, this says something about the importance of context to language.
+But as Mendelsohn demonstrates, this meaning is not so much a result of the words themselves as it is the context within which they’re read. Though it’s odd that we use this quotation in places that commemorate great loss and tragedy, given its original opposite context, I don’t think it’s so terrible.
 
-On their own, words only mean so much. It’s from their broader context that they gain their emotional and motivational depth.
+Whereas Mendelsohn bemoans this apparent gaffe, I think it reveals something of the importance of context to language. On their own, words only mean so much. It’s from their broader context that they gain their emotional and motivational depth. Whether for language or life, context provides a depth of meaning.
 
 [^traduction]: I think this phrase is especially beautiful in its French form: _« Rien ne vous effacera jamais de la mémoire du temps »_.
