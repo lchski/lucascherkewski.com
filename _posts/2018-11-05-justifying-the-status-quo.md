@@ -19,4 +19,4 @@ It can be frustrating to go through this justification process while an unjustif
 Defenders of the status quo argue that that idea was justified when it became the status quo, and thus needs no further justification. But this reasoning has two faults:
 
 1. There’s often no conscious decision to designate an as idea the status quo. Ideas become the default in haphazard ways.
-2. Sometimes there is such a decision, to adopt an idea or to go further and designate it as the standard. But any such decisiion is taken within a specific context made up of specific assumptions. If that context changes (a certainty), _that decision is no longer valid, and the status quo becomes unjustified_.
+2. Sometimes there is such a decision, to adopt an idea or to go further and designate it as the standard. But any such decision is taken within a specific context made up of specific assumptions. If that context changes (a certainty), _that decision is no longer valid, and the status quo becomes unjustified_.
