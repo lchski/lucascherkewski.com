@@ -1,0 +1,16 @@
+---
+layout: study
+site_section: study
+---
+
+<article>
+
+	<header>
+		<h1 class="f2 mb0 measure"><a class="dim light-purple" href="{{ page.link }}">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h1>
+	</header>
+
+	<div class="f3 measure lh-copy serif nested-list-item-spacing">
+		{{ content }}
+	</div>
+
+</article>

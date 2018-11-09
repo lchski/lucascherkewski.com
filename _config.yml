@@ -33,6 +33,9 @@ collections:
   books:
     output: true
     permalink: /study/reading/:title/
+  links:
+    output: true
+    permalink: /study/links/:year/:month/:day/:title/
 
 
 # Build settings
