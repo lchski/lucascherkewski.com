@@ -1,3 +1,8 @@
+ul,
+ol {
+	padding-left: var(--spacing-large);
+}
+
 ul li,
 ol li {
 	margin-top: var(--spacing-small);
