@@ -62,6 +62,25 @@ hr {
 		grid-row-end: 4;
 	}
 
+	@media screen and (min-width: 60em) {
+		.page {
+			grid-template-columns: auto auto;
+			align-items: start;
+		}
+
+		.page__header,
+		.page__footer {
+			background: none;
+		}
+
+		.page__footer {
+			align-self: stretch;
+
+			grid-column-start: 1;
+			grid-column-end: 3;
+		}
+	}
+
 .masthead {
 	padding: var(--spacing-large) var(--spacing-medium);
 
