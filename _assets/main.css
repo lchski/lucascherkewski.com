@@ -33,7 +33,7 @@ hr {
 	background-color: var(--c-white);
 	opacity: 0.9;
 
-	padding: var(--spacing-medium);
+	padding: var(--spacing-large) var(--spacing-medium);
 }
 
 .link-list--spaced a {
