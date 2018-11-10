@@ -1,3 +1,16 @@
 i {
 	font-style: italic;
 }
+
+.meta {
+	font-style: italic;
+
+	font-size: var(--fz-6);
+
+	margin: var(--spacing-large) 0;
+}
+
+	.meta p {
+		margin: var(--spacing-small) 0;
+		line-height: 1.2;
+	}

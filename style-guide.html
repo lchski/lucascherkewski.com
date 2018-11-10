@@ -5,6 +5,10 @@ title: "Style guide"
 
 <h1>Primary heading</h1>
 
+<div class="meta">
+	<p>{{ site.time | date: "%e %B %Y" }}<sup>*</sup></p>
+</div>
+
 <p>Followed by a paragraph.</p>
 
 <h2>Secondary heading</h2>
@@ -71,3 +75,8 @@ title: "Style guide"
 </blockquote>
 
 <p>And it’s always good to comment some after providing a quotation.</p>
+
+<div class="meta">
+	<p><sup>*</sup>Site last updated {{ site.time | date: "%l:%S %P on %B %e, %Y" }}.</p>
+	<p>Tags: style-guide / and / other / tags / so / that / we / get / to / two / lines / probably / hopefully</p>
+</div>
