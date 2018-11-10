@@ -5,6 +5,8 @@
 @import '_css/_images.css';
 @import '_css/_misc.css';
 
+@import '_css/_post.css';
+
 html {
 	height: 100%;
 }

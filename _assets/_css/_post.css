@@ -1,0 +1,5 @@
+.post__subtitle {
+	font-style: italic;
+
+	margin-top: var(--spacing-small);
+}
