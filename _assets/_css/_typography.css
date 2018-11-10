@@ -42,3 +42,9 @@ blockquote {
 
 	border-left: var(--spacing-extra-small) double rgba(0,0,0,0.1);
 }
+
+	blockquote cite {
+		font-style: normal;
+
+		font-size: var(--fz-6);
+	}
