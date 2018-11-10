@@ -13,7 +13,7 @@ title: Study (The Cherkewski View)
 	</p>
 </header>
 
-<ul class="block-list text-item-list">
+<ul class="block-list text-item-list bordered-list">
 	{% for post in site.posts %}
 		<li>
 			<h2><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
