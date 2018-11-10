@@ -19,11 +19,13 @@ h1, h2, h3, h4 {
 	margin-top: var(--spacing-large);
 }
 
-h1 {
+h1,
+.h1 {
 	font-size: var(--fz-3);
 }
 
-h2 {
+h2,
+.h2 {
 	font-size: var(--fz-4);
 }
 
