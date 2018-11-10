@@ -10,7 +10,7 @@ site_section: study
 		<p class="post__subtitle">{{ page.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 
 		<div class="meta">
-			<p><time datetime="{{ site.time }}">{{ site.time | date: "%e %B %Y" }}</time></p>
+			<p><time datetime="{{ page.date }}">{{ page.date | date: "%e %B %Y" }}</time></p>
 		</div>
 	</header>
 

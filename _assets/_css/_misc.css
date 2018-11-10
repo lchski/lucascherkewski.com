@@ -14,3 +14,23 @@ i {
 		margin: var(--spacing-small) 0;
 		line-height: 1.2;
 	}
+
+
+
+/*
+FOOTNOTES
+*/
+.footnotes {
+	border-top-style: dotted;
+	border-width: .125rem;
+	border-color: rgba(0,0,0,0.1);
+
+	padding-top: var(--spacing-small);
+	margin-top: var(--spacing-extra-large);
+
+	font-size: var(--fz-6);
+}
+
+	.reversefootnote {
+		font-size: var(--fz-7);
+	}
