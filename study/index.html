@@ -13,7 +13,7 @@ title: Study (The Cherkewski View)
 	</p>
 </header>
 
-<ul class="block-list text-item-list bordered-list">
+<ol class="block-list text-item-list bordered-list">
 	{% assign sorted_posts = (site.posts | concat: site.newsletters | sort: 'date') | reverse %}
 	{% for post in sorted_posts %}
 		<li>
@@ -26,7 +26,7 @@ title: Study (The Cherkewski View)
 			<p class="meta mt0">{{ post.date | date: "%e %B %Y" }}</p>
 		</li>
 	{% endfor %}
-</ul>
+</ol>
 
 {% include aside-links.html %}
 
