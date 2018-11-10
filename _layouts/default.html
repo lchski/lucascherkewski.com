@@ -37,6 +37,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://use.typekit.net/lzl8uvk.css">
     <link rel="stylesheet" href="/assets/css/main.css">
+
+	{% if page.include_netlify_widget %}
+	  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	{% endif %}
 </head>
 {% case layout.site_section %}
 	{% when 'office' %}
@@ -54,5 +58,18 @@
 	</main>
 
 	{% include footer.html %}
+	{% if page.include_netlify_widget %}
+	  <script>
+		if (window.netlifyIdentity) {
+		  window.netlifyIdentity.on("init", user => {
+			if (!user) {
+			  window.netlifyIdentity.on("login", () => {
+				document.location.href = "/admin/";
+			  });
+			}
+		  });
+		}
+	  </script>
+	{% endif %}
 </body>
 </html>
