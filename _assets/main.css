@@ -30,7 +30,6 @@ hr {
 	}
 
 .text-container {
-	background-color: var(--c-white);
 	opacity: 0.9;
 
 	padding: var(--spacing-large) var(--spacing-medium);
@@ -41,13 +40,16 @@ hr {
 }
 
 .page {
-	background-color: var(--c-near-white);
-
 	display: grid;
 	grid-template-rows: auto auto 1fr;
 
 	min-height: 100%;
 }
+
+	.page__header,
+	.page__footer {
+		background-color: var(--c-near-white);
+	}
 
 	.page__intro,
 	.page__content h1 {
