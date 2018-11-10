@@ -1,0 +1,19 @@
+---
+layout: study
+title: Links
+---
+
+<header>
+	<h1 class="page__intro">Links</h1>
+</header>
+
+<ul class="block-list text-item-list bordered-list">
+	{% assign sorted_links = (site.links | sort: 'date') | reverse %}
+	{% for link in sorted_links %}
+		<li>
+			<h2><a href="{{ link.link }}">{{ link.title }}</a></h2>
+			{{ link.content }}
+			<p class="meta"><a href="{{ link.url }}">{{ link.date | date: "%l:%S %P on %B %e, %Y" }}</a></p>
+		</li>
+	{% endfor %}
+</ul>
