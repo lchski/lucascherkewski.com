@@ -3,3 +3,9 @@
 
 	margin-top: var(--spacing-small);
 }
+
+.post__footer {
+	margin-top: var(--spacing-large);
+
+	font-size: var(--fz-6);
+}
