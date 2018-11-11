@@ -17,6 +17,8 @@ h1, h2, h3, h4 {
 	font-weight: 400;
 
 	margin-top: var(--spacing-large);
+
+	max-width: 26em;
 }
 
 h1,

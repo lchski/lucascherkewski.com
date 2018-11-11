@@ -6,6 +6,8 @@ ol {
 ul li,
 ol li {
 	margin-top: var(--spacing-small);
+
+	max-width: 30em;
 }
 
 .block-list {
