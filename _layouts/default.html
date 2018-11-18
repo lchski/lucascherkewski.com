@@ -57,6 +57,12 @@
     	{{ content }}
 	</main>
 
+	{% if layout.site_subsection == "study_study" or layout.site_subsection == "study_newsletter" or layout.site_subsection == "study_link" %}
+	<aside class="page__sidebar">
+
+	</aside>
+	{% endif %}
+
 	{% include footer.html %}
 	{% if page.include_netlify_widget %}
 	  <script>
