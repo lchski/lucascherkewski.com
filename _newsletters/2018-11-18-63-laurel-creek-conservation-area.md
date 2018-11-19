@@ -1,6 +1,6 @@
 Helloooooo there!
 
-A happy Sunday to you. It’s been a long day of writing, but I saved the last bit of writing just for you :)
+A very happy Sunday to you. It’s been a long day of writing, but I saved the last bit of writing just for you :)
 
 I thought I’d try something a bit different today. Rather than sharing links to things I’ve read or my thoughts on the world _waves hand vaguely_, I’d like to tell you about a conservation area that I researched for my environmental history class. 
 
@@ -27,14 +27,13 @@ In investigating these questions, I got to learn a bunch about Ontario’s recre
 
 ## Provincial trends in recreation (and a big pot of money)
 
-During the 1950s and 1960s, Ontario’s population was much more interested in outdoors recreation. With the postwar population explosion, there was huge demand for accessible and affordable recreational spaces. What’s more, widespread access to cars enabled recreation further afield. Country driving became a sort of recreation and people started looking for parks within a few hours drive of home.
+During the 1950s and 1960s, Ontario’s population was big on outdoors recreation. With the postwar population explosion, there was huge demand for accessible and affordable recreational spaces. What’s more, widespread access to cars enabled recreation further afield. Country driving became a sort of recreation and people started looking for parks within a few hours drive of home.
 
 The province responded to this, increasing the funding available to conservation authorities. A 1954 amendment to the _Conservation Authorities Act_ made it easier for conservation authorities to get funding for projects that included recreational components. Previously, they hadn’t explicitly engaged in much recreational development; a few had added beaches to their reservoirs, but the idea of the “conservation area” wasn’t yet widespread.
 
 With these changes, huge amounts of money flowed from the Ministry during the 1950s and early 1960s, spurred in part by Hurricane Hazel: “Between 1953 and 1958 the expenditures of the Conservation Branch of the Department of Planning and Development rose from $240,000 to $1,670,635, an increase of close to 600%, while the percentage of the Branch budget devoted to providing grants to CA [conservation authority] capital expenditures rose from 0% to almost 90%” (Jennifer Anne Cardwell, “The origin and changing role of recreation in Ontario's conservation authorities”, 80).
 
-Conservation authorities jumped at the chance for funding for recreational activities. As semi-political organizations, they recognized that responding to people’s demand for recreation would win them ongoing support, especially as memories of regular and irregular flooding (e.g. Hurricane Hazel) receded.
-Recreational offerings gave conservation authorities a reason to expand their lands, to justify their continued existence, and a revenue safety net (allowing them to fend off reductions in provincial funding).
+Conservation authorities jumped at the chance for funding for recreational activities. As semi-political organizations, they recognized that responding to people’s demand for recreation would win them ongoing support, especially as memories of regular and irregular flooding (e.g. the massive floods from Hurricane Hazel) receded. Recreational offerings gave conservation authorities a reason to expand their lands, to justify their continued existence, and a revenue safety net (allowing them to fend off reductions in provincial funding).
 
 ***
 
@@ -46,7 +45,7 @@ The GRCA was no exception to this pattern. From the 1950s on, the GRCA broadened
 
 In 1952 (before the provincial funding started—GRCA was ahead of the game!), the GRCA formed its “Advisory Board on Recreation”, in response to a petition from the citizens of Elora to develop a recreational area around the Elora Gorge, a popular local spot for swimming and hiking. At the time, recreation was 0% of the organization’s budget.
 
-In 1953, this Advisory Board successfully recommended that the GRCA open a recreational area at Elora Gorge. This would become the immensely popular [Elora Gorge Conservation Area](https://www.grandriver.ca/en/outdoor-recreation/Elora-Gorge.aspx). With this decision, recreation-related spending jumped to _50% of the GRCA’s budget_.
+In 1953, this Advisory Board successfully recommended that the GRCA open a recreational area at Elora Gorge. This would become the immensely popular [Elora Gorge Conservation Area](https://www.grandriver.ca/en/outdoor-recreation/Elora-Gorge.aspx). With this decision, recreation-related spending jumped to _50% of the GRCA’s budget_. (“Fun” fact: in addition to wanting to “guarantee residents of the village free access to the spot which they have enjoyed for over a century”, the Advisory Board cited “an outlet for sewage disposal” as another reason to acquire Elora Gorge.)
 
 In 1954, the Advisory Board continued pushing to open new recreational sites. Recreation-related spending rose again, this time to 67% of the budget. This craze for recreational areas would continue through the 1950s and 1960s, and the number of conservation areas steadily grew.
 
@@ -56,9 +55,9 @@ In 1954, the Advisory Board continued pushing to open new recreational sites. Re
 
 In 1954, the people of Waterloo were getting a bit antsy. Laurel Creek (the actual creek itself), which runs right through the city’s downtown, was prone to flooding—flooding ain’t great for a rapidly developing city.
 
-The GRCA, responsible for flood management, decided to investigate how to manage this unruly waterway. They commissioned an engineering report, which gave four possible sites for a reservoir. The report focused entirely on managing the water levels, with no mention of recreation.
+The GRCA, responsible for flood management, decided to investigate how to manage this unruly waterway. They commissioned an engineering report, which identified four possible sites for a reservoir. The report focused entirely on managing the creek’s water levels, with no mention of recreation.
 
-For reasons that aren’t entirely clear, the GRCA didn’t build a reservoir in 1954. Six years later, they commissioned a second engineering report on the same issue. This time, the engineers proposed the current-day site of Laurel Creek Conservation Area. Interestingly, they cited the reservoir’s potential to include a beach and offer swimming—in other words, the engineers had picked up on the recreational craze.
+For reasons that aren’t entirely clear, the GRCA didn’t build a reservoir in 1954. Six years later, they commissioned a second engineering report on the same issue. This time, the engineers proposed the current-day site of Laurel Creek Conservation Area. Interestingly, this time they cited the reservoir’s potential to include a beach and offer swimming—in other words, the engineers had picked up on the recreational craze.
 
 How do we get to Laurel Creek Conservation Area? In 1964, the GRCA decided to build the reservoir, but they didn’t mention anything about recreation. It wasn’t until three years later that they added recreational components, at the third-highest capital cost of any of their recreation areas. Now the park was open, but would it be a success?
 
@@ -66,15 +65,15 @@ How do we get to Laurel Creek Conservation Area? In 1964, the GRCA decided to bu
 
 ## It turns out people don’t like swimming around tree stumps (or bird poop)
 
-For the first few years, park visitor numbers were about what they GRCA wanted. By the 1970s, though, they took a downward turn.
+For the first few years, park visitor numbers were about what the GRCA wanted. By the 1970s, though, they took a downward turn.
 
 Why was this? The conservation area suffered from a tension between its role as a reservoir and its recreational aspects.
 
-Remember how the GRCA constructed the reservoir, by flooding an existing forest? When they did so, they didn’t uproot the stumps. Unfortunately, this made the reservoir difficult to boat in. What’s more the beach was closed in 1977 due to concerns over water quality. (Birds liked to poop in the water. Humans didn’t like swimming in bird poop.)
+Remember how the GRCA constructed the reservoir, by flooding an existing forest? When they did so, they didn’t uproot the stumps. Unfortunately, this made the reservoir difficult to boat in. What’s more, the beach was closed in 1977 due to concerns over water quality. (Birds liked to poop in the water. Humans didn’t like swimming in bird poop.)
 
 A 1978 report on the reservoir’s water quality noted that the reservoir was too small to host both wildlife and humans. In other words, GRCA would have to choose between water management and recreation.
 
-In 1981, the GRCA developed a proposal to increase visitation by adding an ambitious outdoor pool and recreation centre. This didn’t happen: there was a limit to how much human modification the GRCA would invest in in order to increase recreational value. From this point, the GRCA focused on reforesting the site, but didn’t invest too heavily in recreational opportunities, having prioritized water management.
+In 1981, the GRCA developed a proposal to increase visitation by adding an ambitious outdoor pool and recreation centre. This didn’t happen: there was a limit to how much human modification the GRCA would invest in in order to increase recreational value. From this point on, the GRCA focused on reforesting the site, but didn’t invest too heavily in recreational opportunities, having prioritized water management.
 
 ***
 
