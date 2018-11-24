@@ -3,42 +3,33 @@ layout: study
 title: Study (The Cherkewski View)
 ---
 
-<header class="ph4 pv1 nl4 nr4 mt4 mb4 bg-white-70 bt bb b--black-05 b--dotted bl-0 br-0 mw7 br-ns">
-	<h1 class="f2">Study</h1>
+<header>
+	<h1 class="page__intro">Study</h1>
 
-	<!-- <nav class="f6">
-		<a class="dim light-purple mr1" href="/study/">Study</a>
-		<a class="dim light-purple mr1 i" href="/hit-and-miss/">Hit and Miss</a>
-		<a class="dim light-purple" href="/study/urop/">Research</a>
-	</nav> -->
-
-	<p class="f3 measure lh-copy">
-		This is where I write, about my reading and more, where I <a class="dim light-purple" href="/study/manifesto/">cultivate ideas</a>.
+	<p>
+		This is where I write, about my reading and more, where I <a href="/study/manifesto/">cultivate ideas</a>.
 		Rather than a neat list of articles, think of this as a scattered collection of notes.
 		This is public thinking via the best medium: writing.
 	</p>
-
-	<p class="f5 measure lh-copy black-70">
-		You might also be interested in <a class="dim light-purple" href="/hit-and-miss/">my newsletter</a> or
-		<a class="dim light-purple" href="/study/urop/">my research into the history of educational computing in Ontario</a>.
-	</p>
 </header>
 
-<ul class="list pl0 w-50-ns mw6">
-	{% for post in site.posts %}
-		{% assign post_item_classes = 'b--black-20 pb2' %}
-		{% if forloop.last != true %}
-			{% assign post_item_classes = post_item_classes | append: ' bw1 bb' %}
-		{% endif %}
-		<li class="{{ post_item_classes }}">
-			<h2 class="f4 mb0 lh-title"><a class="link dim light-purple" href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
-			<p class="f6 black-70 mt2 lh-copy">{{ post.subtitle | markdownify | remove: '<p>' | remove: '</p>' }} <span class="i">({{ post.date | date: "%Y" }})</span></p>
+<ol class="block-list text-item-list bordered-list">
+	{% assign sorted_posts = (site.posts | concat: site.newsletters | sort: 'date') | reverse %}
+	{% for post in sorted_posts %}
+		<li>
+			<h2><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
+			{% if post.collection == 'newsletters' %}
+				<p><em>Hit and Miss</em> #{{ post.number }}</p>
+			{% else %}
+				<p>{{ post.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+			{% endif %}
+			<p class="meta mt0">{{ post.date | date: "%e %B %Y" }}</p>
 		</li>
 	{% endfor %}
-</ul>
+</ol>
 
-<footer class="mt4 f6 black-70 w-50-ns mw6">
-	<p class="lh-copy">
-		If you’d like, you can <a class="dim light-purple" href="/feed.xml">subscribe to these posts in your RSS reader</a>.
-	</p>
-</footer>
+{% include aside-links.html %}
+
+{% include aside-newsletter.html %}
+
+{% include aside-rss-study.html %}

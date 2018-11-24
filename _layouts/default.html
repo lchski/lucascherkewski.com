@@ -34,8 +34,9 @@
 	  <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
 	{% endif %}
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="/assets/css/main.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://use.typekit.net/lzl8uvk.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
 
 	{% if page.include_netlify_widget %}
 	  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -43,18 +44,24 @@
 </head>
 {% case layout.site_section %}
 	{% when 'office' %}
-		{% assign site_section_class = 'bg-washed-green' %}
+		{% assign site_section_class = 'page--office' %}
 	{% when 'study' %}
-		{% assign site_section_class = 'bg-washed-yellow' %}
+		{% assign site_section_class = 'page--study' %}
 	{% else %}
-		{% assign site_section_class = 'bg-near-white' %}
+		{% assign site_section_class = '' %}
 {% endcase %}
-<body class="{{ 'pa4 sans-serif ' | append: site_section_class }}">
+<body class="{{ 'page ' | append: site_section_class }}">
 	{% include header.html %}
 
-	<main>
+	<main class="page__content text-container">
     	{{ content }}
 	</main>
+
+	{% if layout.site_subsection == "study_study" or layout.site_subsection == "study_newsletter" or layout.site_subsection == "study_link" %}
+	<aside class="page__sidebar">
+
+	</aside>
+	{% endif %}
 
 	{% include footer.html %}
 	{% if page.include_netlify_widget %}

@@ -3,11 +3,13 @@ layout: study
 site_section: study
 ---
 
-<article>
+<article class="post">
 
 	<header>
-		<h1 class="f2 mb0">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
-		<p class="f5 black-70 measure-wide lh-copy">{{ page.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+		<h1>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
+		<p class="post__subtitle">{{ page.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+
+		<p class="meta"><time datetime="{{ page.date }}">{{ page.date | date: "%e %B %Y" }}</time></p>
 	</header>
 
 	<div class="f3 measure lh-copy serif nested-list-item-spacing">

@@ -1,0 +1,58 @@
+body {
+	font-family: var(--ff-serif);
+	line-height: 1.4;
+}
+
+p {
+	margin: var(--spacing-medium) 0;
+
+	max-width: 30em;
+}
+
+	p:last-of-type {
+		margin-bottom: 0;
+	}
+
+h1, h2, h3, h4 {
+	font-weight: 400;
+
+	margin-top: var(--spacing-large);
+
+	max-width: 26em;
+}
+
+h1,
+.h1 {
+	font-size: var(--fz-3);
+}
+
+h2,
+.h2 {
+	font-size: var(--fz-4);
+}
+
+h3 {
+	font-size: var(--fz-5);
+
+	font-style: italic;
+}
+
+h4 {
+	font-size: var(--fz-6);
+
+	font-style: italic;
+}
+
+blockquote {
+	margin-left: 0;
+
+	padding-left: var(--spacing-medium); /* TODO: Double at wider widths. */
+
+	border-left: var(--spacing-extra-small) double rgba(0,0,0,0.1);
+}
+
+	blockquote cite {
+		font-style: normal;
+
+		font-size: var(--fz-6);
+	}

@@ -1,13 +1,15 @@
-<header>
-	{% case page.url %}
-		{% when '/' %}
-			<h1 class="f3 mt0 lh-solid">Lucas Cherkewski</h1>
-		{% else %}
-			<p class="b f5 dib mt0 lh-solid"><a class="link dim black-80" href="/">Lucas Cherkewski</a><span class="f3">&nbsp;</span></p>
-			<nav class="f6 dib">
-				<a class="dim light-purple mr1" href="/office/">Office</a>
-				<a class="dim light-purple mr1" href="/study/">Study</a>
-				<a class="dim light-purple" href="/contact/">Contact</a>
-			</nav>
-	{% endcase %}
+<header class="page__header masthead">
+	<div class="masthead__me">
+		{% case page.url %}
+			{% when '/' %}
+				<h1 class="masthead__title"><a href="/">Lucas Cherkewski</a></h1>
+			{% else %}
+				<p class="masthead__title"><a href="/">Lucas Cherkewski</a></p>
+		{% endcase %}
+	</div>
+	<nav class="f6 dib masthead__nav link-list--spaced">
+		<a href="/study/">Study</a>
+		<a href="/links/">Links</a>
+		<a href="/contact/">Contact</a>
+	</nav>
 </header>

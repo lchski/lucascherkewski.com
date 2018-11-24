@@ -1,0 +1,15 @@
+<section>
+	<h2>Linkblog</h2>
+
+	<p>I have a <a href="/study/">blogblog</a> and a <a href="/links/">linkblog</a>. The latest links:</p>
+
+	<ul>
+		{% assign sorted_links = (site.links | sort: 'date') | reverse %}
+		{% for link in sorted_links limit: 3 %}
+			<li>
+				<a href="{{ link.link }}">{{ link.title }}</a>
+				(<a href="{{ link.url }}" title="Read my commentary on this link">#</a>)
+			</li>
+		{% endfor %}
+	</ul>
+</aside>

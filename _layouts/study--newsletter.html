@@ -1,21 +1,25 @@
 ---
 layout: study
 site_section: study
+site_subsection: study_newsletter
 ---
 
-<article>
+<article class="post">
 
 	<header>
-		<h1 class="f2 mb0">Hit and Miss #{{ page.number }}: {{ page.title }}</h1>
+		<h1 class="f2 mb0">{{ page.title }}</h1>
+		<p class="post__subtitle">Hit and Miss #{{ page.number }}</p>
+
+		<p class="meta"><time datetime="{{ page.date }}">{{ page.date | date: "%e %B %Y" }}</time></p>
 	</header>
 
 	<div class="f3 measure lh-copy serif nested-list-item-spacing">
 		{{ content }}
 	</div>
 
-	<footer class="mt4 f6">
-		<p class="measure lh-copy">
-			If you’d like to get <em>Hit and Miss</em> delivered to your inbox, <a class="dim light-purple" href="https://buttondown.email/lchski">please consider subscribing</a>.
+	<footer class="post__footer">
+		<p>
+			If you’d like to get <em>Hit and Miss</em> delivered to your inbox, <a href="https://buttondown.email/lchski">please consider subscribing</a>.
 			Thanks for reading!
 		</p>
 	</footer>
