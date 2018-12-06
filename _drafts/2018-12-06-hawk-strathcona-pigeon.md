@@ -26,4 +26,7 @@ It brought to mind a few lines from Mary Oliver’s “Wild Geese”:
 
 While despair isn’t quite the right word to describe it, I was certainly preoccupied with personal thoughts at the time. Seeing the world go on pulled me out of that quagmire, at least for a time.
 
-[MacKinnon anecdote about the hawk at the pond?]
+# [? section on appreciating the natural world, even the gruesome bits]
+
+[MacKinnon anecdote about the hawk at the pond]
+[Macdonald from _H is for Hawk_]
