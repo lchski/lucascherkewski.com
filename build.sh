@@ -5,12 +5,10 @@ mkdir assets
 mkdir assets/css
 
 ## CSS
-cd _assets/_tachyons
 npm install
 npm run build
 
 ## Images
-cd ../..
 cp -r _assets/_images assets/img/
 
 ## Files
