@@ -1,9 +1,9 @@
 ---
 layout: study--post
-title: ''
-subtitle: ''
-date: '2018-12-16 08:44:28 -0500'
-categories:
+title: 'The pigeon in the park'
+subtitle: 'Remembering nature’s force'
+date: '2018-12-16 08:45:00 -0500'
+categories: reading
 published: true
 ---
 
