@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Digital history and digital humanities '
+number: '58'
+date: '2018-10-14 12:00:00 -0400'
+published: true
+---
+
 Heyo!
 
 School is at a heavier point right now. Since I originally conceived this newsletter, in part, as a place to share what I’m reading, I thought I’d share three cool things I’ve read about while taking a digital history course. Apologies if I’ve already spoken effusively of one or more of these to you.
