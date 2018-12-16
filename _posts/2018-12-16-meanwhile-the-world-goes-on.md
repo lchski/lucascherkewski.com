@@ -28,4 +28,12 @@ While despair isn’t quite the right word to describe it, I was certainly preoc
 
 This is why I go to the park and the river almost every day: to remember that, while my own thoughts and feelings and life are valid and so forth, I’m just a small part of a much larger context, of countless creatures and forces pursuing their independent logics.
 
+In writing this, I realize that the end of “Wild Geese” captures precisely this sentiment:
+
+> Whoever you are, no matter how lonely,  
+> the world offers itself to your imagination,  
+> calls to you like the wild geese, harsh and exciting –  
+> over and over announcing your place  
+> in the family of things.
+
 Meanwhile the world goes on.
