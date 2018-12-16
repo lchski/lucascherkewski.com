@@ -29,8 +29,3 @@ While despair isn’t quite the right word to describe it, I was certainly preoc
 This is why I go to the park and the river almost every day: to remember that, while my own thoughts and feelings and life are valid and so forth, I’m just a small part of a much larger context, of countless creatures and forces pursuing their independent logics.
 
 Meanwhile the world goes on.
-
-# [? section on appreciating the natural world, even the gruesome bits]
-
-[MacKinnon anecdote about the hawk at the pond]
-[Macdonald from _H is for Hawk_]
