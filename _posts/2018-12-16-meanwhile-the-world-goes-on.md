@@ -1,7 +1,7 @@
 ---
 layout: study--post
 title: 'Meanwhile the world goes on'
-subtitle: 'The fate of the poor pigeon in the park'
+subtitle: 'When nature and a poem strike you'
 date: '2018-12-16 08:30:00 -0500'
 categories:
 published: true
@@ -17,11 +17,11 @@ The ducks in the reeds suddenly jumped, and I heard the flock of pigeons behind 
 
 It brought to mind a few lines from Mary Oliver’s “Wild Geese”:
 
-> Tell me about despair, yours, and I will tell you mine.
-> Meanwhile the world goes on.
-> Meanwhile the sun and the clear pebbles of the rain
-> are moving across the landscapes,
-> over the prairies and the deep trees,
+> Tell me about despair, yours, and I will tell you mine.  
+> Meanwhile the world goes on.  
+> Meanwhile the sun and the clear pebbles of the rain  
+> are moving across the landscapes,  
+> over the prairies and the deep trees,  
 > the mountains and the rivers.
 
 While despair isn’t quite the right word to describe it, I was certainly preoccupied with personal thoughts at the time. Seeing the world go on pulled me out of that quagmire, at least for a time.
