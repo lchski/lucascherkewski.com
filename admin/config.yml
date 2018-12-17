@@ -5,6 +5,7 @@ media_folder: "_assets/_images"
 collections:
   - name: "posts"
     label: "Blog Posts"
+    label_singular: "Blog Post"
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -15,4 +16,17 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Published", name: "published", widget: "boolean", default: false}
       - {label: "Categories", name: "categories", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "links"
+    label: "Links"
+    label_singular: "Link"
+    folder: "_links"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "study--link"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Linked URL", name: "link", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Published", name: "published", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
