@@ -14,7 +14,7 @@ ol li {
 	padding-left: 0;
 }
 
-	.block-list li {
+	.block-list > li {
 		margin-bottom: var(--spacing-small);
 	}
 
@@ -22,7 +22,7 @@ ol li {
 	list-style: none;
 }
 
-.bordered-list li {
+.bordered-list > li {
 	border-bottom: 0.125rem dotted rgba(0,0,0,0.1);
 
 	padding-bottom: var(--spacing-large);
