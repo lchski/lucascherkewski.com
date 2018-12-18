@@ -7,7 +7,7 @@
 		{% assign sorted_links = (site.links | sort: 'date') | reverse %}
 		{% for link in sorted_links limit: 3 %}
 			<li>
-				<a href="{{ link.link }}">{{ link.title }}</a>
+				<a href="{{ link.link }}">{{ link.link_title }}</a>
 				(<a href="{{ link.url }}" title="Read my commentary on this link">#</a>)
 			</li>
 		{% endfor %}
