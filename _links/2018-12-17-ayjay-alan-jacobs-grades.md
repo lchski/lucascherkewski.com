@@ -3,7 +3,7 @@ layout: study--link
 title: ayjay alan-jacobs grades
 link_title: Grades and Grading – Snakes and Ladders
 link: 'https://blog.ayjay.org/grades-and-grading/'
-date: 2018-12-18T02:00:00.000Z
+date: 2018-12-18T01:00:00.000Z
 published: true
 ---
 I wrote earlier this year to a professor of mine who’d asked what students expect from their university experience (and, by extension, their professors). One point I noted was that I’m always curious to understand my professors’ teaching philosophies. A few questions I wish I could ask every professor:
