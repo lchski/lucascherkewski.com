@@ -22,7 +22,7 @@ collections:
     label_singular: "Link"
     folder: "_links"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "study--link"}
       - {label: "Title", name: "title", widget: "string"}
