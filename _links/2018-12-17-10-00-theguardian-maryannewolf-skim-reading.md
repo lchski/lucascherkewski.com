@@ -14,7 +14,7 @@ One of the advantages to reading on the page comes from its spatial quality. Rea
 One memory and one thought come to mind:
 
 1. Recently I was trying to find a passage in a book of aphorisms. I thought I could remember _where_ on the page this passage was located (top half of the left-hand page), but I flipped through the book repeatedly with no luck. In so doing, though, I ended up reading many more aphorisms, a happy result. (Maybe I’m like Umberto Eco, [who recalled reading a key line that inspired his thesis in an obscure book, only to later find that the line wasn’t in the book](https://www.theguardian.com/lifeandstyle/2015/jun/26/umberto-eco-antilibrary-oliver-burkeman).)
-2. What, then, does this spatial quality of reaidng mean for us when we design and redesign websites? When doing so, we change the form in which the content is conveyed. Perhaps it doesn’t at all matter, as we’re reading on screen and thus lack entirely the spatial qualities of the page.
+2. What, then, does this spatial quality of reading mean for us when we design and redesign websites? When doing so, we change the form in which the content is conveyed. Perhaps it doesn’t at all matter, as we’re reading on screen and thus lack entirely the spatial qualities of the page.
 
 Fortunately, Wolf offers a positive finish:
 
