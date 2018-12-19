@@ -73,7 +73,11 @@
 				{% include aside-rss-study.html %}
 			{% when 'link' %}
 				{% include aside-rss-links.html %}
+			{% when 'newsletter-index' %}
+				{% include aside-newsletterroll.html %}
+				{% include aside-rss-newsletter.html %}
 			{% when 'newsletter' %}
+				{% include aside-newsletter.html %}
 				{% include aside-newsletterroll.html %}
 				{% include aside-rss-newsletter.html %}
 			{% else %}
