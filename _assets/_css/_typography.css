@@ -56,3 +56,9 @@ blockquote {
 
 		font-size: var(--fz-6);
 	}
+
+.text-container {
+	opacity: 0.9;
+
+	padding: var(--spacing-large) var(--spacing-medium);
+}

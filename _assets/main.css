@@ -30,12 +30,6 @@ hr {
 		left: 30%;
 	}
 
-.text-container {
-	opacity: 0.9;
-
-	padding: var(--spacing-large) var(--spacing-medium);
-}
-
 .link-list--spaced a {
 	margin-right: var(--spacing-small);
 }
