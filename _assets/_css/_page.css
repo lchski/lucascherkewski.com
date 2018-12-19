@@ -1,3 +1,7 @@
+:root {
+	--sidebar-border: var(--spacing-extra-small) double rgba(var(--c-gold),0.5);
+}
+
 .page {
 	display: grid;
 	grid-template-rows: auto auto 1fr;
@@ -19,13 +23,20 @@
 		line-height: 1;
 	}
 
+	.page__sidebar {
+		border-top: var(--sidebar-border);
+		border-bottom: var(--sidebar-border);
+
+		background: rgba(var(--c-gold), 0.05);
+	}
+
 	.page__sidebar section:first-child h2 {
 		margin-top: var(--spacing-extra-small);
 	}
 
 	.page__footer {
-		grid-row-start: 3;
-		grid-row-end: 4;
+		grid-row-start: 4;
+		grid-row-end: 5;
 	}
 
 	@media screen and (min-width: 50em) {
@@ -44,7 +55,9 @@
 
 			background: rgba(var(--c-gold), 0.05);
 
-			border-left: var(--spacing-extra-small) double rgba(var(--c-gold),0.5);
+			border-top: 0;
+			border-bottom: 0;
+			border-left: var(--sidebar-border);
 		}
 	}
 
