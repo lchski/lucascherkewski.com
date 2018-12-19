@@ -14,6 +14,10 @@
 		background-color: var(--c-near-white);
 	}
 
+	.page__header {
+		padding: var(--spacing-large) var(--spacing-medium);
+	}
+
 	.page__intro,
 	.page__content h1,
 	.page__sidebar section:first-child h2 {
@@ -37,6 +41,8 @@
 	.page__footer {
 		grid-row-start: 4;
 		grid-row-end: 5;
+
+		padding: var(--spacing-large) var(--spacing-medium);
 	}
 
 	@media screen and (min-width: 50em) {
@@ -63,7 +69,7 @@
 
 	@media screen and (min-width: 60em) {
 		.page {
-			grid-template-columns: 12em 1fr 21em;
+			grid-template-columns: 13em 1fr 21em;
 
 			grid-column-gap: var(--spacing-large);
 		}
@@ -76,6 +82,8 @@
 
 		.page__header {
 			grid-column: 1 / 2;
+
+			padding-left: var(--spacing-large);
 		}
 
 		.page__sidebar {
@@ -97,6 +105,12 @@
 
 	@media screen and (min-width: 75em) {
 		.page {
-			grid-template-columns: 12em 38em 21em;
+			grid-template-columns: 13em 38em 21em;
+		}
+
+		.page__header,
+		.page__content,
+		.page__sidebar {
+			margin-top: var(--spacing-large);
 		}
 	}
