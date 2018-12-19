@@ -40,7 +40,7 @@ title: Introducing Computers in Ontario’s Classrooms
 </p>
 
 <ul class="list pl0 w-50-ns mw6 mt4">
-	{% assign sorted_findings = (site.findings | sort: 'date') | reverse %}
+	{% assign sorted_findings = site.findings | sort: 'date' | reverse %}
 	{% for finding in sorted_findings %}
 		{% assign finding_item_classes = 'b--black-20 pb2' %}
 		{% if forloop.last != true %}

@@ -16,7 +16,7 @@ sidebar_type: post
 </header>
 
 <ol class="block-list text-item-list bordered-list">
-	{% assign sorted_posts = (site.posts | concat: site.newsletters | sort: 'date') | reverse %}
+	{% assign sorted_posts = site.posts | concat: site.newsletters | sort: 'date' | reverse %}
 	{% for post in sorted_posts %}
 		<li>
 			<h2><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>

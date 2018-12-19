@@ -8,7 +8,7 @@ title: Hit and Miss
 </header>
 
 <ul class="list pl0 w-50-ns mw6">
-	{% assign sorted_books = (site.books | sort: 'date') | reverse %}
+	{% assign sorted_books = site.books | sort: 'date' | reverse %}
 	{% for book in sorted_books %}
 		{% assign book_item_classes = 'b--black-20 pb2' %}
 		{% if forloop.last != true %}
