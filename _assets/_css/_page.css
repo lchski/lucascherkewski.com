@@ -2,6 +2,15 @@
 	--sidebar-border: var(--spacing-extra-small) double rgba(var(--c-gold),0.5);
 }
 
+.page,
+.page__header,
+.page__content,
+.page__sidebar,
+.page__sidebar section,
+.page__footer {
+	transition: all 0.25s;
+}
+
 .page {
 	display: grid;
 	grid-template-rows: auto auto 1fr;
