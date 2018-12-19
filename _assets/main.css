@@ -36,24 +36,6 @@ hr {
 	padding: var(--spacing-large) var(--spacing-medium);
 }
 
-	@media screen and (min-width: 60em) {
-		.text-container {
-			display: grid;
-
-			grid-template-columns: 3fr 1fr;
-		}
-
-			.text-container :not(aside) {
-				grid-column-start: 1;
-				grid-column-end: 2;
-			}
-
-			.text-container aside {
-				grid-column-start: 2;
-				grid-column-end: 3;
-			}
-	}
-
 .link-list--spaced a {
 	margin-right: var(--spacing-small);
 }

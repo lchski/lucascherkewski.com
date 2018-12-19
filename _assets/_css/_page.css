@@ -48,22 +48,29 @@
 
 	@media screen and (min-width: 60em) {
 		.page {
-			grid-template-columns: 14em auto;
+			grid-template-columns: 20em auto;
+
+			grid-column-gap: var(--spacing-large);
 		}
 
 		.page__header,
+		.page__sidebar,
 		.page__footer {
 			background: none;
 		}
 
 		.page__header {
+			grid-column: 2 / 3;
+		}
+
+		.page__sidebar {
+			grid-row: 2 / 3;
 			grid-column: 1 / 2;
 		}
 
 		.page__footer {
 			align-self: stretch;
 
-			grid-column-start: 2;
-			grid-column-end: 3;
+			grid-column: 2 / 3
 		}
 	}
