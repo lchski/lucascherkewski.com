@@ -27,3 +27,7 @@ ol li {
 
 	padding-bottom: var(--spacing-large);
 }
+
+.spacey-list > li {
+	padding-bottom: var(--spacing-extra-extra-large);
+}
