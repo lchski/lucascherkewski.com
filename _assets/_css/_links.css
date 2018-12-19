@@ -9,8 +9,8 @@ a {
 	}
 
 	a:focus {
-		background-color: var(--c-gold);
-		outline: 3px solid var(--c-gold);
+		background-color: rgb(var(--c-gold));
+		outline: 3px solid rgb(var(--c-gold));
 		color: var(--c-black);
 
 		text-decoration: none;
