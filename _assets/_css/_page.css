@@ -50,7 +50,7 @@
 
 	@media screen and (min-width: 60em) {
 		.page {
-			grid-template-columns: 12em 1fr 20em;
+			grid-template-columns: 12em 1fr 21em;
 
 			grid-column-gap: var(--spacing-large);
 		}
@@ -72,6 +72,7 @@
 
 			border-color: rgba(var(--c-gold), 0.1);
 			padding-left: var(--spacing-large);
+			padding-right: var(--spacing-large);
 		}
 
 		.page__footer {
@@ -83,6 +84,6 @@
 
 	@media screen and (min-width: 75em) {
 		.page {
-			grid-template-columns: 12em 39em 20em;
+			grid-template-columns: 12em 38em 21em;
 		}
 	}
