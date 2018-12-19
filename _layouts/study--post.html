@@ -7,9 +7,9 @@ site_section: study
 
 	<header>
 		<h1>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
-		<p class="post__subtitle">{{ page.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+		{% if page.subtitle %}<p class="post__subtitle">{{ page.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
 
-		<p class="meta"><time datetime="{{ page.date }}">{{ page.date | date: "%e %B %Y" }}</time></p>
+		{% if page.date %}<p class="meta"><time datetime="{{ page.date }}">{{ page.date | date: "%e %B %Y" }}</time></p>{% endif %}
 	</header>
 
 	<div class="f3 measure lh-copy serif nested-list-item-spacing">
