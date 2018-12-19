@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Learning and escaping through simulation'
+number: '51'
+date: '2018-08-26 20:23:56'
+published: true
+---
+
 Happy Sunday!
 
 Have you ever played *Sims*, or a related game like *SimCity*? If you have, the phrase “reticulating splines” likely brings back fond memories of hours spent building houses, directing Sims, or planning cities.
@@ -11,3 +19,5 @@ Games like *Sims* and *SimCity* are particularly attractive to my non-competitiv
 Last night, my friends and I decided to pass the time together by inventing a life none of us would likely ever live, that of a jock who won the lottery and owned a bar. *Sims* allows you to play out alternate lives in a cartoon world. It’s hardly a perfect mirror of real life—some things are much easier in the game than they are in the real world. But when things get too much, having an escape is important.
 
 Whether it’s games, books, walks, or something else, I hope you have a good way to escape when needed. All the best for the week ahead.
+
+Lucas

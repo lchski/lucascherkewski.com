@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Dropping in'
+number: '56'
+date: '2018-09-30 11:28:49'
+published: true
+---
+
 Ask me what I love about Ottawa and you’re sure to get a long list of my favourite spots.
 
 It won’t take long for me to mention my beloved [National Gallery](https://www.gallery.ca/) (NGC). I’ll tell you that I love to sit on the cafe patio, sipping coffee and eating a pastry while looking out on Parliament, the Supreme Court, Library and Archives, and the occasional bird of prey that swoops lazily by. 

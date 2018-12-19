@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Repeated experiences'
+number: '54'
+date: '2018-09-16 10:44:27'
+published: true
+---
+
 I recently questioned myself for wanting to rewatch an episode from a favourite TV show. Why waste the chance to explore some of the almost unlimited variety of books, TV, and film available to me? With so much out there, I thought, why would I return to something I’ve already seen?
 
 I realized, then, that I actually appreciate repeated experiences the most. This extends beyond cultural experiences, like reading or watching or listening. When I walk, I often take one of a handful of routes. Though this may exhaust some, I enjoy seeing the little changes that pile up over time, how the landscape slowly morphs through the seasons and the years. (It helps that Ottawa has so many great places through which to walk.)

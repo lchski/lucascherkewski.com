@@ -1,3 +1,13 @@
+---
+layout: study--newsletter
+title: 'Cool recipes for a hot day'
+number: '48'
+date: '2018-08-05 16:16:44'
+published: true
+---
+
+Hia,
+
 I’m brained out from the heat and am thinking through a few ideas for future newsletters. (Plus, ruminating on whether to continue with the newsletter.) In the meantime, here are some of my favourite cool recipes for a hot day:
 
 * *Parsley salad.* Chop a bunch of parsley roughly. Crush some garlic. Add a generous amount of olive oil, and a bit of vinegar (your choice as to the variety). Mix and enjoy. (adapted from Tamar Adler’s *An Everlasting Meal*)

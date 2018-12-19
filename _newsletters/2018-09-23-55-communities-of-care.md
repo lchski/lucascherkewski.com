@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Communities of care'
+number: '55'
+date: '2018-09-23 16:11:46'
+published: true
+---
+
 I’m somewhat under the weather today, despite it (the weather) actually being rather lovely. None of the usual remedies (tea, opera, walking) are succeeding at restoring my usual energetic and cheery self (heh—only one of those is remotely regular). Not to worry. So it goes, some days—we have to be open to admitting that we can’t conquer ourselves, that sometimes our bodies and minds need rest, even when there remains work to do.
 
 With this in mind, I thought I’d have to call off this week’s letter. But, after noting some fallen branches strewn about the riverside during my afternoon walk, I realized that there is some small thing I can talk about. I have more to say on this topic, but for today this’ll have to do.

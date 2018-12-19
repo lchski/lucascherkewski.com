@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Working and rest'
+number: '65'
+date: '2018-12-02 10:29:17'
+published: true
+---
+
 Hia!
 
 I’ve been thinking about weekends and rest lately. Yesterday, for the first time in over a month, I barely did any schoolwork. (Not that I didn’t want to, it’s just that when I tried to do so, I fell asleep—it’s been a long week.) It felt—and feels—good.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Writing in books, a personal history'
+number: '53'
+date: '2018-09-09 11:21:54'
+published: true
+---
+
 Hi there!
 
 A very happy Sunday to you. It’s gloriously sunny _and_ cool outside, which has me in a splendid mood.

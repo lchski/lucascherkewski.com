@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Digital history and digital humanities'
 number: '58'
-date: '2018-10-14 12:00:00 -0400'
+date: '2018-10-14 09:00:00'
 published: true
 ---
 

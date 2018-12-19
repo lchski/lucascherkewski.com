@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Speeches from the throne, thinking tools'
 number: '67'
-date: '2018-12-16 12:00:00 -0400'
+date: '2018-12-16 12:00:27'
 published: true
 ---
 

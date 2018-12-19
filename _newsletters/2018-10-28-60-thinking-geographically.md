@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Thinking geographically'
+number: '60'
+date: '2018-10-28 19:04:20'
+published: true
+---
+
 Hello!
 
 In the last few months, I’ve grown increasingly interested in using cartography to understand the world. I’ve always found maps particularly useful ways to orient myself (hehe), and find that I often think geographically. Lately, though, [I’ve taken an interest in creating and interacting with geographic models outside of my head](https://twitter.com/lchski/status/1053471648060387328).

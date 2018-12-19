@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Competing priorities at Laurel Creek Conservation Area'
+number: '63'
+date: '2018-11-18 19:05:12'
+published: true
+---
+
 Helloooooo there!
 
 A very happy Sunday to you. It’s been a long day of writing, but I saved the last bit of writing just for you :)

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Thinky thinky'
+number: '61'
+date: '2018-11-04 20:26:27'
+published: true
+---
+
 Hia!
 
 For those who attentively read and remember my newsletters, you’ll know that I said I’d likely share some research findings   about a conservation area in this newsletter. I _will_ do that, but not today. Apologies if you’d been waiting with bated breath.

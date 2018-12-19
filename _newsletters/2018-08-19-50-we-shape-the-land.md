@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'We shape the land'
+number: '50'
+date: '2018-08-19 13:11:11'
+published: true
+---
+
 I spent last Sunday morning sitting with a friend [in the shade of Parliament Hill](https://goo.gl/maps/s1KD743Vep12), talking and watching the birds on the water. That evening, I sat [in nearby Strathcona Park](https://goo.gl/maps/Si8ticV9BaQ2), reading and watching the birds on the water.
 
 Compared to most of the city around me, both spots feel “natural”, though both have been heavily shaped and manicured over time. In an urban setting, this is no surprise: little remains untouched over years of city building. But even our rural spaces, those that feel wilder or those that we might describe as “nature”, have been affected by human action.
@@ -19,3 +27,4 @@ The challenge of climate change to humanity is enormous, and it’s not one I th
 All the best for the week ahead, and good luck with making good choices.
   
 Lucas
+
