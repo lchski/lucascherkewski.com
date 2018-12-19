@@ -42,7 +42,7 @@
 		.page__sidebar {
 			align-self: stretch;
 
-			background: rgba(var(--c-gold), 0.1);
+			background: rgba(var(--c-gold), 0.05);
 		}
 	}
 
