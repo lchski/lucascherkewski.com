@@ -1,5 +1,18 @@
 <section>
 	<h2>Newsletterroll [?]</h2>
 
+	<p>
+		I think newsletters are where some of the best writing on the web is happening.
+		Here are three randomly-selected newsletters that I enjoy. (<a href="/rolls/">Check out my full list.</a>)
+	</p>
 
+	<ul>
+		{% assign newsletterroll = site.data.rolls | where: "type", "newsletter" | sample: 3 %}
+
+		{% for newsletter in newsletterroll %}
+			<li>
+				<a href="{{ newsletter.url }}">{{ newsletter.label }}</a>
+			</li>
+		{% endfor %}
+	</ul>
 </section>

@@ -1,5 +1,15 @@
 <section>
 	<h2>Blogroll</h2>
 
+	<p>Here are three randomly-selected blogs that I enjoy. (<a href="/rolls/">Check out my full list.</a>)</p>
 
+	<ul>
+		{% assign blogroll = site.data.rolls | where: "type", "blog" | sample: 3 %}
+
+		{% for blog in blogroll %}
+			<li>
+				<a href="{{ blog.url }}">{{ blog.label }}</a>
+			</li>
+		{% endfor %}
+	</ul>
 </section>
