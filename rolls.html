@@ -3,3 +3,33 @@ layout: study--post
 title: Rolls
 subtitle: Recommended blogs and newsletters
 ---
+
+<p>
+	Sometimes I want to Read Things on the Internet, but without idly scrolling through Twitter. When in that mood, I turn to
+	these fine folks and their blogs. (In no particular order—the list is randomly reordered each time this site regenerates.)
+</p>
+
+<ul>
+	{% assign blogroll = site.data.rolls | where: "type", "blog" | sample: 1000 %}
+
+	{% for blog in blogroll %}
+		<li>
+			<a href="{{ blog.url }}">{{ blog.label }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
+<p>
+	And some newsletters! I’m always happy to see a newsletter from these writers land in my inbox. (Same deal on the random ordering.)
+</p>
+
+<ul>
+	{% assign newsletterroll = site.data.rolls | where: "type", "newsletter" | sample: 1000 %}
+
+	{% for newsletter in newsletterroll %}
+		<li>
+			<a href="{{ newsletter.url }}">{{ newsletter.label }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
