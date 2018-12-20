@@ -47,6 +47,10 @@
 			margin-bottom: var(--spacing-large);
 		}
 
+			.page__sidebar section:last-child {
+				margin-bottom: 0;
+			}
+
 		.page__sidebar section:first-child h2 {
 			margin-top: var(--spacing-extra-small);
 		}
