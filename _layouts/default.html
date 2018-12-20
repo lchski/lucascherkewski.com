@@ -66,9 +66,13 @@
 		{% endif %}
 
 		{% case sidebar_type %}
-			{% when 'post' %}
+			{% when 'post-index' %}
 				{% include aside-links.html %}
 				{% include aside-newsletter.html %}
+				{% include aside-blogroll.html %}
+				{% include aside-rss-study.html %}
+			{% when 'post' %}
+				{% include aside-links.html %}
 				{% include aside-blogroll.html %}
 				{% include aside-rss-study.html %}
 			{% when 'link' %}
