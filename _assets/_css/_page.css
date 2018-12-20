@@ -124,7 +124,11 @@
 		.page__header,
 		.page__content,
 		.page__sidebar {
-			margin-top: var(--spacing-large);
+			padding-top: var(--spacing-extra-large);
+		}
+
+		.page__footer {
+			padding-bottom: var(--spacing-extra-large);
 		}
 
 		.page__sidebar section {
