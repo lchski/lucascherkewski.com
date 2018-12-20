@@ -1,5 +1,5 @@
 ---
-layout: study--post--unconstrained
+layout: study--post
 title: 'Documenting drafts: Hit and Miss #2'
 subtitle: 'A peek behind the scenes of my editing process'
 date: '2017-09-20 20:00:00 -0400'
