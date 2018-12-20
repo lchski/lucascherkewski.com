@@ -121,6 +121,11 @@
 			grid-template-columns: 13em 36em 23em;
 		}
 
+		.page__intro,
+		.page__content h1 {
+			margin-top: -0.55rem;
+		}
+
 		.page__header,
 		.page__content,
 		.page__sidebar {

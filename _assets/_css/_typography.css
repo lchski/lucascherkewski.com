@@ -26,6 +26,13 @@ h1,
 	font-size: var(--fz-3);
 }
 
+	@media screen and (min-width: 78em) {
+		h1,
+		.h1 {
+			font-size: var(--fz-2);
+		}
+	}
+
 h2,
 .h2 {
 	font-size: var(--fz-4);
