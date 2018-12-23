@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Reading (and writing) heals'
+number: '68'
+date: '2018-12-23 12:30:00'
+published: true
+---
+
 Hi!
 
 It’s been a week of reading and visiting old friends. In the spirit of these two topics, and to reprise [last year’s pre-Christmas newsletter](https://lucascherkewski.com/hit-and-miss/16-three-welcome-books/), here are three books I read this year that I reckon will become old friends of mine:
