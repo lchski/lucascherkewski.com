@@ -6,7 +6,7 @@ link: 'https://www.newyorker.com/magazine/2015/12/07/teach-yourself-italian'
 date: 2018-12-24T03:38:46.138Z
 published: true
 ---
-Jhumpa Lahiri shares their experience learning Italian, and how that changed upon moving to Italy for a more immersive experience.
+Jhumpa Lahiri shares their personal history of learning Italian, and how that changed upon moving to Italy for a more immersive experience.
 
 On the impulse to write, to express, even—especially?—in this unfamiliar language:
 
