@@ -7,7 +7,7 @@ link_title: 'Library Rules: How to make an open office plan work'
 date: 2018-12-27T15:06:45.298Z
 published: true
 ---
-We have an open office plan at work, as does just about everybody these days. While acknowledging the organizational benefits of open offices (lower costs, essentially), Jason Fried shares some thoughts on how to implement such a plan _thoughtfully_, with respect for the people who’ll actually work in such a space—he considers not just the organization as a user, but also the organization’s employees.
+We have an open office plan at work, as does just about everybody these days. While acknowledging the organizational benefits of open offices (lower costs, essentially), Jason Fried (CEO of Basecamp) shares some thoughts on how to implement such a plan _thoughtfully_, with respect for the people who’ll actually work in such a space—he considers not just the organization as a user, but also the organization’s employees.
 
 There are two prongs to Basecamp’s open office approach.
 
