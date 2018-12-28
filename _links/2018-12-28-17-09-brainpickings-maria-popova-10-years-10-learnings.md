@@ -1,7 +1,7 @@
 ---
 layout: study--link
 title: brainpickings maria-popova 10-years-10-learnings
-link: 'binhttps://www.brainpickings.org/2016/10/23/10-years-of-brain-pickings/'
+link: 'https://www.brainpickings.org/2016/10/23/10-years-of-brain-pickings/'
 link_title: 10 Learnings from 10 Years of Brain Pickings
 date: 2018-12-28T22:08:52.205Z
 published: true
