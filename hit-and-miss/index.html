@@ -19,7 +19,7 @@ sidebar_type: newsletter-index
 	{% assign sorted_newsletters = site.newsletters | sort: 'date' | reverse %}
 	{% for newsletter in sorted_newsletters %}
 		<li>
-			<h2><a href="{{ newsletter.url }}">#{{ newsletter.number }}: {{ newsletter.title }}</a></h2>
+			<h2><a href="{{ newsletter.url }}">#{{ newsletter.number }}: {{ newsletter.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
 			<p class="meta mt0">{{ newsletter.date | date: '%B ~%dth, %Y' | replace: '~0', '' | replace: '~', '' | replace: '1th', '1st' | replace: '2th', '2nd' | replace: '3th', '3rd' | replace: '11st', '11th' | replace: '12nd', '12th' | replace: '13rd', '13th' }}</p>
 		</li>
 	{% endfor %}
