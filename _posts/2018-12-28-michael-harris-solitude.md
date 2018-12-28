@@ -19,27 +19,7 @@ How do you practice solitude? Harris doesn’t offer a single recipe. He provide
 
 You’ll notice a theme: Harris’s work encourages us to figure out *for ourselves* what solitude is, what it looks like for us. Solitude is by nature an individual concept.
 
-***
-
-In that spirit, I want to note a few of the connections I made, and reactions I had, while reading the book. These are largely for my own reference (and are heavily self-referential), but I’m sharing them here in case you’re interested:
-
-* Harris quotes many of my faves: Henry David Thoreau, Alison Gopnik, Rainer Maria Rilke, Vannevar Bush, Neil Postman, Wendell Berry, Maryanne Wolf, Alberto Manguel, Rebecca Solnit.
-
-	In preparing and writing that list, I note that many of those people are guys, and I wonder how much of the privilege of solitude has long been restricted to men. (Harris picks up on this point throughout the book.)
-	
-	Maybe it’s that a certain kind of solitude, the most disconnected kind, has been traditionally enjoyed by men while women have been forced to find solitude elsewhere. For the latter, I think of [Ursula K. Le Guin’s find solitude in “the solidity of household life”](https://lucascherkewski.com/links/2018/12/26/15-54-newyorker-julie-phillips-fantastic-ursula-k-le-guin/).
-	
-* Craig Mod, in [his essay on regaining attention](https://lucascherkewski.com/links/2018/12/26/16-27-craigmod-craig-mod-attention/), provides a few examples of rules for doing so. I think these can offer good guidelines for those looking to practice the solitude Harris describes.
-
-* Harris describes our machine-like consumption of social media, a consumption that’s been carefully engineered by cognitive psychology experts working for tech companies. I reflected on my own earlier attempts to cut off my social media consumption, and the realization I had earlier this year of [the rather sinister denotations and connotations of the word “feed”](https://lucascherkewski.com/hit-and-miss/18-feed/).
-
-	This deeply discomforted me, because I realize that I’ve largely failed to cut these things from my life. Indeed, I recently significantly increased my presence on Twitter and Instagram, but for what? I can’t give a good answer to that question. That worries me. The senseless passage of time on social media—not to mention the business models of these platforms, which rely on our free labour, as Harris describes—offers me, when I try to account for it, very little. So why am I there? Am I trying to fill some hole? Are there other ways to fill that hole? And what does it say that, despite my repeated attempts to get away, I keep returning to these platforms, _despite my deep reservations about them_?
-
-* Harris’s descriptions of how solitude causes us to develop a stronger inner understanding, and the difficulty of communicating that inner understanding (on which more at the end of this piece), came to mind when I read [Jhumpa Lahiri’s account of learning Italian](https://lucascherkewski.com/links/2018/12/23/23-08-newyorker-jhumpa-lahiri-teach-yourself-italian/).
-
-	Lahiri describes the greater understanding gained by working within the constraints of her limited Italian. This is similar, I think, to Harris’s point about how our deep, complex, nuanced inner understanding is clarified by passing it through the constraints of language. When we try to communicate with others, we must inevitably compromise somewhat on our thoughts. Some can better capture the entirety of their thinking—or, perhaps, they have a clearer internal understanding—while others can become frustrated with the limits of language.
-	
-	This is an important idea in general, but I think it speaks also to our responsibility to be understanding and generous with others: we’re all struggling against the same constraints, so we shouldn’t hold each other too tightly to what or how we speak our thoughts; instead, graciously give space for reconsideration and clarification, to yourself and to others.
+(In that spirit, I [noted a few of the connections I made, and reactions I had, while reading the book](/study/michael-harris-solitude-connections/). It’s largely for my own reference, and heavily self-referential, but I’m posting it publicly in case you’re interested in how my head works.) 
 
 ***
 
