@@ -1,4 +1,4 @@
-Returning home, remembering the past, reconsidering the future
+Returning home and time’s triptych
 
 Hi there!
 
