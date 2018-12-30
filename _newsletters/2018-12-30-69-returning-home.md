@@ -1,4 +1,10 @@
-Returning home and time’s triptych
+---
+layout: study--newsletter
+title: 'Returning home and time’s triptych'
+number: '69'
+date: '2018-12-30 12:30:00'
+published: true
+---
 
 Hi there!
 
