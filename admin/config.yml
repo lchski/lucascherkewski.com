@@ -28,7 +28,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Linked URL", name: "link", widget: "string"}
       - {label: "Linked URL Title", name: "link_title", widget: "string"}
-      - {label: "H/T", name: "source", widget: "string"}
+      - {label: "H/T", name: "source", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Published", name: "published", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
