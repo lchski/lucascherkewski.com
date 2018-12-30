@@ -19,7 +19,12 @@ sidebar_type: link
 		<li>
 			<h2><a href="{{ link.link }}">{{ link.link_title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
 			{{ link.content | markdownify }}
-			<p class="meta"><a href="{{ link.url }}">{{ link.date | date: "%l:%S %P on %B %e, %Y" }}</a></p>
+			<p class="meta">
+				<a href="{{ link.url }}">{{ link.date | date: "%l:%S %P on %B %e, %Y" }}</a>
+				{% if link.source %}
+					({{ link.source | append: "\)" | markdownify | remove: "<p>" | remove: "</p>" }}
+				{% endif %}
+			</p>
 		</li>
 	{% endfor %}
 </ul>

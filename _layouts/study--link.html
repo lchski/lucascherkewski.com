@@ -15,4 +15,11 @@ sidebar_type: link
 		{{ content }}
 	</div>
 
+	<p class="meta">
+		{{ page.date | date: "%l:%S %P on %B %e, %Y" }}
+		{% if page.source %}
+			({{ page.source | append: "\)" | markdownify | remove: "<p>" | remove: "</p>" }}
+		{% endif %}
+	</p>
+
 </article>
