@@ -19,4 +19,4 @@ Maria Popova shares, after ten years of running [_Brain Pickings_](https://www.b
 > 9. Don’t be afraid to be an idealist.
 > 10. Don’t just resist cynicism — fight it actively.
 
-With each, Popova provides a fuller description, with links to other pieces at _Brain Pickings_ that dive in deeper. But, as she notes ([echoing J.S. Mill](/links/2018/12/28/17-03-wikisource-js-mill-on-liberty-ch-2-common-sayings/)), it’s not enough just to read these—they’re “refined and enriched in the act of living”.
+For each, Popova provides a fuller description, with links to other pieces at _Brain Pickings_ that dive in deeper. But, as she notes ([echoing J.S. Mill](/links/2018/12/28/17-03-wikisource-js-mill-on-liberty-ch-2-common-sayings/)), it’s not enough just to read these—they’re “refined and enriched in the act of living”.
