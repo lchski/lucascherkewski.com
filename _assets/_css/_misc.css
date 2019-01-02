@@ -38,3 +38,13 @@ FOOTNOTES
 	.reversefootnote {
 		font-size: var(--fz-7);
 	}
+
+.code {
+	overflow: auto;
+
+	max-width: 100%;
+
+	background: rgba(0,0,0,0.1);
+
+	padding: var(--spacing-extra-small) var(--spacing-medium);
+}

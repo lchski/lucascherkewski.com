@@ -51,7 +51,7 @@ import_lop_mps <- read_csv("data/lop-mps.csv") %>%
     military_service = `Military Service`
   )
 ```
-{:code-block}
+{: .code}
 
 I then approximated the age of election, creating a smaller working table (with just the MP’s name, party, birth date, date of entry to Parliament, their age when first entering Parliament, and their years of service):
 
@@ -63,7 +63,7 @@ age_at_election <- import_lop_mps %>%
   select(name, birth_date, political_affiliation, date_of_parliamentary_entry, age_at_first_election, years_of_service) %>%
   arrange(age_at_first_election)
 ```
-{:code-block}
+{: .code}
 
 I then generated some summary statistics about the age of first election:
 
@@ -76,7 +76,7 @@ age_at_election %>%
     max_age_at_first_election = max(age_at_first_election, na.rm = TRUE)
   )
 ```
-{:code-block}
+{: .code}
 
 This yields the following values:
 
@@ -102,7 +102,7 @@ age_at_election %>%
     caption = "By @lchski with data from Library of Parliament."
   )
 ```
-{:code-block}
+{: .code}
 
 <img src="/assets/img/posts/mp-analysis/age_at_first_election.png" alt="A histogram showing a roughly normal distribution, peaking in the 40–50 age bracket.">
 
@@ -111,7 +111,7 @@ Finally, to put the election of Ivan Grose into context, I calculated the percen
 ```
 (age_at_election %>% filter(age_at_first_election >= 65) %>% count() %>% pull(n)) / (age_at_election %>% count() %>% pull(n))
 ```
-{:code-block}
+{: .code}
 
 This works out to 2.51%. Grose is definitely in the minority in this case!
 
