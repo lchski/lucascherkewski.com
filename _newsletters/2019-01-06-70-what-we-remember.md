@@ -1,5 +1,10 @@
-70
-What we remember, and why
+---
+layout: study--newsletter
+title: 'What we remember, and why'
+number: '70'
+date: '2019-01-06 14:25:00'
+published: true
+---
 
 A very happy, beautiful Sunday to you!
 
