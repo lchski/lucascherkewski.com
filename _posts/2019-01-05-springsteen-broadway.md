@@ -33,7 +33,27 @@ My favourite part of the show comes right near the end.
 
 After discussing his mother’s love for life (“Do as my mother would: lace up your dancing shoes and get to work!”), Springsteen launches into “Dancing in the Dark”. He then smoothly transitions into “Land of Hope and Dreams”.
 
-The two songs can stand well on their own. But together, they capture perfectly the major theme of Springsteen’s show: the importance of understanding and respecting both the individual and the collective stories. While the former touches on the individual’s attempt to make something of their life, the latter respects the diversity of experience in the American story. It’s a theme that you can find throughout Springsteen’s work, one worth keeping close to heart.
+The two songs can stand well on their own. But together, they capture perfectly the major theme of Springsteen’s show: the importance of understanding and respecting both the individual and the collective stories.
+
+> Message keeps getting clearer  
+> Radio's on and I'm moving 'round the place  
+> I check my look in the mirror  
+> I wanna change my clothes, my hair, my face  
+> Man, I ain't getting nowhere  
+> I'm just living in a dump like this  
+> There's something happening somewhere  
+> Baby, I just know that there is
+
+> Yes, this train carries saints and sinners  
+> This train carries losers and winners  
+> This train carries whores and gamblers  
+> This train carries lost souls  
+> I said, this train carries broken-hearted  
+> This train, thieves and sweet souls departed  
+> This train carries fools and kings thrown  
+> This train, all aboard
+
+While the former touches on the individual’s attempt to make something of their life, the latter respects the diversity of experience in the American story. It’s a theme that you can find throughout Springsteen’s work, one worth keeping close to heart.
 
 ***
 
