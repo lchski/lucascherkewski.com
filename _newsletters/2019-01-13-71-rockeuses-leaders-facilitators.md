@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Rockeuses, and leaders as facilitators'
+number: '71'
+date: '2019-01-13 11:55:00'
+published: true
+---
+
 Hello!
 
 It’s one of those Sunday mornings where I started slow, puttered about quietly, sauntered to the grocery store, cleaned the apartment, reconciled my finances, and so on—making space for reflection through the routine.
