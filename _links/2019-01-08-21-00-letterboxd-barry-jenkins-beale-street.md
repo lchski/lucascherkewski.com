@@ -2,7 +2,7 @@
 layout: study--link
 title: letterboxd barry-jenkins beale-street
 link: 'https://letterboxd.com/film/if-beale-street-could-talk/'
-link_title: 'If Beale Street Could Talk [film]'
+link_title: '_If Beale Street Could Talk_ [film]'
 source: 'watched at my beloved [ByTowne](https://www.bytowne.ca/)'
 date: 2019-01-09T02:00:00.000Z
 published: true
