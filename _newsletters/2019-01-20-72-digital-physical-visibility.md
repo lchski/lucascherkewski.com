@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Libraries, physical and digital, visible and invisible'
+number: '72'
+date: '2019-01-20 11:40:00'
+published: true
+---
+
 I love libraries and what we can learn from them—from their contents, yes, but also from the ideas and activities that their form enables.
 
 Libraries offer us past paths not chosen, nuanced understandings of the present, and potential futures. Seeing a book can open our minds: the joy of browsing comes precisely from the chance discovery or rediscovery, from our being pushed into a work that we wouldn’t have thought of of our own accord.
