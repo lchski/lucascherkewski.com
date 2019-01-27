@@ -1,8 +1,14 @@
-The wholesome social network
+---
+layout: study--newsletter
+title: 'The wholesome social network'
+number: '73'
+date: '2019-01-27 15:30:00'
+published: true
+---
 
 What makes a social network? The people in it. 
 
-What determines a social network’s tone, whether positive or negative, healthy or toxic? The people in it, yes. But also what those people _do_. By writing short messages, taking photographs, or listening to music—and, importantly, sharing these activities—people communicate with one another through a social network’s format. This communication, combining people and their activity, informs the network’s tone.
+What determines a social network’s tone, whether positive or negative, healthy or toxic? The people in it, yes. But also what those people _do_. By writing short messages, taking photographs, or listening to music—and, importantly, sharing these activities—people communicate with one another through a social network’s prescribed format. This communication, combining people and their activity, informs the network’s tone.
 
 What makes a social network wholesome?
 
