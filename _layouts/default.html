@@ -9,7 +9,7 @@
 		{% assign page_title = page_title | append: ' – Lucas Cherkewski' %}
 	{% endif %}
 
-    <title>{{ page_title }}</title>
+    <title>{{ page_title | markdownify | remove: '<p>' | remove: '</p>' | remove: '<em>' | remove: '</em>' }}</title>
 
 	  <meta content="{{ site.title }}" property="og:site_name">
 	{% if page.title %}
