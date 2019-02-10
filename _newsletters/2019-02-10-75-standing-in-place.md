@@ -13,15 +13,13 @@ This visit was scheduled in my calendar as “Slow art @ NGC”, with a link to 
 
 These principles—paying attention to art, for a long time, over and over—have long been implicit in my visits to the Gallery, but I appreciate how Walker makes them so explicit.
 
-I knew already which piece I’d pay attention to: [W. Blair Bruce’s _The Smiths_](https://www.gallery.ca/collection/artwork/the-smiths) ([image online](https://jamanetwork.com/data/journals/jama/930543/jaj140027fa.png)). It’s caught my eye repeatedly on prior visits for its sense of movement, its fantastical colours, and its impressive size.
+I knew already which piece I’d attend to: [W. Blair Bruce’s _The Smiths_](https://www.gallery.ca/collection/artwork/the-smiths) ([image online](https://jamanetwork.com/data/journals/jama/930543/jaj140027fa.png)). It’s caught my eye repeatedly on prior visits for its sense of movement, its fantastical colours, and its impressive size.
 
-As I started looking at it, I heard giggles beside me. A young child, maybe three or four, was running around the pool of water in the adjoining room. As I continued looking at my painting, the child continued their exploration of the pool and the benches surrounding it. At times, I turned to look not at the painting, but at the child, enjoying their sense of wonder. (They were quite content to play with the pond—when it was time for them to go, the child let out some impressive wails.)
+As I stood before it, I found myself pulled in deeper. I noticed details—of the composition, of the content, of the technique—that I hadn’t observed on prior visits. This is one of those experiences that’s hard to capture in words, and maybe not worth doing so—instead, I encourage you to give it a go of your own.
 
-As I looked at _The Smiths_, I found myself pulled deeper and deeper into it. I noticed details—of the composition, of the content, of the technique—that I hadn’t observed on prior visits. This is one of those experiences that’s hard to capture in words, and maybe not worth doing so—instead, I encourage you to give it a go of your own.
+But I will say this: attending closely to a painting for a long time felt similar to attending closely to a place. I’ve long found beauty in knowing a place—a city or a trail or a home—very deeply. Art can also offer such beauty. Paying attention yields dividends.
 
-I will say this: attending closely to a painting for a long time felt similar to attending closely to a place. I’ve long felt a beauty in knowing a place—a city or a trail or a home—very deeply. A painting or other piece of art can also offer such beauty. The key is to pay attention. For more on that, I encourage you to subscribe to Rob Walker’s newsletter, [_The Art of Noticing_](https://tinyletter.com/RobWalker). (I know, I know, another newsletter recommendation—but seriously, newsletters are great.)
-
-All the best for the (hopefully attentive) week ahead!
+With that, I’m off to the Gallery again. All the best for the (hopefully attentive) week ahead!
 
 Lucas
 
