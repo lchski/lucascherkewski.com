@@ -1,4 +1,4 @@
-After writing last week’s newsletter, I bundled myself off to the National Gallery to stare at art. This differs from how I normally visit the Gallery, when I glance at art.
+After writing last week’s newsletter, I bundled myself off to the National Gallery to stare at art. This differs from how I normally visit the Gallery, when I merely _glance_ at art.
 
 This visit was scheduled in my calendar as “Slow art @ NGC”, with a link to [Rob Walker’s “How To Pay Attention”](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6) in the description. In that piece, Walker describes techniques for paying closer, more involved attention to the world around you. Three in particular inspired me:
 
@@ -17,19 +17,16 @@ I knew already which piece I’d pay attention to: [W. Blair Bruce’s _The Smit
 
 As I started looking at it, I heard giggles beside me. A young child, maybe three or four, was running around the pool of water in the adjoining room. As I continued looking at my painting, the child continued their exploration of the pool and the benches surrounding it. At times, I turned to look not at the painting, but at the child, enjoying their sense of wonder. (They were quite content to play with the pond—when it was time for them to go, the child let out some impressive wails.)
 
-[TODO]
-[beauty of knowing a place, deeply, like knowing a painting/piece of art]
-[/TODO]
+As I looked at _The Smiths_, I found myself pulled deeper and deeper into it. I noticed details—of the composition, of the content, of the technique—that I hadn’t observed on prior visits. This is one of those experiences that’s hard to capture in words, and maybe not worth doing so—instead, I encourage you to give it a go of your own.
+
+I will say this: attending closely to a painting for a long time felt similar to attending closely to a place. I’ve long felt a beauty in knowing a place—a city or a trail or a home—very deeply. A painting or other piece of art can also offer such beauty. The key is to pay attention. For more on that, I encourage you to subscribe to Rob Walker’s newsletter, [_The Art of Noticing_](https://tinyletter.com/RobWalker). (I know, I know, another newsletter recommendation—but seriously, newsletters are great.)
+
+All the best for the (hopefully attentive) week ahead!
 
 Lucas
 
-P.S. If you’re interested, here are some of my favourite pieces at the National Gallery:
+P.S. If you’re interested, here are some of my favourite pieces at the Gallery:
 
-[TODO]
-
-* Gustave
-* ??? The Smiths
-* Marcelle Ferron, Sibilant Consonants
-* ???, His Best Toy? (Sculpture)
-
-[/TODO]
+* Gustave Doré’s [_Souvenir of Loch Lomond_](https://www.gallery.ca/magazine/your-collection/your-collection-recent-european-arrivals-at-the-ngc)
+* W. Blair Bruce’s [_The Smiths_](https://www.gallery.ca/collection/artwork/the-smiths) ([image online](https://jamanetwork.com/data/journals/jama/930543/jaj140027fa.png))
+* Marcelle Ferron’s [_Sibilant Consonants_](https://www.gallery.ca/collection/artwork/sibilant-consonants) ([image online](https://scontent-iad3-1.cdninstagram.com/vp/ae82e6e4f4a66010cd5bd3f9d59e91c3/5CDAC6CF/t51.2885-15/e35/39498704_322014718532816_2080823358974328832_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com))
