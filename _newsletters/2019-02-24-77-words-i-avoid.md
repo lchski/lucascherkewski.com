@@ -1,4 +1,12 @@
-Some words I try not to say. They’re everyday words, seemingly innocuous, but possibly harmful or exclusive.
+---
+layout: study--newsletter
+title: 'Words I avoid'
+number: '77'
+date: '2019-02-24 11:00:00'
+published: true
+---
+
+Some words I try not to say. They’re everyday words—seemingly innocuous, but possibly harmful or exclusive.
 
 Some examples:
 
