@@ -1,6 +1,14 @@
+---
+layout: study--newsletter
+title: 'Communicating depth'
+number: '80'
+date: '2019-03-17 10:25:00'
+published: true
+---
+
 I recently talked through a tricky situation with coworkers. I went to use a favourite slogan—“[Be radical in changing how an organisation works, but incremental in changing what it delivers](https://public.digital/2018/09/28/radical-org-change-incremental-delivery-change/)”—but stopped myself.
 
-The phrase captured my thought, but paved over nuance. It buried the implications of what I meant to say. It risked misunderstanding. Instead, I tried to talk through my thought from different angles, using several sentences instead of one. Sometimes, it takes more than a catchy slogan to capture what you mean.
+The phrase captured my thought, but paved over nuance. It buried deeper implications. It risked misunderstanding. Instead, I tried to talk through my thought from different angles, using several sentences instead of one. Sometimes, it takes more than a catchy slogan to capture what you mean.
 
 I remember a conversation I once had with a friend. She described the documentation behind each briefing note she writes. For example:
 
@@ -12,13 +20,13 @@ This is a pretty common approach. The decision maker gets #1, and middle managem
 
 - The person writing #1, #2, and #3 understands this issue _deeply_
 - The brevity of #1—full of phrases where every word is significant—tries to capture the nuances of #2 and the depth of #3, but inevitably omits some of both
-- The decision maker using #1 can’t possibly understand the issue fully, but they also don’t have the time to consume all the information contained in #2 and #3 (or, likely, to explore the significance of each word in #1)
+- The decision maker using #1 can’t possibly understand the issue fully, but they also don’t have the time to consume all the information contained in #2 and #3 (nor, likely, to explore the significance of each word in #1)
 
 Behold, the problem of communicating depth. How do you convey all you mean? Can you do it economically? Slogans seem great. But then you try to use them, hit the human element, and realize that application is harder in practice than they suggest. (Slogans: a hipper form of academic theory.) Then you grasp for more to help land your point.
 
 This issue isn’t limited to briefing notes. It’s also the case for teamwork, among other settings.
 
-When you work every day alongside a team, you build a shared understanding. Working step by step through delivering something (a product, a website, a report, etc.), the team walking those steps together sees largely the same scenery.
+When you work every day alongside a team, you build a shared understanding. Working step by step through delivering something (a product, a website, a report, whatever), the team walking those steps together sees largely the same scenery.
 
 Often, though, that team’s not the only group involved in delivery. There’ll be a group of folks who need to give their approval but don’t have time to be involved in the day-to-day. Then there are others who are just interested for some reason (“stakeholders” 🙄).
 
