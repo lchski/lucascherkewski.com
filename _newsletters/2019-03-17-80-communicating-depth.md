@@ -37,3 +37,5 @@ To close, then, I turn to Anne Lamott, who nicely sums up this issue (hehe) in _
 The truth takes time. All the best for the week ahead!
 
 Lucas
+
+PS. If you’re interested in seeing how I saved you from reading a longer (but, I hope, just as nuanced) version of this newsletter, you can [read the previous draft](https://github.com/lchski/lucascherkewski.com/blob/3e20be80cb8c119d01c55f12cec015af64693b7c/_newsletters/2019-03-17-80-communicating-depth.md) or [see what I changed](https://github.com/lchski/lucascherkewski.com/commit/a7ee923d894fc90eca273cd6df245232890def5d).
