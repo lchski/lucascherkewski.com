@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Making time for music, for silence'
+number: '82'
+date: '2019-03-31 12:00:00'
+published: true
+---
+
 > I really think that for us, who all grew up listening primarily to recorded music, we tend to forget that until about 120 years ago ephemeral experience was the only one people had. I remember reading about a huge fan of Beethoven who lived to the age of 86 [in the era before recordings], and the great triumph of his life was that he’d managed to hear the Fifth Symphony six times. That’s pretty amazing. They would have been spread over many years, so there would have been no way of reliably comparing those performances. ([Brian Eno](https://pitchfork.com/features/interview/10023-a-conversation-with-brian-eno-about-ambient-music/))
 
 Last weekend, I visited my Nonno for his birthday. We got to talking, as you do, about opera.
