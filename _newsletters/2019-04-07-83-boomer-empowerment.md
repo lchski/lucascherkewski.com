@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Boomer empowerment'
+number: '83'
+date: '2019-04-07 21g:00:00'
+published: true
+---
+
 Tonight, I watched [_Gloria Bell_](https://letterboxd.com/film/gloria-bell/).  It’s a remake of the 2013 [_Gloria_](https://letterboxd.com/film/gloria-2013/). I fell asleep during the 2013 movie, and nearly did so again tonight. But I left tonight’s showing feeling differently—perhaps because I now deeply appreciate this genre of film, one I affectionally call “boomer empowerment”.
 
 ## What’s boomer empowerment?
