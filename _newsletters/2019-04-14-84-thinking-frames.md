@@ -1,4 +1,12 @@
-Does education work? By “education” I mean our formal system, plus its informal supplements—elementary and secondary schools, post-secondary education, plus wherever else we learn how to live. (Picture me _gesturing wildly at the bigness of it all_ as I say that.)
+---
+layout: study--newsletter
+title: 'Thinking frames'
+number: '84'
+date: '2019-04-14 11:40:00'
+published: true
+---
+
+What should education foster? By “education” I mean our formal system, plus its informal supplements—elementary and secondary schools, post-secondary education, plus wherever else we learn how to live. (Picture me _gesturing wildly at the bigness of it all_ as I say that.)
 
 To me, educational experiences ought to help us grow new or refined frames for thought.
 
@@ -12,7 +20,7 @@ For example, we might have a frame for writing an essay. My essay frame uses nes
 * It does this by knitting together different sections.
 * These sections each address a different question. These specific questions are highly focused, but related to the overall question.
 
-With this frame, I can write an essay without much direction: I first find an overall question (a process guided by other thinking frames), then I break it down and get writing.
+With this frame, I can write an essay without much direction: first I find an overall question (a process guided by other thinking frames); then I break it down and get writing.
 
 Frames guide all our thoughts and actions. I’ve been slowly assembling an explicit thinking frame for how I interact with others. It centres around widening myself and embracing “others” (while denying the perception that they’re “other”)—[Ursula Franklin and David Whyte articulate it well](https://lucascherkewski.com/study/franklin-other-us/).
 
