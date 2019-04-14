@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Boomer empowerment'
 number: '83'
-date: '2019-04-07 21g:00:00'
+date: '2019-04-07 21:00:00'
 published: true
 ---
 
