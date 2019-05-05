@@ -1,7 +1,7 @@
 ---
 layout: study--newsletter
 title: 'Valuing openness'
-number: '85
+number: '85'
 date: '2019-04-21 22:00:00'
 published: true
 ---
