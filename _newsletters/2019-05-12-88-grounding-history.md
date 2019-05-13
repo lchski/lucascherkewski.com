@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Grounding history'
 number: '88'
-date: '2019-05-13 19:30:00'
+date: '2019-05-12 19:30:00'
 published: true
 ---
 
