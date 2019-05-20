@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Three blobs of words'
+number: '89'
+date: '2019-05-19 21:30:00'
+published: true
+---
+
 Good evening!
 
 The long weekend happily surprised me. In my head, today’s Saturday—hence this letter’s late hour, hence its slapdash contents. I’m not itching to say anything in particular, so I turn to the reliable rule of three.
@@ -24,9 +32,9 @@ Do you want book recommendations? Here are three that I’m digging right now:
 - [_Benjamin Franklin: An American Life_](https://www.goodreads.com/book/show/10883.Benjamin_Franklin) by Walter Isaacson. This is one of those massive popular biographies of a historical male figure. It’s not earth shattering, but if you’re looking for a not-particularly-critical-but-decently-comprehensive look at Franklin’s life, this works well.
 - [_The Lathe of Heaven_](https://www.goodreads.com/book/show/59924.The_Lathe_of_Heaven?from_search=true) by Ursula K. Le Guin. MIND BENDING. I’m on a Le Guin kick right now (I have six of her books piled beside me), but this one struck me. Its relevance to today’s environmental challenges (hello [human adaptation to increasingly normalized climate disaster](https://www.cbc.ca/news/canada/montreal/quebec-flooding-future-1.5107822)) hit close to home—the additional layer of “whaaaa” from the central premise that dreams reshape reality seals the deal.
 
----
-
 Look at that: I nested a list of three things _within_ my list of three things. Wowa!
+
+---
 
 Here’s to you, friend. I hope you’re doing well. These are crazy times, but we find our corners and make do as we can. All the best for the week ahead!
 
