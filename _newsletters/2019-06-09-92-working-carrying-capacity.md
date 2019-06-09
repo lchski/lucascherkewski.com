@@ -24,6 +24,8 @@ You may know that [I track my time carefully](https://lucascherkewski.com/hit-an
 
 Today and yesterday have been quiet. Though I was out and about, I had no strict plans. It’s a refreshing change from the regimented work week. With too many of these weekends I grow uneasy, thinking I could do more. But for now, I’m indulging myself.
 
+Before I go: here’s a random link from the archives, on [finding the names of the people portrayed in a set of faded daguerreotypes](https://consecratedeminence.wordpress.com/2018/03/23/sacrifice-your-darlings/). (Literally “from the archives”—get it?)
+
 All the best for the week ahead!
 
 Lucas
