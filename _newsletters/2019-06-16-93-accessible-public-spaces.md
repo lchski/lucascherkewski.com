@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Accessible public spaces'
+number: '93'
+date: '2019-06-16 15:30:00'
+published: true
+---
+
 Restless, I went for a walk last night.
 
 When restless on a weekend, I often go through Ottawa’s Byward Market, winding through the streets full of people going about their evening fun.
