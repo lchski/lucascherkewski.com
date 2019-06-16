@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Walking toward a social summer'
+number: '90'
+date: '2019-05-26 09:15:00'
+published: true
+---
+
 Hullo there!
 
 (Apologies for any mixed up tenses. I’m writing this Saturday afternoon. If all goes to plan, you’ll get this some time Sunday morning.)

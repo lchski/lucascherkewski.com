@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'A working carrying capacity'
+number: '92'
+date: '2019-06-09 18:15:00'
+published: true
+---
+
 Last December, I had a challenging week. I had six days to complete four finals for school. Surprisingly, I emerged from this period having worked an average of only six hours a day.
 
 Recent conversations at work have me reflecting on that week. It contains an important lesson for me about when and why I’m productive.
