@@ -1,0 +1,3 @@
+- TT Massey Lectures, e.g. culling sleigh dogs
+- CDS work with RCMP: problem of underresourced
+- but fundamental misorientation?
