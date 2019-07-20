@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Let’s take a walk'
+number: '95'
+date: '2019-06-30 21:00:00'
+published: true
+---
+
 Shall we take a walk?
 
 We could walk around idly and discuss whatever we see along the way. Or we could follow a thematic route. We might [hire a guide](http://ottawadetours.ca) or [join in a community outing](https://www.janeswalkottawa.ca). Or, we could lead the walk ourselves.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Digital government and civic tech'
+number: '97'
+date: '2019-07-14 17:30:00'
+published: true
+---
+
 Hello there!
 
 It’s been a while since I gave an update on my work and work-adjacent life. On the surface, it’s much of the same: I’m still working in digital government delivery (at the [Canadian Digital Service](https://digital.canada.ca/)), and I’m still supporting civic tech communities (through [Ottawa Civic Tech](https://ottawacivictech.ca/)).
