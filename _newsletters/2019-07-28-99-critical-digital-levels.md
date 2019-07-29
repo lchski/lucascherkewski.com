@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Levels of critical digital work'
+number: '99'
+date: '2019-07-28 22:45:00'
+published: true
+---
+
 Hello there!
 
 I’m writing at the end of a fun weekend filled with family and friends. (My sister’s in town, and we’ve passed some fun hours together with good family friends.) Excuse the late hour and any half-formed thoughts.
