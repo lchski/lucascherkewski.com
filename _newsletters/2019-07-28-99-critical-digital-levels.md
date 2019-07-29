@@ -1,0 +1,21 @@
+Hello there!
+
+I’m writing at the end of a fun weekend, filled with family and friends. (My sister’s in town, and we’ve passed some fun hours together with good family friends.) Excuse the late hour and any half-formed thoughts.
+
+On Wednesday night, I attended [Code for Canada’s 2019 Showcase](https://codefor.ca/showcase-2019/). Aside from convening an numerous engaged attendees interested in civic tech and digital government, Code for Canada arranged an impressive lineup of speakers. Some exhorted the crowd to think critically about their work, while others described projects or initiatives they worked on—all gave food for thought.
+
+I left with a deepened appreciation for the different levels at which critical [digital](https://definitionofdigital.com/) work can operate. My guiding question is: “What are the effects of tech upon our world?” (I often specify further: “What are the social effects of technology?”)
+
+There are three main levels at which I see this work operating in government:
+
+1. _Experience design._ This is the increasingly conventional work of applying “modern ways of working” (to use a possibly too trite shorthand) to the experience of interacting with a government service. Usability testing, for example, plays a big part in this—see how people use a thing, then refine that experience until they can achieve their goals. Much of my team’s work to date has fallen into this category (with some inroads into the next one): we make it easier for someone to get from A to B in a government service.
+2. _Service or policy design._ Sometimes what you learn in research with people has application beyond a service’s experience. Sometimes what you learn is that the service (or, more specifically, the capital-P Policy driving the service) shouldn’t offer a particular experience at all, that people’s needs could be better met through a different avenue entirely. As a coarse example, maybe instead of filling out an application form, the government should provide you a pre-filled form based on what they know about you. A colleague offers the following example: “Would you rather have a really well-designed complaint form, or no reason to complain?” The former is experience design; the latter is service design.
+3. _Governance or government design._ Ah, but who makes decisions about what services should be offered? Both elected and non-elected senior decision makers have enormous influence over policy design and implementation. How those people are selected and the systems within which they wield that power—these too are design decisions. Too often, they’re unconscious or inherited.
+
+Sometimes, you discover valuable insights about your service while doing experience design. These insights may suggest that the service itself needs to change dramatically. But depending on your position, you may have no influence over service/policy design—you may be too far down the “funnel of causality”, to borrow a concept from political science. And in some cases, what you learn while conducting service or policy design is disregarded by senior officials. Which is formally acceptable—their position gives them the formal power to decide. But sometimes the systems putting them in those positions are flawed—only governance or government design can shift that.
+
+This third level is one to which I’ve less frequently turned my attention. But it’s increasingly clear to me how important that level is. Lane Becker’s talk described the occasional moral qualm of working as a public servant to implement or make more effective what you deem a “bad” policy. Those policies are decided by officials empowered by systems of governance and government—systems that can be affected by design. There are ways to affect these systems without _changing_ them: Hayley Rutherford discussed Civic Tech Waterloo Region’s [_Waterloo Region Votes_](https://waterlooregionvotes.org/), a non-partisan tool designed to increase voter engagement with municipal elections.
+
+This letter is already long in the tooth, and it’s no doubt a bit repetitive. Apologies for leaving it in this state, but I need to be off to bed. Needless to say, there’s more to say on this topic, and clearer ways to say it. Until then, though, please accept this attempt. All the best for the week ahead!
+
+Lucas
