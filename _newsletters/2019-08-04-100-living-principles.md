@@ -1,10 +1,8 @@
 I often distinguish principle and practice.
 
-At work, I try to meet policy principles through practices different from the norm. Outside of work, I try to guide my decisions according to certain principles.
+It’s hard to know in advance _how_ to act in a given situation; it’s much easier to decide _why_ we’ll act. The former is practice, the latter principle.
 
-It’s hard to define in advance _how_ to act in a given situation; it’s much easier to define _why_ we’ll act. The former is practice, the latter principle.
-
-As this newsletter carries on (into the three digits now!), and if you’ll pardon the indulgence, I’d like to take a moment to acknowledge some of its underlying principles. They capture the themes I write about, driving my newsletter practice. Unsurprisingly, I can’t separate these principles from those of life in general—[this is me, in words](https://lucascherkewski.com/study/manifesto/).
+As this newsletter carries on (into the three digits now!), and if you’ll pardon the indulgence, I’d like to acknowledge some of its underlying principles. They capture the themes I write about, driving my newsletter practice. Unsurprisingly, I can’t separate these principles from those of my life in general—[this is me, in words](https://lucascherkewski.com/study/manifesto/).
 
 In no particular order (and [written in a second-person voice](https://lucascherkewski.com/hit-and-miss/78-i-you-we/) targeted only at me):
 
@@ -14,7 +12,7 @@ In no particular order (and [written in a second-person voice](https://lucascher
 - Surround yourself with who you want to be—through books and people alike.
 - Practice moderation in most things, most of the time.
 
-[Browsing the archive](https://lucascherkewski.com/hit-and-miss/), a fair number of pieces fall under one or more of these principles. I’ll save you the links, and just thank you for following along every week. It’s a pleasure for me—I hope the same for you.
+[Browsing the archive](https://lucascherkewski.com/hit-and-miss/), most pieces speak to one or more of these principles. I’ll save you the links, and just thank you for following along every week. It’s a pleasure for me—I hope the same for you.
 
 ---
 
