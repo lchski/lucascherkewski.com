@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Living principles'
+number: '100'
+date: '2019-08-04 17:15:00'
+published: true
+---
+
 I often distinguish principle and practice.
 
 It’s hard to know in advance _how_ to act in a given situation; it’s much easier to decide _why_ we’ll act. The former is practice, the latter principle.
