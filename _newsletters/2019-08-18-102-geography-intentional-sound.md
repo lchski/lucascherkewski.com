@@ -12,7 +12,7 @@ The fridge, one of our few “always on” appliances, settles into an off cycle
 
 If it’s a quiet afternoon, the only cars may be some ways away, and any people walking along outside don’t project their presence far.
 
-You can _feel_ a silence like that. It stretches out—listening, there’s only a sense of expanding space. Straining the ears, the expanding emptiness of the air strikes you. The outside wakes up the inside, and I realize I’m standing alone with my thoughts.
+These are powerful moments. You can _feel_ a silence like that. It stretches out—listening, there’s only a sense of expanding space. Straining the ears, the expanding emptiness of the air strikes you. The outside wakes up the inside, and I realize I’m standing alone with my thoughts.
 
 And then I or someone or something moves, intentionally or unintentionally sending out a ripple that disrupts this packet of silence, reconfiguring a quiet geography with some new wave.
 
