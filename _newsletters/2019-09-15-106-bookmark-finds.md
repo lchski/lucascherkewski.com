@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Bookmark finds'
+number: '106'
+date: '2019-09-15 12:00:00'
+published: true
+---
+
 Hello!
 
 I’m in Waterloo for a brief family visit. It’s nice to be here.

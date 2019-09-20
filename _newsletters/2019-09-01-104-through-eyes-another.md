@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Through the eyes of another'
+number: '104'
+date: '2019-09-01 12:00:00'
+published: true
+---
+
 This weekend, I visited some family friends. We discussed many things during my visit, conversing over meals and a puzzle and a campfire. A few times, we discussed my parents. It was neat to hear how our friends’ saw and understood my parents—which characteristics stick out, what stories they tell, what perspectives they share. I also shared stories about my grandparents. 
 
 Whether talking about my parents or my grandparents, discussing them gave me a chance to reflect on my relationship with them, on my understanding of them, and so on. From our friends’ questions and their reactions, I remembered new stories or details, deepening my appreciation.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Travelling in place'
+number: '105'
+date: '2019-09-08 12:00:00'
+published: true
+---
+
 Next weekend, Ottawa’s LRT will open to the public, after more than a year of missed deadlines. In the coming weeks, most of the system’s routes will shift to account for this new high-capacity backbone.
 
 One of the routes that will change is the 16. Compared to some, it’ll change little: where now it runs from St. Paul University in the east to Britannia Park Beach in the west, it will soon be split midway, at Tunney’s Pasture. It’s the quintessential local route: it winds through some of the city’s oldest neighbourhoods, tending toward common roads over the Transitway, stopping 98 times on a variety of small side streets. A colleague of mine praises it as a leisurely tour of an older Ottawa.

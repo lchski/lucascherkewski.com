@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'A geography of intentional sound'
+number: '102'
+date: '2019-08-18 12:00:00'
+published: true
+---
+
 A neighbour’s A/C unit powered on, adding a buzz to the sounds of bees, cicadas, and traffic. It was quiet there, in a suburban backyard, quiet and private.
 
 That space—my family’s backyard—is ours, to do with as we please. For some, such private space is a refuge—a place to evade the license of others. 
