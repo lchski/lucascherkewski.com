@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'A drop-in space'
+number: '107'
+date: '2019-09-22 17:15:00'
+published: true
+---
+
 Hello there,
 
 My parents have been part of [a walking group](https://lucascherkewski.com/hit-and-miss/90-walking-toward-a-social-summer/) for almost 6 years; it’s been around for at least 12. Every Saturday morning, folks meet up, walk for an hour or two, then convene at a local cafe for coffee, food, and conversation. I eagerly await it on trips home.
