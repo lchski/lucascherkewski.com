@@ -1,6 +1,10 @@
-Sometimes it’s not altogether clear how product management differs from project management. The terms are so similar, it can be hard for folks familiar with the latter to understand the former (and vice versa!). Some of my go-to clarifications emphasize 
+How do we organize to take decisions and act on the results? Thinking here of processes that often—but not always—produce some _thing_ as a result.
 
+In the area I work, two approaches that come to mind are project and product management. Sometimes it’s not altogether clear how they differ. The terms are so similar, it can be hard for folks familiar with one to understand the other.
 
+When explaining product management, some of my go-to clarifications emphasize its ongoing nature, prioritizing people over processes, and constantly delivering value. (Unsurprisingly, [these echo core principles from the Agile Manifesto](http://agilemanifesto.org/). They also reflect a broader “delivery” ethos, but we’ll leave that aside for today.)
+
+But maybe it’s useful to ground this comparison in more powerful metaphors. In _The Real World of Technology_, Ursula Franklin offers
 
 ## Ursula Franklin on production vs organic growth
 > Growth occurs; it is not made. Within a growth model, all that human intervention can do is to discover the best conditions for growth and then try to meet them. (20)
