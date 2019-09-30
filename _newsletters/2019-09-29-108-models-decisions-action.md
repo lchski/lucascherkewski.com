@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Models for decision and action'
+number: '108'
+date: '2019-09-29 20:30:00'
+published: true
+---
+
 How do we organize to take decisions and act on the results? Thinking here of processes that often—but not always—produce some _thing_ as a result.
 
 Two familiar approaches from work are project and product management. Sometimes their differences aren’t clear. It can be hard for folks familiar with one to understand the other, similar in label but different in substance.
