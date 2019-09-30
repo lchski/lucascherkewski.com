@@ -25,6 +25,8 @@ Later, Franklin connects these models to our planning impulse:
 
 > A common denominator of technological planning has always been the wish to adjust parameters to maximize efficiency and effectiveness. Underlying the plans has been a production model, and production is typically planned to maximize gain. In such a milieu it is easy to forget that not everything is plannable. Actually, most things are properly described by a growth model—and that means many activities of living—and are ultimately not plannable. (79–80)
 
+> Although I was intellectually quite well prepared for the birth of my first child, I was stunned by the degree of randomness that this event created in my life. It took me a while to understand that it was pointless to plan my days the way I used to. This did not mean that I didn’t plan or prearrange, but that I needed different schemes to deal with the unplannable.
+> 
 > Women in particular have developed such schemes over the centuries—arrangements that are not a surrender to randomness, but an allotment of time and resources based on situational judgements. ... What makes them so different is that holistic strategies are, more often than not, intended to minimize disaster rather than to maximize gain. (80)
 
 > A crucial distinction here is the place of context. Attempts to minimize disaster require recognition and a profound understanding of context. Context is not considered as stable and invariant; on the contrary, every response induces a counter-response which changes the situation so that the next steps and decisions are taken within an altered context. Traditional planning, on the other hand, assumes a stable context and predictable responses. (81)
