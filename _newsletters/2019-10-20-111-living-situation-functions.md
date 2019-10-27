@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Functions of a living situation'
+number: '111'
+date: '2019-10-20 12:00:00'
+published: true
+---
+
 Last night, I was reflecting on the essential functions of a living situation. What kind of activities should a living situation support?
 
 I arrived at a rough list. A living situation should have space for:

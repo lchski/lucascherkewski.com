@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Public service'
+number: '112'
+date: '2019-10-27 12:30:00'
+published: true
+---
+
 Earlier this week, a friend shared [a profile of Art Allen, an American public servant whose quiet work over several decades greatly improved marine search and rescue](https://www.bloomberg.com/opinion/articles/2019-10-15/lifesaving-coast-guard-scientist-reflects-on-government-service). I think Art’s story highlights several important issues facing public servants:
 
 - Specialization of knowledge can hurt more than help when problems span organizational bounds. (Sam Hannah-Rankin discusses this: “[the challenges that we face don’t segment themselves tidily according to our organisational structures](https://medium.com/@shrankinwork/bureaucracy-and-change-its-hard-a70f54e80316).”)

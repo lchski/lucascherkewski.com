@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'The sites I visit'
+number: '110'
+date: '2019-10-13 11:00:00'
+published: true
+---
+
 Hello!
 
 Waterloo for the long weekend, [voted yesterday](https://twitter.com/lchski/status/1183062623761420289), and visiting with family. It’s a good time.
