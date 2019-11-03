@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Stories beyond the data'
+number: '113'
+date: '2019-11-03 16:00:00'
+published: true
+---
+
 Happy day of the time change, “[when 2 becomes 1](https://twitter.com/firebethfox/status/1190985937569886214)”!
 
 Datasets can be seductive. A series of aerial photos, a building registry, or a big table of biographical details can all suggest interesting lines of inquiry. But there’s value in going beyond the dataset, too.
