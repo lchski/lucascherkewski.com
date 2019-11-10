@@ -1,0 +1,5 @@
+I spent yesterday morning touring the House of Commons and Senate with friends. On the way over, one asked me whether I’d hold back from correcting the guide—which I assured them I’d do, of course! But when they asked whether I’d hold back from privately _adding on_ to what the guide said, I had to hold my tongue. Fun facts can’t be held back!
+
+So, here are some of the fun facts I like to share about the House of Commons and Senate:
+
+- The Mackenzie Tower in the West Block (temporaryish home of the House of Commons) houses an office for the prime minister, just above the entrance. When it was being designed, Prime Minister Alexander Mackenzie commissioned a private staircase connecting the office directly to a an outside exit, allowing him to easily evade the lobbyists who waited in the, er, lobby outside his office. Prime Minister Pierre Trudeau used this exit to slip off before asking for the 1968 general election: he got into a waiting car, which took him to Paul Martin’s apartment complex (Paul Martin Sr.); from there, he switched into another car before entering Rideau Hall (then Government House) through a back entrance.
