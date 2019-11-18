@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'A parliamentary (precinct) tour'
+number: '114'
+date: '2019-11-10 14:00:00'
+published: true
+---
+
 Yesterday, some friends and I toured the House of Commons and Senate. On the way over, one asked whether I’d hold back from correcting the guide—which I promised to do! But when they asked whether I’d hold back from privately _adding on_ to what the guide said, I had to hold my tongue. Fun facts can’t be held back!
 
 So, here are some of the fun facts I like to share about the land and buildings in the parliamentary precinct:
