@@ -7,6 +7,8 @@ categories:
 published: true
 ---
 
+_Note: this was originally written as part of [issue 115 of my newsletter](https://lucascherkewski.com/hit-and-miss/115-ppp-policies/),_ Hit and Miss, _but was put into its own post for length and longevity._
+
 A few months back, [Sean](https://twitter.com/sboots/) shared a framework that I often find relevant. I think it’s worth sharing around, so I asked him if I could write it up—he often speaks of one day starting a blog, but that’s yet to materialize. (C’mon, Sean!) Graciously, he gave the all clear.
 
 It’s a model to understand why people _seek_ organizational change. Specifically, why people seek to change the responsibilities associated with a given position. They might try to assign that role more powers (to centralize), or to move those powers into other roles (to decentralize).
