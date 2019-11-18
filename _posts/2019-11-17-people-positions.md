@@ -22,10 +22,10 @@ Assessing the first question is quite subjective. “Good” or “bad” by wha
 
 This works out to a classic 2x2:
 
-|  | “Good” | “Bad” |
+|  | **“Good”** | **“Bad”** |
 |:--|:--|:--|
-| “Powerful”/“Centralized” | Stable | Decentralizing tendency |
-| “Feeble”/“Decentralized” | Centralizing tendency | Stable(ish) |
+| **“Powerful”/“Centralized”** | Stable | Decentralizing tendency |
+| **“Feeble”/“Decentralized”** | Centralizing tendency | Stable(ish) |
 
 Narrative form explains this well:
 
