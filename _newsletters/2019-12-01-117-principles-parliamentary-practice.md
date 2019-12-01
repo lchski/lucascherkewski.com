@@ -1,6 +1,6 @@
 It’s the start of December! While that carries with it bits of stress for various reasons, we’re* lucky this year because it also marks the start of a new parliamentary session.
 
-(*“we” in this sentence means “I, and others with an inexplicable love for parliamentary institutions.”)
+(*“we” in this sentence means “I, and others with an inexplicable love for parliamentary institutions.” _Warning, nerdery incoming._)
 
 This Thursday, December 5, the 43rd Canadian Parliament will convene itself here in Ottawa. It’ll be the first sitting day in the House of Commons for the MPs elected back in October, the day marking resumption of Senate activities, and the Governor General’s opportunity to deliver a Speech from the Throne. (Our Parliament, technically, has [three parts: the Queen/her representative the Governor General, the Senate, and the House of Commons](https://laws-lois.justice.gc.ca/eng/Const/page-2.html#s-17).)
 
@@ -25,6 +25,7 @@ From these three traditions, we can identify two important principles that under
 -   Independence of the House of Commons, as the popularly-elected parliamentarians.
 
     The House has the privilege of authorizing money matters, including taxes—given the importance of money to government, the House must be independent in its deliberations from other actors, like the Sovereign. This independence was long and hard fought, both in the United Kingdom and Canada (pre-Confederation), but it speaks to why we now place so much emphasis on the significance of general elections and the like.
+
 -   Distinction between the ceremonial executive (Sovereign/Governor General) and effective executive (prime minister/government).
 
     This distinction is important, and shows up all over the Canadian political system: while the partisan government advises (and is effectively in full control), the government’s power is exercised through a non-partisan figure—the Sovereign or her representative, the Governor General. This places a degree of distance—in theory, if not in practice—between the prime minister and “the nation”. The prime minister doesn’t speak for the nation, the Sovereign does—which ought to remind prime ministers that they’re temporary, while other institutions serving the public, like the Crown, endure.
