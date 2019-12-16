@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Thirty years later'
+number: '118'
+date: '2019-12-08 11:45:00'
+published: true
+---
+
 Friday marked the 30th anniversary of the École Polytechnique shootings. Thirty years on, we find ourselves still grappling with the same issues. The freshly convened House of Commons took a moment of silence Friday morning, followed by [speeches from each of the parties acknowledging the massacre](https://www.ourcommons.ca/DocumentViewer/en/43-1/house/sitting-2/hansard#sob10724728). [Events were held across Canada.](https://www.cbc.ca/news/canada/montreal/ecole-polytechnique-canada-montreal-ceremony-1.5378847)
 
 Others have written powerfully on the anniversary. [Anne Thériault wrote about “the next thirty years of December 6”, calling for more attention to _who_ the victims of violence against women are](https://www.flare.com/news/ecole-polytechnique-victims/)—especially those underrepresented in media narratives. Five years ago, [Deb Chachra wrote about the specific dimensions of violence against women in tech, pointing to some of the contemporary issues women face](https://tinyletter.com/metafoundry/letters/metafoundry-17-twenty-five-years-later). Though I don’t want my own voice to drown out those of these or other women—and I encourage you strongly to read their work, and to seek out other perspectives—I have a bit to share on it, too.

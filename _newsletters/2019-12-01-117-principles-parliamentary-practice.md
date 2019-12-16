@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Principles of parliamentary practice'
+number: '117'
+date: '2019-12-01 16:45:00'
+published: true
+---
+
 It’s the start of December! While that carries with it bits of stress for various reasons, we’re* lucky this year because it also marks the start of a new parliamentary session.
 
 (*“we” in this sentence means “I, and others with an inexplicable love for parliamentary institutions.” _Warning, nerdery incoming._)
