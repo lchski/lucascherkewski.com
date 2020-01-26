@@ -1,4 +1,4 @@
-I’m writing from one of my favourite spots, a library.
+I’m writing to you from one of my favourite spots, a library.
 
 Libraries are institutional versions of the role I’d like to play in life, that of a trusted advisor, someone who dives in deep on a subject and then brings information together in a usable way. As repositories of knowledge, library stacks are wells of information from which to draw when learning about and reflecting on the world. (They’re also much more than what’s “in the stacks”, as [Ottawa’s Central Library project demonstrates](https://inspire555.ca/library-archives-spaces/).)
 
