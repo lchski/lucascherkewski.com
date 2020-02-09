@@ -9,6 +9,6 @@ Nonetheless, I haven’t had as much time to dig into reading or thinking as I n
 - [Matt Edgar reflects on “20+ years in digital services delivery”](https://blog.mattedgar.com/2020/01/27/delivering-digital-service-this-much-i-have-learned/) with seven thoughtful points, including many links to read more.
 - An exercise to carry out with a friend, significant other, or so on: “[36 Qs for increasing closeness](https://www.recipesforwellbeing.org/36-qs-for-increasing-closeness/)”. (Found in [Mita Williams’s](https://twitter.com/copystar) excellent newsletter, [_University of Winds_](https://tinyletter.com/UniversityofWinds).) 
 
-Thanks to everyone who’s stepped in to give me a hand or a kind word this week—it’s been really appreciated. If all goes well, I’ll be back to my lengthier ramblings in no time. Until then, all the best for the week ahead!
+Thanks to everyone who’s stepped in to give me a hand or a kind word this week—I really appreciate it, really appreciate _you_. If all goes well, I’ll be back to my lengthier ramblings in no time. Until then, all the best for the week ahead!
 
 Lucas
