@@ -1,6 +1,6 @@
 Hello there!
 
-I’ve had a bit of an off week, thanks to some health troubles. No alarm bells going off today, but heading in for more checkups this week. Fret not—I’ve managed to find good days and good times to spend with friends, getting out and about. Not everything is heavy!
+I’ve had a bit of an off week, thanks to some health troubles. No alarm bells going off today, but heading in for more checkups tomorrow. Fret not—I’ve managed to find good days and good times to spend with friends, getting out and about. Not everything is heavy!
 
 Nonetheless, I haven’t had as much time to dig into reading or thinking as I normally do. So I’ll just share a few links I’ve accumulated over the past few weeks:
 
