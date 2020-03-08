@@ -2,7 +2,7 @@ Good morning, folks!
 
 Actually, as I write this, it’s no longer morning—but it’s sunny outside my window, and the clocks just changed, so everything feels like morning. Let’s go with that.
 
-I’ve struggled with focus lately, quite a bit. And it’s cathartic to write about. But also, maybe it’s not what you’re here for. Maybe you’re here to hear about “what I’m reading, about the intersection of technology and society, or about whatever else I might find worth sharing”, as I originally described this corner of the web.
+I’ve struggled with focus lately, quite a bit. I wrote a paragraph about this, which was cathartic, but also maybe not what you’re here for. (But Git, in all its glory, [has kept a copy of that paragraph](https://github.com/lchski/lucascherkewski.com/commit/57a0f102a7aeaf0350a0e6e6a46f7582fb79ca61), if you’re really curious.) Let’s get to the links!
 
 ---
 
@@ -12,7 +12,7 @@ Yesterday’s [_University of Winds_](https://tinyletter.com/UniversityOfWinds) 
 
 It’s from an article by Ian Bogost, “[Every Place Is the Same Now](https://www.theatlantic.com/technology/archive/2020/01/smartphone-has-ruined-space/605077/)”. I haven’t read the whole article, but the quote intrigues me.
 
-(Which prompts a thought in me: How often do we read what we share around? I know I’m guilty of this. Doubtless there are links in past issues of this newsletter that I hadn’t read fully before I shared. Certainly on Twitter, I’ve retweeted many links based on an excerpt or headline alone. I don’t have much more on this today, but just wanted to be straightforward with you: I don’t read as much or as completely as it might seem, instead riding along constant waves of information. Not a fan of that—perhaps it’s tied to my aforementioned lack of focus.)
+(Which prompts a thought in me: How often do we read what we share around? I’ve retweeted many links based on an excerpt or headline alone. I don’t have more on this today, but just wanted to be straightforward with you: I don’t read as much or as completely as it might seem, instead riding along constant waves of information. Not a fan of that—perhaps it’s tied to my aforementioned lack of focus.)
 
 ---
 
@@ -24,7 +24,7 @@ Dan continues for another paragraph or two (you can [read it online](https://dan
 
 ---
 
-Last week, [Sean shared out the latest Ottawa Civic Tech project](https://twitter.com/sboots/status/1234212246076764161), a [dataset of federal government IT projects over $1 million](https://large-government-of-canada-it-projects.github.io/). My very small contribution to this effort was to find [the sessional paper from which this table draws its information](https://large-government-of-canada-it-projects.github.io/pdf/8555-421-2460.pdf) (and to transcribe a few pages).
+Last week, [Sean shared out the latest Ottawa Civic Tech project](https://twitter.com/sboots/status/1234212246076764161), a [dataset of federal government IT projects over $1 million](https://large-government-of-canada-it-projects.github.io/). My very small contribution to this effort was to find [the sessional paper from which this table draws its information](https://large-government-of-canada-it-projects.github.io/pdf/8555-421-2460.pdf) (and to transcribe a few pages). There’s a _lot_ of money spent on government IT—not all of it well. This doesn’t capture the full extent of that spending, but it gives a sense of the scale.
 
 I have a few thoughts about sessional papers and access to public-but-not-published information, but I’ll save those for when I have proper brainpower with which to express them.
 
