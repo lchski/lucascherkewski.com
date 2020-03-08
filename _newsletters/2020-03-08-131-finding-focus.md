@@ -2,9 +2,7 @@ Good morning, folks!
 
 Actually, as I write this, it’s no longer morning—but it’s sunny outside my window, and the clocks just changed, so everything feels like morning. Let’s go with that.
 
-I’ve struggled with focus lately, quite a bit. There’s a lot of writing I need to do over the next week. I’ve been trying to plug away at it over the past few weeks, knowing this is coming, but with only limited success (or, at least, what feels like limited success). It’s been hard to launch off the block in the mornings, and I haven’t been able to keep away from known distractions. Writing hasn’t had the same seductive pull as research has lately, especially when I get to code for research’s sake.
-
-Alas, that’s where things are with me. But it’s not _bad_. Just there. And it’s cathartic to write about. But also, maybe it’s not what you’re here for. Maybe you’re here to hear about “what I’m reading, about the intersection of technology and society, or about whatever else I might find worth sharing”, as I originally described this corner of the web.
+I’ve struggled with focus lately, quite a bit. And it’s cathartic to write about. But also, maybe it’s not what you’re here for. Maybe you’re here to hear about “what I’m reading, about the intersection of technology and society, or about whatever else I might find worth sharing”, as I originally described this corner of the web.
 
 ---
 
