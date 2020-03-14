@@ -4,3 +4,5 @@
 - taking action quickly
 - learning from what works (both from previous research and in the moment)
 - adapting on the fly
+- measuring what matters, reporting it publicly
+- communicating regularly, openly, honestly
