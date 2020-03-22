@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: '2x3 links (misc, archives) and a phrase'
+number: '130'
+date: '2020-03-01 10:29:00'
+published: true
+---
+
 Hello there!
 
 A bright Sunday morning to you.

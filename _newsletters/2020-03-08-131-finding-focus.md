@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Finding focus'
+number: '131'
+date: '2020-03-08 12:47:00'
+published: true
+---
+
 Good morning, folks!
 
 Actually, as I write this, it’s no longer morning—but it’s sunny outside my window, and the clocks just changed, so everything feels like morning. Let’s go with that.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Spring, feelings, readings'
+number: '129'
+date: '2020-02-23 15:16:00'
+published: true
+---
+
 Maybe the groundhog was right—spring feels on its way. We’ve a run of above-zero days, the [Canal has closed “until further notice”](https://twitter.com/NCC_Skateway/status/1231335942683865090), and the air is gradually hosting more birdsong. Oh, and [the days are steadily lengthening](https://twitter.com/SunOfSeldo).
 
 The river near my apartment has kept large patches of open water this winter—a change from last year, when it maintained its frozen breadth into the first weeks of March. [It wasn’t until the second week of March that I noticed the signs of spring last year.](https://lucascherkewski.com/hit-and-miss/79-the-signs/) Year to year, the dates change, but the signs remain similar. (No doubt long term these patterns will shift—thanks, climate change.)

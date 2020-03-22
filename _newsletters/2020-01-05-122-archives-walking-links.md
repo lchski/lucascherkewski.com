@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Archives and walking and links'
+number: '122'
+date: '2020-01-05 20:17:00'
+published: true
+---
+
 Hello! Here’s to you, here’s to 2020—let’s take this one with gusto, shall we? (Or, y’know, with whatever we can muster. I’m here with and for you regardless.)
 
 My morning writing time evaporated when I fell down a rabbit hole of searching the [Library and Archives archival collections catalogue](http://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx) and poking around [digitized microforms in Héritage](http://heritage.canadiana.ca/). What’d I find? Lots of potentially interesting records about postal service in Canada, for the most part. _Update: I just spent another half hour poking around the archival collections. Oops. But also, yay!_ Maybe something for future research and writing.

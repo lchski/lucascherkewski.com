@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Collected links'
+number: '127'
+date: '2020-02-09 15:46:00'
+published: true
+---
+
 Hello there!
 
 I’ve had a bit of an off week, thanks to some health troubles. No alarm bells going off today, but heading in for more checkups tomorrow. Fret not—I’ve managed to find good days and good times to spend with friends, getting out and about. Not everything is heavy!

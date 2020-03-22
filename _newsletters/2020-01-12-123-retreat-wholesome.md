@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Retreat to the wholesome'
+number: '123'
+date: '2020-01-12 12:02:00'
+published: true
+---
+
 Well, it’s been quite the start to the year, hasn’t it?
 
 It’s been a hard week in Ottawa, in Canada, and beyond. And [this morning Ontario Twitter came together over a nuclear incident that wasn’t](https://twitter.com/lchski/status/1216382344082468865). Personally, I’ve been mired in remembering certain periods of my life and comparing them to my present. Because that’s always fun and healthy.

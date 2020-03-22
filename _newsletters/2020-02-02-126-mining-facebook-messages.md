@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Mining my messages'
+number: '126'
+date: '2020-02-02 15:24:00'
+published: true
+---
+
 Somehow it’s _February_ already??
 
 This morning, a friend and I did a site visit for a course on Indigenous histories and public discourse in Ottawa. (We went to the building formerly known as Langevin Block, facing Parliament Hill. It was renamed in 2017, with [coverage from historians and the media alike](http://activehistory.ca/2017/06/langevin/), on the basis of [a murky historical justification](https://www.cbc.ca/news/politics/langevin-trudeau-building-residential-schools-indigenous-foote-bellegarde-macdonald-1.4242088). Happy to give you more background if ever you’re curious.) It was snowy and our feet got cold, so now I’m comfortably ensconced in my living room, listening to _Riding with the King_ by B.B. King and Eric Clapton.
