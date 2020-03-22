@@ -1,10 +1,33 @@
-I’m sitting in my front room, watching _Helvetica_. It’s free until Tuesday, you can [stream it from Gary Hustwit’s site](https://www.ohyouprettythings.com/free).
+_I’m trying something out, a little more interactive, with this newsletter. Consider sticking around until the end, or skipping ahead, to participate._
 
-I’ve been working at my desk, watching operas. There’s a new one every night, you can [stream it from the Met](https://www.metopera.org/).
+I’m sitting in my front room, watching _Helvetica_. It’s free until Tuesday. You can [stream it from Gary Hustwit’s site](https://www.ohyouprettythings.com/free).
 
-I’ve been reading in my bed, listening to concert recordings. A whole back catalogue is available for a month, you can [stream it from the Berliner Philharmoniker](https://www.digitalconcerthall.com/en/home).
+I’ve been working at my desk, watching operas. There’s a new one every night. You can [stream it from the Met](https://www.metopera.org/).
 
-There are also free yoga sessions, free live concerts, free this, free that—it’s all free, in these first days of restricted freedom.
+I’ve been reading in my bed, listening to concert recordings. A whole back catalogue is available for a month. You can [stream it from the Berliner Philharmoniker](https://www.digitalconcerthall.com/en/home).
 
-- small business vs global digital business?
-- not COVID-19??
+There are also free yoga sessions, free live concerts, free this, free that—it’s all free, in these first days of restricted freedom. There’s a story here about how big businesses and not-quite-so-big-but-digitally-literate businesses will capitalize on this pivot, coming out on top of so many soon-to-break businesses in the aftermath of this mess. But I’m not an economist and I’m not a doomsayer and I’m not up to talk much more about the economic implications of what’s going on.
+
+---
+
+Anyway, one of the things that became discounted this week was [_Sims 4_](https://www.origin.com/can/en-us/store/the-sims/the-sims-4). It’s still on sale today, 85% off until tomorrow.
+
+I have a long relationship with the _Sims_ franchise. When I was in elementary school, I bought (or, more accurately, my parents bought) the entire _Sims_ collection—the original base game plus all its expansions—through the Scholastic catalogue. (That may surface memories for some folks….) At some point years later I ended up with the entire _Sims 2_ collection, too. I’ve played it for years, on and off, though more often off than on in the last few.
+
+- My earliest memories playing it include my sister. We’d draw floorplans on grid paper taken from my dad’s office, then sit together as we built our houses, usually monstrous things without sensible proportions, but we’d built them and we were so proud. On the rare occasion we made people and moved them in they’d die in fire, so we usually kept to the grid paper and building.
+- Later, I played with friends. A group of old friends and I had a standing after-school Skype call, where we’d play games (together or on our own) and banter endlessly as we did. I made a household with a person for each of those friends—I’d play each of the characters as if they were really my friend, asking each friend for guidance on what to do in any given situation. Hilarity ensued, of course.
+- Nowadays, I’m playing mostly on my own, but passing along funny updates. I used to play intergenerational families, and I reckon I’ll return to that, but so far I’ve been playing just one character. An elderly bachelor with impeccable taste and a love for books, Cale lives on his own in a small but elegant house. He has a job, but is ramping up vegetable production in his side yard until he can make enough money from that to properly retire.
+
+Sometimes we need a feels-like-real-life escape from real life. _Sims_ is scratching that itch for me these days (or, more accurately, these nights, when I usually play)—it seems to have made its way back to me at just the right time.
+
+---
+
+To keep your spirits up, remember how vast human knowledge is. [Look at this database of Canadian libraries and archives](https://cwrc.ca/rsc-src/)—there’s so much to explore, and of course much more beyond these institutions. There’s something comforting for me, just thinking of all these places, with their books or records or art, or or or…. Maybe for you, too. 
+
+Or maybe it’s something else—**what comforts you, these days or otherwise?** I’d be touched if you shared.
+
+Let’s try something out. [Mita Williams does this with her newsletter](https://tinyletter.com/UniversityofWinds), asking a question each issue and sharing the answers (anonymously) in the next. (You can [read the list of all her weekly questions](https://docs.google.com/spreadsheets/d/1mzh1CYoj9GTTdQLAUkSuIp_dkYpxTAGHuRlDW-hxV3U/edit#gid=0), it’s so fun.) **If you write back with an answer to that question, of what comforts you, I’ll collect them and share them back next week.** (Mita uses a first initial, I’ll do the same unless you’d rather I keep it fully anonymous.)
+
+And if you’d rather not write back, no problem. There’s enough going on already, that’s for sure. Regardless, all the best for the week ahead. See you here again soon.
+
+Lucas
