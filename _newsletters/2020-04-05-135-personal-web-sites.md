@@ -1,0 +1,8 @@
+- EM on the worrystone https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/
+- FC on homesteading (https://frankchimero.com/blog/2013/homesteading-2014/)
+	- > In light of the noisy, fragmented internet, I want a unified place for myself—the internet version of a quiet, cluttered cottage in the country. I’ll have you over for a visit when it’s finished.
+- Mandy Brown
+- https://pinboard.in/u:lchski/t:personal-sites/
+- https://thefox.is/
+- http://www.timwu.org/
+- [_The Cherkewski View_](https://lucascherkewski.com/study/manifesto/)
