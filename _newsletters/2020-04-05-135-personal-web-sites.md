@@ -23,7 +23,7 @@ There are quite a few personal sites I look to as inspiration ([many are in my s
 - [Tim Wu](http://www.timwu.org/) has a bunch of quirky sections, including [a touching page on his favourite teachers](http://www.timwu.org/favoriteteachers.html).
 - [Beck Tench](https://www.becktench.com/) speaks to different parts of her life in a consistent and compelling way. (I love the “influences” list in each section, for example.)
 
-Evidently it’s not _just_ the design of personal sites that compels me, but also the totally open range of what to put on them. They’re places to put, well, whatever _you_ want, in whatever format you like—not constrained by what a social media platform permits or incentivizes, with only your own ideas as a limit.
+Evidently it’s not just the design of personal sites that compels me, but also the totally open range of what to put on them. They’re places to put, well, whatever you want, in whatever format you like—not constrained by what a social media platform permits or incentivizes, with only your own ideas as a limit.
 
 Anyhow, do you have a personal site? I’d be curious to see it, if you do. (For now, I don’t think I’ll carry on the shareback at the end of the email.) All the best for the week ahead!
 
