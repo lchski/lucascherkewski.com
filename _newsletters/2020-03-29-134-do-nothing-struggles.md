@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Do nothing struggles'
+number: '134'
+date: '2020-03-29 13:00:00'
+published: true
+---
+
 _The collected answers to last week’s question (What comforts you?) are at the end of the email. There’s a new question this week!_
 
 Hello there!

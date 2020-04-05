@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Personal websites'
+number: '135'
+date: '2020-04-05 12:00:00'
+published: true
+---
+
 Good morning folks! It’s a drizzly Sunday morning—I’m soaking up the quiet and [watching _Urbanized_](https://www.ohyouprettythings.com/free).
 
 Last week, [Ethan Marcotte wrote about redesigning his website](https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/). The process gave him an outlet for the mounting stress of the world around him:
