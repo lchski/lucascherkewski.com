@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Parliament carries on'
+number: '136'
+date: '2020-04-11 09:15:00'
+published: true
+---
+
 A fine morning to you!
 
 I started my day thinking I’d avoid computers entirely. Then I ~~remembered~~ realized that today’s Sunday (extra long weekends, oops). So I thought I’d keep my computer usage short, sharing just a few links about Parliament and the recent sittings of the House of Commons and Senate. Then I realized that I had a few additional thoughts, and lo, a full newsletter.
