@@ -1,6 +1,8 @@
 :root {
 	--ff-sans: acumin, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
-	--ff-serif: 'expo-serif-pro', Georgia, serif;
+	--ff-serif: chaparral-pro, 'expo-serif-pro', Georgia, serif;
+
+	--fw-bold: 600;
 
 	--fz-1: 3rem;
 	--fz-2: 2.25rem;

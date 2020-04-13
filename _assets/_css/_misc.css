@@ -3,7 +3,7 @@ i {
 }
 
 .meta {
-	font-style: italic;
+	font-family: var(--ff-sans);
 
 	font-size: var(--fz-6);
 

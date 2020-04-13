@@ -151,3 +151,7 @@
 			margin-bottom: var(--spacing-extra-large);
 		}
 	}
+
+.page--home h1 {
+	font-size: var(--fz-1);
+}

@@ -11,3 +11,7 @@ img {
 
 	margin-top: var(--spacing-neg-small);
 }
+
+figure {
+	margin: 0;
+}

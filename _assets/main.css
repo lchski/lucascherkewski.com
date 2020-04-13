@@ -69,6 +69,10 @@ hr {
 		.masthead {
 			background: none;
 		}
+
+		.page--head .masthead {
+			margin-top: 11px;
+		}
 	}
 
 .footer {
