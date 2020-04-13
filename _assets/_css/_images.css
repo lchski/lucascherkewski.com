@@ -5,6 +5,9 @@ img {
 }
 
 .caption {
+	color: var(--c-black-90);
+
+	font-family: var(--ff-sans);
 	font-style: italic;
 
 	font-size: var(--fz-6);

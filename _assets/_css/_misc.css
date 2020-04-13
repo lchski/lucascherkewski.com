@@ -3,9 +3,11 @@ i {
 }
 
 .meta {
+	color: var(--c-black-90);
+
 	font-family: var(--ff-sans);
 
-	font-size: var(--fz-6);
+	font-size: var(--fz-7);
 
 	margin: var(--spacing-large) 0;
 }

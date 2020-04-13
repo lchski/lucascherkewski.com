@@ -1,4 +1,5 @@
 .post__subtitle {
+	font-family: var(--ff-sans);
 	font-style: italic;
 
 	margin-top: var(--spacing-small);
