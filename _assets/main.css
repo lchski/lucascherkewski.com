@@ -53,6 +53,8 @@ hr {
 		color: var(--c-black);
 
 		text-decoration: none;
+
+		line-height: 1.4;
 	}
 
 		.masthead__title a:hover {

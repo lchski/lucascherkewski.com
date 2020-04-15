@@ -129,7 +129,7 @@
 
 	@media screen and (min-width: 78em) {
 		.page {
-			grid-template-columns: 13em 36em 23em;
+			grid-template-columns: 13em 1fr 23em;
 		}
 
 		.page__intro,
