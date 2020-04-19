@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Day off reading'
+number: '137'
+date: '2020-04-19 09:45:00'
+published: true
+---
+
 Good morning to you!
 
 Today’s going to be a day off for me (though not an off day). Here are cool things I encountered this week (thanks to friends who shared them, in various channels!), in some inscrutable order:
