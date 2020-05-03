@@ -1,10 +1,8 @@
-We could all use more beauty in our lives. Beautiful words can carry important reminders, or profound thoughts, or anything really. So here are some that I encountered this week.
+We could all use more beauty in our lives. Beautiful words can carry important reminders or profound thoughts, they can inspire us to reflection or to action. So here are some beautiful words I encountered this week.
 
-- Nimoy reading “Desiderata”
-	- https://www.youtube.com/watch?v=ZZJ1fJTezFE
-	- via X
+## 1.
 
-Alberto Manguel is an old stand-by of mine—I can safely assume I’ll have breathless or warm-fuzzy moments while reading his essays, given our shared passion for reading, books, and libraries. In _Packing My Library_, Manguel describes the painful process of packing up his 35,000-volume (!!!) personal library. Toward the end, he describes his thoughts in taking up a position as director of the National Library of Argentina, on reading and writing as citizenship:
+Alberto Manguel is an old stand-by of mine—I can safely assume I’ll have breathless or warm-fuzzy moments while reading his essays, given our shared passion for reading, books, and libraries. In _Packing My Library_, Manguel describes the painful process of packing up his 35,000-volume (!!!) personal library. Toward the end, he describes his thoughts on becoming director of the National Library of Argentina, on reading and writing as citizenship:
 
 > And again and again, empires fall and literature continues. …
 > 
@@ -12,9 +10,9 @@ Alberto Manguel is an old stand-by of mine—I can safely assume I’ll have bre
 
 > A national library can, I believe, be a sort of creative workshop, and a place in which material is stored for future readers to find clues in order to imagine better worlds. (143)
 
-When I describe this as citizenship, I mean it in the civic sense—not holding one passport or another, but participating actively in your society and, directly or indirectly, its politics. That can take many forms. It can be participating directly, yes. But in difficult times, when it seems too daunting to engage, it can also mean preparing ourselves—[sowing the seeds inside us for future action](https://lucascherkewski.com/study/earthworming/).
+When I describe this as citizenship, I mean it in the civic sense—not holding one passport or another, but participating actively in your society and, directly or indirectly, its politics. That can take many forms. It can be participating directly, yes. But in difficult times, when it seems too daunting to engage, it can also mean preparing ourselves through reflection—[sowing the seeds inside us for future action](https://lucascherkewski.com/study/earthworming/).
 
----
+## 2.
 
 Mary Oliver is best known as a poet, but she also wrote essays. They read like essays written by a poet, wonderfully so. In _Upstream_, Oliver describes disciplined, creative work:
 
@@ -28,14 +26,16 @@ Oliver goes on to describe the three “selves” she lives: her childhood self,
 
 (Also I love the phrase “intimate interrupter” to describe our tendency to distract ourselves. Nice!)
 
----
+## 3.
 
-Finally, a friend shared [a recording of Leonard Nimoy reading “Desiderata”](https://www.youtube.com/watch?v=ZZJ1fJTezFE) earlier this week, and I’d like to pass it on to you. [It’s a beautiful poem](https://en.wikipedia.org/wiki/Desiderata), worth reflecting on. It starts like this:
+Finally, a friend shared [a recording of Leonard Nimoy reading Max Ehrmann’s “Desiderata”](https://www.youtube.com/watch?v=ZZJ1fJTezFE) earlier this week, and I’d like to pass it on to you. [It’s a beautiful poem](https://en.wikipedia.org/wiki/Desiderata), worth reflecting on. It starts like this:
 
 > Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons. Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.
 
-And I encourage you to read or listen to it to get the rest.
+And I encourage you to read or listen to it for the rest.
 
-That’s all from me for this week—all the best for the week ahead!
+---
+
+That’s all from me for this week—all the best for the week ahead. Here’s to you, friend.
 
 Lucas
