@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Wordy cookbooks'
+number: '138'
+date: '2020-04-26 14:45:00'
+published: true
+---
+
 Good day to you! It’s cloudy here, but that’s not getting to me too much—things feel decidedly alright.
 
 Mine wasn’t the best of weeks. There was nothing wrong. Just a bit of tension or irritability, some cabin fever slowly building.

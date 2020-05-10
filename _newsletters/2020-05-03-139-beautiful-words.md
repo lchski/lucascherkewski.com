@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Beautiful words'
+number: '139'
+date: '2020-05-03 14:00:00'
+published: true
+---
+
 We could all use more beauty in our lives. Beautiful words can carry important reminders or profound thoughts, they can inspire us to reflection or to action. So here are some beautiful words I encountered this week.
 
 ## 1.
