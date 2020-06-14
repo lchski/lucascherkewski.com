@@ -24,7 +24,7 @@ I’m looking forward to what comes of [Rawlson King’s recent appointment as �
 
 - The councillor has a history of presenting [well-researched, well-articulated positions, as with his justification of his urban boundary vote](https://www.rideau-rockcliffe.ca/urban_boundary).
 - He recently summarized the [history and present of systemic racism in Canada, while looking ahead to taking concrete steps in Ottawa](https://ottawa.ctvnews.ca/video?clipId=1970140&binId=1.1164511&playlistPageNum=1) (or, [in text form, read a discussion of those concrete steps](https://ottawacitizen.com/opinion/king-ottawa-lets-tale-concrete-steps-towards-a-more-equitable-city/wcm/ac2f4397-fb28-4a19-ad3c-f7d3e1248ebc/)).
-- That said, for so many reasons, Rawlson King can’t carry this himself—I’m grateful for those councillors that have already demonstrated their support; I’m hopeful that more will do so as the conversations get realer, and harder. [It’s also on us, for those of us who live in Ottawa, to engage with our city and its politics](http://makingvoicescount.ca/kit/civic-engagement-kit), exhausting though it can be.
+- That said, for so many reasons, Rawlson King can’t carry this alone—I’m grateful for those councillors that have already demonstrated their support; I’m hopeful that more will do so as the conversations get realer, and harder. [It’s also on us, for those of us who live in Ottawa, to engage with our city and its politics](http://makingvoicescount.ca/kit/civic-engagement-kit), exhausting though it can be.
 
 That’s it from me for today. Friends, [as Tatiana Mac noted, beware of burnout and practice “sustainable strategies for activism”](https://tatianamac.com/posts/beware-of-burnout/). All the best for the week ahead.
 
