@@ -20,8 +20,13 @@ I don’t have too too much more to say on it right now, in part because I need 
 
 ---
 
-Before I go, I want to leave you with two links. They’re both from _Active History_ a model for engaged history—giving depth and context and nuance to current events, and offering considerations for what we do next.
+Before I go, I want to leave you with two links. They’re both from _Active History_, a model for engaged history:
 
 - “[So long Dundas: From Colonization to Decolonization Road?](https://activehistory.ca/2020/06/so-long-dundas-a-colonization-to-decolonization-road/)”—Thomas Peace discusses the history of Ontario’s various Dundas Streets (or Dundas as a community) and their symbolic and literal connections to both slavery and colonization. From this, Peace then offers some other names that surface those histories. It’s a really interesting piece, one that I think engages with the “(re|un)naming debate” in a constructive way.
-- “[Epidemics and Racism: Honolulu’s Bubonic Plague and the Big Fire, 1899-1900](https://activehistory.ca/2020/06/epidemics-and-racism-honolulus-bubonic-plague-and-the-big-fire-1899-1900/)”—Yukari Takai walks us through how an epidemic unfolded in Honolulu over a hundred years ago, focusing particularly on how the city’s Asian and Indigenous communities were demonized in the public health response. 
+- “[Epidemics and Racism: Honolulu’s Bubonic Plague and the Big Fire, 1899-1900](https://activehistory.ca/2020/06/epidemics-and-racism-honolulus-bubonic-plague-and-the-big-fire-1899-1900/)”—Yukari Takai walks us through how an epidemic unfolded in Honolulu over a hundred years ago, focusing particularly on how the city’s Asian and Indigenous communities were demonized in the public health response. Particularly interesting and troubling, to me, was the role of private citizens in directing the public health response, coupled with state violence (e.g., National Guard troopers forcing Asian and Indigenous residents of a quarantine zone to stay in it—with guns and bayonets—even while a massive fire raged through the buildings of that zone).
 
+Both are excellent examples of how history can provide depth and context and nuance to current events, and offer considerations for what we do next.
+
+That’s all from me for the week. All the best for the week ahead—may you find some cool air and space to reflect.
+
+Lucas
