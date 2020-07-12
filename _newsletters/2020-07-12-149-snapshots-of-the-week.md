@@ -2,7 +2,7 @@ Another quiet week for my brain—filled with family time and working time, with
 
 Some snapshots of my week (in words because I’m not a photo guy):
 
-- Bread pudding, more appetizing than it sounds. (Maybe just me, but the name isn’t naturally appetizing if you’ve never had it before.)
+- Bread pudding, more appetizing than it sounds. (Maybe just me, but the name isn’t a draw if you’ve never had it before.)
 - Being supported by good colleagues (friends) at work, means so much.
 - Eating takeout in a park, worth the postural pain. (I have weak core strength, so sitting on the ground to eat is not comfy for me. But it can be lovely!)
 - Driving on country roads with sunny skies, lovely except for one’s environmental conscience.

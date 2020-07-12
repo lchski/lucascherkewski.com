@@ -1,0 +1,5 @@
+- longtime group of friends, MC after school
+- MC during pandemic
+- what we've done in our little server world: peninsula (and beyond?)
+- me, caves (something about hiding inside, not going out much...)
+- Canada Day fireworks
