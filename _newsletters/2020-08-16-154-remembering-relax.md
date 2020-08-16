@@ -1,6 +1,4 @@
-Friday afternoon, I wrapped up work and began my longest stretch of time off since 2017.
-
-Circumstances—and my own stubbornness—have kept me coming back to work of one kind or another regularly since then.
+Friday afternoon, I wrapped up work and began my longest stretch of time off since 2017. It started with driving country roads to a windy fish and chips picnic with family, so I’m in good spirits.
 
 It’s been a long, high intensity summer. Not what I’d planned, but not so bad for having happened. To unwind, I have various hijinks planned for the next few weeks:
 
