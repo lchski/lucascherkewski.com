@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Rain day thoughts'
+number: '152'
+date: '2020-08-02 12:00:00'
+published: true
+---
+
 I put two ice cubes in my glass fifteen minutes ago, and they're only half melted. That’s a good sign—the temperatures this morning are reasonable (indeed, this week looks lovely), which has my mind at ease.
 
 It’s been raining steadily this morning. Restless from too long indoors, I put on my big raincoat and boots and went out to join the ducks. I’m jealous of them—to mimic their indifference to the elements requires plenty of gear for me, but so it goes.

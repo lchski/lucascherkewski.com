@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Virtual community'
+number: '150'
+date: '2020-07-19 12:00:00'
+published: true
+---
+
 Hello there!
 
 I spent yesterday driving back to Ottawa (yay for family visits, yay for roadtrips!), and meant to take today slowly to recover. Stuff came up, slipping the day away from me, so it’s taken longer to write this than I meant.

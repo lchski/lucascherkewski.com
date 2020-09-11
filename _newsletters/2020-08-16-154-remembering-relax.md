@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Remembering (how) to relax'
+number: '154'
+date: '2020-08-16 12:00:00'
+published: true
+---
+
 Friday afternoon, I wrapped up work and began my longest stretch of time off since 2017. It started with driving country roads to a windy fish and chips picnic with family, so I’m in good spirits.
 
 It’s been a long, high intensity summer. Not what I’d planned, but not so bad for having happened. To unwind, I have various hijinks planned for the next few weeks:

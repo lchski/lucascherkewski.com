@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'A difficult week'
+number: '143'
+date: '2020-05-31 12:00:00'
+published: true
+---
+
 Friends, it’s been a week.
 
 Personally, professionally, and, well, for the world at large, but especially here in North America, this has been a week of long days and long nights.

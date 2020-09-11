@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'TV time and world-building'
+number: '155'
+date: '2020-08-23 12:00:00'
+published: true
+---
+
 No, _you_ spent two and a half hours diving into digitized microfilm this morning instead of, I dunno, enjoying the sunshine or something. (If you’re curious, it was [1939 correspondence on the wording of the plaque for Dominion Archivist Arthur Doughty’s statue](http://heritage.canadiana.ca/view/oocihm.lac_reel_c3744/613?r=0&s=4). I don’t know why, either.)
 
 Being back in Waterloo means I’m around the _television_. I don’t have a TV up in Ottawa, just a monitor and speakers to plug a computer into. Streaming and so on, you know how it is these days. But in Waterloo—in Waterloo, there’s a TV. Hundreds of channels! Pre-scheduled content! News segments! Ads! A whole other way of accessing information and entertainment.

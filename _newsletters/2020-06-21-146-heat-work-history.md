@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Heat, work, history'
+number: '146'
+date: '2020-06-21 12:00:00'
+published: true
+---
+
 Hello there!
 
 It’s hot. A few years ago, I linked to [some articles on the social and political dimensions of heat](https://lucascherkewski.com/hit-and-miss/46-heat/), and [a piece on the social construction of disasters, including heat waves](https://lucascherkewski.com/links/2018/11/25/15-00-tinyletter-charlie-loyd-sauce/). There’s an extra dimension to this in pandemic times: socialized air conditioning (libraries, public buildings, malls) is mostly unavailable, increasing risk of heat-related injury.

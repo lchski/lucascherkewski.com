@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Snapshots of the week'
+number: '149'
+date: '2020-07-12 12:00:00'
+published: true
+---
+
 Another quiet week for my brain—filled with family time and working time, with little else going on. And that’s okay!
 
 Some snapshots of my week (in words because I’m not a photo guy):

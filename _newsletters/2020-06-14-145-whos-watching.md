@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Who’s watching?'
+number: '145'
+date: '2020-06-14 12:00:00'
+published: true
+---
+
 Hello there!
 
 It’s a gorgeous day in Ottawa, as far as the weather goes. It was good to get out and breathe a bit today—life hasn’t let up, but being in the sun usually puts it in another light.

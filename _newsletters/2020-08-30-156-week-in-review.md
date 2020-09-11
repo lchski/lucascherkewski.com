@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Week in review'
+number: '156'
+date: '2020-08-30 12:00:00'
+published: true
+---
+
 Good afternoon!
 
 The morning:

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Maintenance, care, attention'
+number: '157'
+date: '2020-09-06 12:00:00'
+published: true
+---
+
 Good morning!
 
 It’s been a quiet week for me, filled with walking and reading. I’ve been happily in my own head—but am looking forward to emerging and re-engaging with the world next week. (Apologies if I haven’t yet replied to an email from the last few weeks!)
