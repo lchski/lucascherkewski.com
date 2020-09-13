@@ -1,5 +1,0 @@
-- as a general idea, a thing that influences what occurs within/around/on top of it
-- examples
-	- structure of a piece of writing or a speech
-	- structure of a business (e.g. M buys the books at All Books, but J often shelves them; the former knows what types of books the store sells best, the latter knows where a given book would be)
-	- structure of a team or organization (who makes decisions, whether there's input/veto from other groups)
