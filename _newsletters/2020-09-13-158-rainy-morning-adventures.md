@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Rainy morning adventures'
+number: '158'
+date: '2020-09-13 14:15:00'
+published: true
+---
+
 Hullo!
 
 This morning was spent adventuring along Ottawa River paths with a fun group of folks. Trying to respect public health measures while not spending every social minute on a phone or screen has meant I’m out on social walks more than ever—something I’m thrilled about.

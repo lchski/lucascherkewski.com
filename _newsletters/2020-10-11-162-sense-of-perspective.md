@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'A sense of perspective'
+number: '162'
+date: '2020-10-11 16:00:00'
+published: true
+---
+
 Hi!
 
 It’s been a weekend full of long walks and calls with family and friends—wonderfully so. I spent the morning rambling among trees, yellow, orange, and red, feeling small (or right-sized?) amidst a changing landscape. A different Thanksgiving weekend, but not so different in many ways that count.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Leafing through'
+number: '161'
+date: '2020-10-04 16:00:00'
+published: true
+---
+
 The last days of September and first few of October are always special ones, but this week especially so. It was filled with anniversaries, birthdays, time with friends, and a wedding—lovely occasions, all of them.
 
 Here in Ottawa, the leaves are changing, doing their thing—[the world going on](https://www.brainpickings.org/2014/09/24/mary-oliver-reads-wild-geese/), as it were. It’s “Ottawautumn”, as I like to call it—this city seems meant for the fall and winter seasons.
