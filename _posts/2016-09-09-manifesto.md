@@ -83,8 +83,8 @@ To borrow greater words, I close with some from Marcus Aurelius, a 2<sup>nd</sup
 This site is where I attempt to enter other minds, and, in doing so, permit you to enter mine. Welcome.
 
 [^cherkewski-view]:
-	A few years ago, my friend Isaac suggested that I one day publish a book titled *The Cherkewski View*. I don’t foresee
+	A few years ago, my friend Teagan suggested that I one day publish a book titled *The Cherkewski View*. I don’t foresee
 	any books in my immediate future, but the title’s stuck with me—it may be slightly pretentious, but it’s also honest 
-	enough to suit what I’m trying to accomplish here. Thanks for the name, Isaac—you may have meant it as a joke, but it’s
+	enough to suit what I’m trying to accomplish here. Thanks for the name, Teagan—you may have meant it as a joke, but it’s
 	one I took seriously!
 
