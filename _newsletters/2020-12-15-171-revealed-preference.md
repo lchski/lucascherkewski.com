@@ -1,0 +1,5 @@
+- Spotify wrapped
+- Courtney Tweet on passive vs active listening
+- top artists: all guys—okay, revealed preference vs what I thought
+- genres: mellow gold?
+- but what'd I feel like I listened to / got most out of? Cher, Tina Turner, _Mamma Mia!_ cast recording, etc (active vs passive)
