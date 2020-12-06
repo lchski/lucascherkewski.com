@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'PolySeSouvient'
+number: '170'
+date: '2020-12-06 11:30:00'
+published: true
+---
+
 _Today’s newsletter is heavier, discussing violence against women. All good if you’re not in the headspace for it._
 
 Today is the anniversary of the École Polytechnique murders. [I wrote about it last year, on the thirtieth anniversary, and still agree with what I wrote then, would still recommend the pieces I linked to.](https://lucascherkewski.com/hit-and-miss/118-polytechnique/) (As ever, [I find Ursula Franklin’s speech particularly moving and thought-provoking](https://cws.journals.yorku.ca/index.php/cws/article/download/10641/9730).)
