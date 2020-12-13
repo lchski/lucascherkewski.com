@@ -1,4 +1,4 @@
-We’re living in one of the least interesting timelines, as far as consumer algorithms go. Allow me to weave a few threads together…
+We’re living in one of the least interesting timelines, as far as consumer algorithms go. With apologies for the length, allow me to weave a few threads together…
 
 ## 1. Revealed preference
 
@@ -30,11 +30,11 @@ I mostly use Spotify’s “radios” to listen to music: you pick a starting po
 
 The algorithm-driven listening is passive—and I’m okay with that! While I’ll still throw on an album now and again, or put together a few songs in a playlist, the radio experience is one of my favourite ways to listen to music.
 
-But it’s also problematic when it comes to painting a portrait of your music tastes. A few years ago, I heard Simone Rebaudengo speak at CanUX, on training algorithms—he intentionally fed wildly different genres to his Spotify account, to generate more interesting recommendations. If you’ve spent enough time with Spotify, [you may start to feel that its algorithmic tools just churn out the same music again and again—an “algorithmic cul-de-sac”, if you will](https://twitter.com/fishandchipsing/status/1193123764633927680)
+But it can also problematize the data that supposedly portrays your music tastes. A few years ago, I heard Simone Rebaudengo speak at CanUX, on training algorithms—he intentionally fed wildly different genres to his Spotify account, to generate more interesting recommendations. If you’ve spent enough time with Spotify, [you may start to feel that its algorithmic tools just churn out the same music again and again—an “algorithmic cul-de-sac”, if you will](https://twitter.com/fishandchipsing/status/1193123764633927680).
 
-That algorithmic cul-de-sac will throw off your listening counts—sure, it’s what you’re listening to, but is it what you’re _deciding_ to listen to? I blame my algorithmic cul-de-sac for my top genre of “mellow gold”. While it’s what the algorithm often converges toward, and is _fine_, it’s not that interesting to me. But I don’t have a good way to push at the algorithm, to retune its inputs.
+That algorithmic cul-de-sac will throw off your listening counts—sure, it’s what you’re listening to, but is it what you’re _deciding_ to listen to? I blame it for my top genre of “mellow gold”. While it’s what the algorithm often converges toward, and is _fine_, it’s not that interesting to me. But I don’t have a good way to push at the algorithm, to retune its inputs.
 
-Perhaps an even more common problem is if you have a running or exercise playlist. If you’re an avid exerciser, those songs may well dominate your counts, even though that’s not necessarily what you listened to for the sake of listening to music. (I don’t have this problem, but I’m assured by more active friends that it’s a thing.)
+Perhaps a more relatable version of the problem is if you have a running or exercise playlist. If you’re an avid exerciser, those songs may well dominate your counts, even though that’s not necessarily what you listened to for the sake of listening to music. (I don’t have this problem, but I’m assured by more active friends that it’s a thing.)
 
 When it comes to an end-of-year roundup, then, the simple count of which songs played on my Spotify only tells one version of the story. The version I’m actually interested in is subtler, more nuanced: which artists did I _choose_ to listen to?
 
@@ -58,7 +58,7 @@ Though I don’t think it’s meant for situations like this, I wonder whether [
 
 > 63(3): If the organization has used an automated decision system to make a prediction, recommendation or decision about the individual, the organization must, on request by the individual, provide them with an explanation of the prediction, recommendation or decision and of how the personal information that was used to make the prediction, recommendation or decision was obtained.
 
-Given so much of our digital consumer economy is enabled by data, it’d be great if consumers could more explicitly and intentionally engage with that data. Imagine being able to tweak your Twitter (or Facebook, or LinkedIn, _or or or_) timeline, to reweight whatever factors they use. (Or to just turn the thing off and have an actual chronological feed—what a concept!) But of course, part of the service is the automagic—or is it, does it really need to be?
+Given so much of our digital consumer economy is enabled by data, it’d be great if consumers could more explicitly and intentionally engage with that data. Imagine being able to tweak your Twitter (or Facebook, or LinkedIn, _or or or_) timeline, to reweight whatever factors they use. (Or to just turn the thing off and have an actual chronological feed—what a concept!) Of course, part of the service is the magic algorithm—but does it really need to be so secretive?
 
 Anyway, that’s more than enough from me. All the best for the week ahead!
 
