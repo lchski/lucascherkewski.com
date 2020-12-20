@@ -1,4 +1,12 @@
-I have few traditions in my life. One, though, has developed with this newsletter: a pre-Christmas roundup of some significant books from my year’s reading. (For previous years: [2019](https://lucascherkewski.com/hit-and-miss/120-years-books/), [2018](https://lucascherkewski.com/hit-and-miss/68-reading-writing-healing/), [2017](https://lucascherkewski.com/hit-and-miss/16-three-welcome-books/).)
+---
+layout: study--newsletter
+title: 'Five books for the year'
+number: '172'
+date: '2020-12-20 17:15:00'
+published: true
+---
+
+I have few traditions in my life. One, though, has emerged from this newsletter: a pre-Christmas roundup of significant books from my year’s reading. (For previous years: [2019](https://lucascherkewski.com/hit-and-miss/120-years-books/), [2018](https://lucascherkewski.com/hit-and-miss/68-reading-writing-healing/), [2017](https://lucascherkewski.com/hit-and-miss/16-three-welcome-books/).)
 
 Reading this year was, as with everything, a bit different. I didn’t read much compared to previous years—as soon as I’d developed a good habit of pandemic reading, the COVID Alert work whirlwind swept that time away. But that’s okay.
 
