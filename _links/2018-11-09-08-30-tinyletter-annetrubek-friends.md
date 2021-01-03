@@ -1,9 +1,10 @@
 ---
 layout: study--link
-title: "tinyletter annetrubek friends"
-link_title: "Friends, Romans, countrymen, lend me your ears"
+title: tinyletter annetrubek friends
 link: https://tinyletter.com/annetrubek/letters/friends-romans-countrymen-lend-me-your-ears-2
+link_title: Friends, Romans, countrymen, lend me your ears
 date: 2018-11-09T08:30-05:00
+published: true
 ---
 
 {:h2: .f6 .ttu .tracked .mt5 .lh-title}
