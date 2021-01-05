@@ -2,42 +2,46 @@
 layout: study--post
 title: Now
 subtitle: Where I’m at, from a few different angles.
-date: 2018-12-19
+date: 2021-01-04
 ---
 
-Re-learning how to relax. Last time I updated this page (seven months ago!), I prefaced it with “More of the same”.
-That’s a fair descriptor for where I’m at now, too. What’s different, though, is that I’m returning to the same
-with the benefit of experience and (hopefully refreshed) eyes. You have better a chance to shift the familiar if you’ve
-been there before, y’know?
+Now! Now? Now. Nowwwww.
 
-Professionally, I’m returning to full-time work at the [Canadian Digital Service](https://digital.canada.ca) (<abbr title="Canadian Digital Service">CDS</abbr>)
-until the end of April. My experience working with <abbr title="Canadian Digital Service">CDS</abbr> over the last few months has
-rewarded me significantly. I look forward to more of the same, but also to being more effective at my work—and thus able to find
-ways to make that work easier for others.
+Okay, it’s been a long while since I updated this page. Just over two years. Oops.
 
-Academically, I’m taking a break. I may work at a few academia-adjacent projects, like [my analysis of speeches from the throne](https://his3305.labs.lucascherkewski.com/), or I may just let myself
-take a few months to breathe.
+So, well, it’s been quite a time, hasn’t it? I’ve been between Ottawa and Waterloo, mostly keeping to Ottawa as the COVID-19 situation has worsened.
 
-Personally, I’m getting ready for winter. Winter is hard—it’s cold and dark, people are harder to find, and you struggle
-to find the energy to engage strongly with the world. But I plan to do my best to turn that energy inward, to better engage
-with myself (and thus the world). It’s been a tricky little while, and I’m hoping to build a better independent base for myself.
-Expect to see more activity around here (including the [recently-developed links section](/links/)).
+---
 
-That said, I’m also wary of becoming a social hermit, so if you’d like to get together—whether we see each other all the time or
-it’s been a while—please [reach out](mailto:lucas@lucascherkewski.com). If you’d like to hear more of where I’m at, I publish [a weekly email newsletter](/hit-and-miss/). Every week I wonder whether I’ll know what to say next, but something always tumbles out (whether for better or for worse I’m not quite sure).
+Professionally, I’m still having a good time at the [Canadian Digital Service](https://digital.canada.ca) as a policy advisor. I plan to focus on a few things over the next few months:
 
-The last few months have weighed on me. I’ve been tired in both a micro and a macro sense. There’ve
-certainly been moments of lightness, ones in which that tiredness has faded away, but on the whole
-it’s all been a bit much. Most of all, I plan in the months ahead to re-learn how to relax, to regularly reclaim that lightness—here’s hoping!
+- honing our advice on interventions for large-scale technology projects;
+- improving our data management practices;
+- supporting a platform delivery team.
 
-***
+But last time I made plans, everything went out the window and we delivered [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), so who knows what’ll happen to these three activities.
 
-Things interesting me at the moment:
+---
 
-* Winter—the quiet, the cold, the space for solitude.
-* Literature—I’ve tended toward non-fiction for years, but I’m once again attracted to the potential
-  of stories.
-* Italian—it’s a familiar but foreign language, one I’m enjoying exploring.
+Personally, I’m getting ready for winter. (I used this sentence two years ago. [_stet_](http://stet.editorially.com/articles/a-beginning-for-stet/)) Though I love winter, I reckon this one’ll be harder than most. But we’ve trained for this, built up new social practices and so on. It’ll be okay.
+
+I hope to dig into [some of the many books on my shelves](https://lucascherkewski.com/hit-and-miss/141-new-shelves/). In particular, a few I look forward to:
+
+- _Middlemarch_
+- _Parable of the Sower_ (and its sequel, if I can muster the emotional energy)
+- _Emergent Strategy_
+- _Beowulf_
+- _A Civic Technologist’s Practice Guide_
+
+But who knows—reading can take you in weird and wonderful directions! If you want to follow along, [I’m on Goodreads](https://www.goodreads.com/user/show/27072166-lucas-cherkewski). (Or, as I call it, “[the wholesome social network](https://lucascherkewski.com/hit-and-miss/73-wholesome-social-network/)”—Amazon ownership aside.)
+
+I’ll probably also be watching lots of _Star Trek_! There are over 800 pieces of _Star Trek_ content, across its myriad series. So much good to enjoy. Maybe I’ll watch some more recent TV, but let’s be real—I’m a sucker for rewatching.
+
+---
+
+And oh, hey, this site! Last time I updated this, I’d just created [a new links section](/links/). It still feels new, because I only kept at it for a bit. But going back through recently, I remember more from those links than most others I’ve encountered over the years. So I hope to give it another spin. (This, along with a redesign I’m toying with, should keep this site plenty interesting.)
+
+If you’d like to catch up, please [reach out](mailto:lucas@lucascherkewski.com). If you’d like to hear more of where I’m at, I publish [a weekly email newsletter](/hit-and-miss/). Every week I wonder whether I’ll know what to say next, but something always tumbles out (whether for better or for worse I’m not quite sure).
 
 ***
 
