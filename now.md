@@ -35,7 +35,7 @@ I hope to dig into [some of the many books on my shelves](https://lucascherkewsk
 
 But who knows—reading can take you in weird and wonderful directions! If you want to follow along, [I’m on Goodreads](https://www.goodreads.com/user/show/27072166-lucas-cherkewski). (Or, as I call it, “[the wholesome social network](https://lucascherkewski.com/hit-and-miss/73-wholesome-social-network/)”—Amazon ownership aside.)
 
-I’ll probably also be watching lots of _Star Trek_! There are over 800 pieces of _Star Trek_ content, across its myriad series. So much good to enjoy. Maybe I’ll watch some more recent TV, but let’s be real—I’m a sucker for rewatching.
+I’ll probably also be watching lots of _Star Trek_! As of the other week, there are over 800 pieces of _Star Trek_ content, across its myriad series. So much good to enjoy. Maybe I’ll watch some more recent TV, but let’s be real—I’m a sucker for rewatching.
 
 ---
 
