@@ -17,6 +17,7 @@
     "brunch": "^2",
     "clean-css-brunch": "^2",
     "csswring": "^6.0.3",
+    "moment": "^2.29.1",
     "normalize.css": "^8.0.0",
     "postcss-brunch": "^2.1.0",
     "postcss-custom-properties": "^7.0.0",

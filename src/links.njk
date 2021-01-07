@@ -1,12 +1,13 @@
 <ul>
   {% for link in collections.links | reverse %}
   <li>
-    <h2><a href="{{ link.data.link }}">{{ link.data.link_title | markdownify | replace("<p>", "") | replace("</p>", "") }}</a></h2>
-    {{ link.content | markdownify }}
+    <h2><a href="{{ link.data.link }}">{{ link.data.link_title | markdownifyInline | safe }}</a></h2>
+    {{ link.templateContent | safe }}
     <p class="meta">
-      <a href="{{ link.url }}">{{ link.date | date: "%l:%S %P on %B %e, %Y" }}</a>
+      <a href="{{ link.url }}">{{ link.date | date("h:mm a on MMMM D, YYYY") }}</a>
       {% if link.data.source %}
-        ({{ link.data.source | append: "\)" | markdownify | replace("<p>", "") | replace("</p>", "") }}
+        {% set link_source = link.data.source + ")" %}
+        ({{ link_source | markdownifyInline | safe }}
       {% endif %}
     </p>
   </li>
