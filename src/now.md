@@ -1,5 +1,4 @@
 ---
-layout: study--post
 title: Now
 subtitle: Where I’m at, from a few different angles.
 date: 2021-01-04
