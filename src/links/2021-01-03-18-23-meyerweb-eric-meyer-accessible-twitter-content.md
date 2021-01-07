@@ -1,5 +1,5 @@
 ---
-layout: study--link
+#layout: study--link
 title: meyerweb eric-meyer accessible-twitter-content
 link: https://meyerweb.com/eric/thoughts/2021/01/01/highlighting-accessible-twitter-content/
 link_title: Highlighting Accessible Twitter Content
