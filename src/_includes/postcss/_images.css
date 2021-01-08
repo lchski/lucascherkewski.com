@@ -1,0 +1,13 @@
+img {
+	max-width: 100%;
+
+	margin: var(--spacing-medium) 0;
+}
+
+.caption {
+	font-style: italic;
+
+	font-size: var(--fz-6);
+
+	margin-top: var(--spacing-neg-small);
+}

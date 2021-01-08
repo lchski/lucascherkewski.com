@@ -1,0 +1,17 @@
+a {
+	color: rgb(var(--c-purple));
+}
+
+	a:hover {
+		opacity: 0.7;
+
+		text-decoration-style: double;
+	}
+
+	a:focus {
+		background-color: rgb(var(--c-gold));
+		outline: 3px solid rgb(var(--c-gold));
+		color: var(--c-black);
+
+		text-decoration: none;
+	}

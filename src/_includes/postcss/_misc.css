@@ -1,0 +1,50 @@
+i {
+	font-style: italic;
+}
+
+.meta {
+	font-style: italic;
+
+	font-size: var(--fz-6);
+
+	margin: var(--spacing-large) 0;
+}
+
+	.meta p {
+		margin: var(--spacing-small) 0;
+		line-height: 1.2;
+	}
+
+
+.mt0 {
+	margin-top: 0;
+}
+
+
+/*
+FOOTNOTES
+*/
+.footnotes {
+	border-top-style: dotted;
+	border-width: .125rem;
+	border-color: rgba(0,0,0,0.1);
+
+	padding-top: var(--spacing-small);
+	margin-top: var(--spacing-extra-large);
+
+	font-size: var(--fz-6);
+}
+
+	.reversefootnote {
+		font-size: var(--fz-7);
+	}
+
+.code {
+	overflow: auto;
+
+	max-width: 100%;
+
+	background: rgba(0,0,0,0.1);
+
+	padding: var(--spacing-extra-small) var(--spacing-medium);
+}

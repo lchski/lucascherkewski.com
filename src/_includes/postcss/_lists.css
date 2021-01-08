@@ -1,0 +1,33 @@
+ul,
+ol {
+	padding-left: var(--spacing-large);
+}
+
+ul li,
+ol li {
+	margin-top: var(--spacing-small);
+
+	max-width: 30em;
+}
+
+.block-list {
+	padding-left: 0;
+}
+
+	.block-list > li {
+		margin-bottom: var(--spacing-small);
+	}
+
+.text-item-list {
+	list-style: none;
+}
+
+.bordered-list > li {
+	border-bottom: 0.125rem dotted rgba(0,0,0,0.1);
+
+	padding-bottom: var(--spacing-large);
+}
+
+.spacey-list > li {
+	padding-bottom: var(--spacing-extra-extra-large);
+}
