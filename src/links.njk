@@ -1,10 +1,15 @@
 ---
 layout: base
 title: Links
+pagination:
+  data: collections.links
+  reverse: true
+  size: 8
+  alias: links
 ---
 
 <ul>
-  {% for link in collections.links | reverse %}
+  {% for link in links %}
   <li>
     <h2><a href="{{ link.data.link }}">{{ link.data.link_title | markdownifyInline | safe }}</a></h2>
     {{ link.templateContent | safe }}
@@ -18,3 +23,23 @@ title: Links
   </li>
   {% endfor %}
 </ul>
+
+<nav aria-labelledby="links-pagination">
+  <h2 id="links-pagination">Browse all links</h2>
+  <p>
+    {% if page.url != pagination.href.first %}
+      <a href="{{ pagination.href.first }}">Return to the latest.</a>
+    {% else %}
+      These are the latest.
+    {% endif %}
+    {% if page.url != pagination.href.last %}
+      <a href="{{ pagination.href.last }}">Explore the oldest.</a>
+    {% else %}
+      These are the oldest.
+    {% endif %}
+  </p>
+  <ol>
+    {% if pagination.href.next %}<li><a href="{{ pagination.href.next }}">Older</a></li>{% endif %}
+    {% if pagination.href.previous %}<li><a href="{{ pagination.href.previous }}">Newer</a></li>{% endif %}
+  </ol>
+</nav>
