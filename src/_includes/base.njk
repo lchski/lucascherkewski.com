@@ -4,14 +4,37 @@
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-	{% set page_title = title %}
-	{% if page.url != '/' %}
-		{% set page_title = page_title + ' – Lucas Cherkewski' %}
-	{% endif %}
+	{%- set page_title = title -%}
+	{%- if page.url != '/' -%}
+		{%- set page_title = page_title + ' – Lucas Cherkewski' -%}
+	{%- endif -%}
 
-    <title>{{ page_title | markdownifyInline | replace('<em>', '') | replace('</em>', '') }}</title>
-	
-	<title>{{ title }}</title>
+	{%- set page_title = page_title | markdownifyInline | replace('<em>', '') | replace('</em>', '') | trim -%}
+
+    <title>{{ page_title }}</title>
+
+	<meta content="{{ site.title }}" property="og:site_name">
+	<meta content="{{ page_title }}" property="og:title">
+
+	{%- set og_type = "website" -%}
+	{%- if title -%}
+		{%- set og_type = "article" -%}
+	{%- endif -%}
+	<meta content="{{ og_type }}" property="og:type">
+
+	{%- set og_description = site.description -%}
+	{%- if subtitle -%}
+		{%- set og_description = subtitle -%}
+	{%- endif -%}
+	<meta content="{{ og_description }}" property="og:description">
+
+	{%- if page.url -%}
+	  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+	{%- endif -%}
+
+	{%- if page.image -%}
+	  <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
+	{%- endif -%}
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
