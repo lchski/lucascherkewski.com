@@ -29,6 +29,7 @@ module.exports = function (eleventyConfig) {
         return objectsToFilter.filter(object => object[key] == value);
     });
 
+    // via: https://css-tricks.com/snippets/javascript/shuffle-array/
     eleventyConfig.addNunjucksFilter("shuffle", function(arrayToSort) {
         return arrayToSort.sort(function() { return 0.5 - Math.random() });
     });

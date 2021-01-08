@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Style guide"
+title: Style guide
 ---
 
 <h1>Primary heading</h1>
