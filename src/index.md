@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lucas Cherkewski
+include_netlify_widget: true
+---
+
 Hia!
 
 Welcome to my home on the internet. Nice to have you here.

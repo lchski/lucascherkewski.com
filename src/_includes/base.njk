@@ -40,6 +40,10 @@
 
 	<link rel="stylesheet" href="https://use.typekit.net/gqp7dus.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
+
+	{% if include_netlify_widget %}
+	  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	{% endif %}
 </head>
 <body>
 	{{ content | safe }}
