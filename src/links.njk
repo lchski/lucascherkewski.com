@@ -17,10 +17,10 @@ pagination:
       {{ link.templateContent | safe }}
       <p class="meta">
         <a href="{{ link.url }}">{{ link.date | date("h:mm a on MMMM D, YYYY") }}</a>
-        {% if link.data.source %}
-          {% set link_source = link.data.source + ")" %}
+        {%- if link.data.source -%}
+          {%- set link_source = link.data.source + ")" -%}
           ({{ link_source | markdownifyInline | safe }}
-        {% endif %}
+        {%- endif -%}
       </p>
     </li>
     {% endfor %}
