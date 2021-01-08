@@ -5,6 +5,10 @@ module.exports = function (eleventyConfig) {
         return collection.getFilteredByGlob('src/links/*.md');
     });
 
+    eleventyConfig.addCollection('pages', collection => {
+        return collection.getFilteredByGlob('src/content/pages/*.md');
+    });
+
     // via: https://github.com/11ty/eleventy/issues/717
     eleventyConfig.addNunjucksFilter("date", function(date, format) {
         return moment(date).format(format);
