@@ -46,5 +46,23 @@
 	{% endif %}
 </head>
 <body>
-	{{ content | safe }}
+	<main>
+		{{ content | safe }}
+	</main>
+
+	{% include 'footer.njk' %}
+
+	{% if include_netlify_widget %}
+	  <script>
+		if (window.netlifyIdentity) {
+		  window.netlifyIdentity.on("init", user => {
+			if (!user) {
+			  window.netlifyIdentity.on("login", () => {
+				document.location.href = "/admin/";
+			  });
+			}
+		  });
+		}
+	  </script>
+	{% endif %}
 </body>
