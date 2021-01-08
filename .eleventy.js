@@ -2,7 +2,7 @@ const moment = require("moment");
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection('links', collection => {
-        return collection.getFilteredByGlob('src/links/*.md');
+        return collection.getFilteredByGlob('src/content/links/*.md');
     });
 
     eleventyConfig.addCollection('pages', collection => {
