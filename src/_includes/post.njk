@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+<article class="post">
+
+	<header>
+		<h1>{{ title | markdownifyInline | trim | safe }}</h1>
+		{%- if subtitle -%}<p class="post__subtitle">{{ subtitle | markdownifyInline | trim | safe }}</p>{%- endif -%}
+
+		{%- if page.date -%}<p class="meta"><time datetime="{{ page.date }}">{{ page.date | date("D MMMM YYYY") }}</time></p>{%- endif -%}
+	</header>
+
+	<div class="measure lh-copy">
+		{{ content | safe }}
+	</div>
+
+</article>
