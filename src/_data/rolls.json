@@ -1,0 +1,207 @@
+[
+    {
+        "type": "blog",
+        "label": "Mandy Brown",
+        "url": "http://aworkinglibrary.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Frank Chimero",
+        "url": "https://frankchimero.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Anil Dash",
+        "url": "https://anildash.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Ethan Marcotte",
+        "url": "https://ethanmarcotte.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Erika Hall",
+        "url": "https://medium.com/@mulegirl"
+    },
+    {
+        "type": "blog",
+        "label": "Jeremy Keith",
+        "url": "https://adactio.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Dan Mall",
+        "url": "http://danmall.me/"
+    },
+    {
+        "type": "blog",
+        "label": "Liz Danzico",
+        "url": "http://bobulate.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Maria Popova",
+        "url": "https://www.brainpickings.org/"
+    },
+    {
+        "type": "blog",
+        "label": "Austin Kleon",
+        "url": "https://austinkleon.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Dave Rupert",
+        "url": "https://daverupert.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Sarah Drasner",
+        "url": "https://sarahdrasnerdesign.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Sara Soueidan",
+        "url": "https://www.sarasoueidan.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Rachel Andrew",
+        "url": "https://rachelandrew.co.uk/"
+    },
+    {
+        "type": "blog",
+        "label": "Khoi Vinh",
+        "url": "https://www.subtraction.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Jason Kottke",
+        "url": "https://kottke.org/"
+    },
+    {
+        "type": "blog",
+        "label": "Tina Essmaker",
+        "url": "https://medium.com/@tinaessmaker"
+    },
+    {
+        "type": "blog",
+        "label": "Jessica Hische",
+        "url": "http://jessicahische.is/"
+    },
+    {
+        "type": "blog",
+        "label": "Mark Boulton",
+        "url": "https://markboulton.co.uk/"
+    },
+    {
+        "type": "blog",
+        "label": "Philippe Lagassé",
+        "url": "https://lagassep.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Sameer Vasta",
+        "url": "https://www.inthemargins.ca/"
+    },
+    {
+        "type": "newsletter",
+        "label": "6 (Charlie Loyd)",
+        "url": "https://tinyletter.com/vruba/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Austin Kleon",
+        "url": "https://austinkleon.com/newsletter/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Friday Letters (Melissa Gira Grant)",
+        "url": "https://melissagira.substack.com/"
+    },
+    {
+        "type": "newsletter",
+        "label": "The Newsletter™ (Jamelle Bouie)",
+        "url": "https://thenewsletter.substack.com/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Sunday (Jack Cheng)",
+        "url": "https://jackcheng.com/sunday/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Weekend Reading (Sameer Vasta)",
+        "url": "https://tinyletter.com/vasta"
+    },
+    {
+        "type": "newsletter",
+        "label": "University of Winds (Mita Williams)",
+        "url": "https://tinyletter.com/UniversityofWinds"
+    },
+    {
+        "type": "newsletter",
+        "label": "Notes from a Small Press (Anne Trubek)",
+        "url": "https://tinyletter.com/annetrubek"
+    },
+    {
+        "type": "newsletter",
+        "label": "this deserves your attention (Leisa Reichelt)",
+        "url": "https://tinyletter.com/leisa"
+    },
+    {
+        "type": "newsletter",
+        "label": "Things That Have Caught My Attention (Dan Hon)",
+        "url": "https://tinyletter.com/danhon"
+    },
+    {
+        "type": "newsletter",
+        "label": "Noticing (Tim Carmody/Jason Kottke)",
+        "url": "https://kottke.org/newsletter/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Public Digital",
+        "url": "https://public.digital/newsletter/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Code for Canada",
+        "url": "https://us6.campaign-archive.com/home/?u=1446581f8674f47a26b615a46&id=1d6bfa1e3c"
+    },
+    {
+        "type": "newsletter",
+        "label": "History of the Web (Jay Hoffmann)",
+        "url": "https://thehistoryoftheweb.com/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Sunday Dispatches (Paul Jarvis)",
+        "url": "https://pjrvs.com/signup/"
+    },
+    {
+        "type": "newsletter",
+        "label": "Canadian Digital Service",
+        "url": "https://digital.canada.ca/contact/#mailing-list"
+    },
+    {
+        "type": "newsletter",
+        "label": "You Otta Know (CBC)",
+        "url": "https://subscriptions.cbc.ca/forms/ottawanewsletter"
+    },
+    {
+        "type": "blog",
+        "label": "Cal Newport",
+        "url": "http://calnewport.com/"
+    },
+    {
+        "type": "blog",
+        "label": "Andy Baio",
+        "url": "https://waxy.org/"
+    },
+    {
+        "type": "blog",
+        "label": "Simon Collison",
+        "url": "https://colly.com/"
+    }
+]

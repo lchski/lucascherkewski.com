@@ -1,5 +1,5 @@
 ---
-layout: study--post
+layout: page
 title: Rolls
 subtitle: Recommended blogs and newsletters
 ---
@@ -10,9 +10,7 @@ subtitle: Recommended blogs and newsletters
 </p>
 
 <ul>
-	{% assign blogroll = site.data.rolls | where: "type", "blog" | sample: 1000 %}
-
-	{% for blog in blogroll %}
+	{% for blog in rolls | filterObjs("type", "blog") | shuffle %}
 		<li>
 			<a href="{{ blog.url }}">{{ blog.label }}</a>
 		</li>
@@ -24,9 +22,7 @@ subtitle: Recommended blogs and newsletters
 </p>
 
 <ul>
-	{% assign newsletterroll = site.data.rolls | where: "type", "newsletter" | sample: 1000 %}
-
-	{% for newsletter in newsletterroll %}
+	{% for newsletter in rolls | filterObjs("type", "newsletter") | shuffle %}
 		<li>
 			<a href="{{ newsletter.url }}">{{ newsletter.label }}</a>
 		</li>

@@ -25,6 +25,14 @@ module.exports = function (eleventyConfig) {
         return md.render(markdownString).replace('<p>', '').replace('</p>', '');
     });
 
+    eleventyConfig.addNunjucksFilter("filterObjs", function(objectsToFilter, key, value) {
+        return objectsToFilter.filter(object => object[key] == value);
+    });
+
+    eleventyConfig.addNunjucksFilter("shuffle", function(arrayToSort) {
+        return arrayToSort.sort(function() { return 0.5 - Math.random() });
+    });
+
     return {
         dir: {
             input: "./src",
