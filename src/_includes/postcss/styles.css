@@ -6,8 +6,9 @@
 @import '_misc.css';
 
 /* https://coolors.co/202c39-283845-b8b08d-f2d492-f29559 */
+/* or? https://coolors.co/1d1e18-6b8f71-aad2ba-d9fff5-b9f5d8 */
 body {
-    background: #202C39;
+    /* background: #202C39; */
 
     margin: 0;
 }
