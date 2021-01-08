@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-bundle exec jekyll serve --drafts --incremental
+DEBUG=Eleventy* npx @11ty/eleventy --serve
