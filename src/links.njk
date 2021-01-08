@@ -8,38 +8,41 @@ pagination:
   alias: links
 ---
 
-<ul>
-  {% for link in links %}
-  <li>
-    <h2><a href="{{ link.data.link }}">{{ link.data.link_title | markdownifyInline | safe }}</a></h2>
-    {{ link.templateContent | safe }}
-    <p class="meta">
-      <a href="{{ link.url }}">{{ link.date | date("h:mm a on MMMM D, YYYY") }}</a>
-      {% if link.data.source %}
-        {% set link_source = link.data.source + ")" %}
-        ({{ link_source | markdownifyInline | safe }}
+<section class="main-container main-container--links">
+  <h1 class="title-container">Links</h1>
+  <ul class="text-container">
+    {% for link in links %}
+    <li>
+      <h2><a href="{{ link.data.link }}">{{ link.data.link_title | markdownifyInline | safe }}</a></h2>
+      {{ link.templateContent | safe }}
+      <p class="meta">
+        <a href="{{ link.url }}">{{ link.date | date("h:mm a on MMMM D, YYYY") }}</a>
+        {% if link.data.source %}
+          {% set link_source = link.data.source + ")" %}
+          ({{ link_source | markdownifyInline | safe }}
+        {% endif %}
+      </p>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <nav aria-labelledby="links-pagination">
+    <h2 id="links-pagination">Browse all links</h2>
+    <p>
+      {% if page.url != pagination.href.first %}
+        <a href="{{ pagination.href.first }}">Return to the latest.</a>
+      {% else %}
+        These are the latest.
+      {% endif %}
+      {% if page.url != pagination.href.last %}
+        <a href="{{ pagination.href.last }}">Explore the oldest.</a>
+      {% else %}
+        These are the oldest.
       {% endif %}
     </p>
-  </li>
-  {% endfor %}
-</ul>
-
-<nav aria-labelledby="links-pagination">
-  <h2 id="links-pagination">Browse all links</h2>
-  <p>
-    {% if page.url != pagination.href.first %}
-      <a href="{{ pagination.href.first }}">Return to the latest.</a>
-    {% else %}
-      These are the latest.
-    {% endif %}
-    {% if page.url != pagination.href.last %}
-      <a href="{{ pagination.href.last }}">Explore the oldest.</a>
-    {% else %}
-      These are the oldest.
-    {% endif %}
-  </p>
-  <ol>
-    {% if pagination.href.next %}<li><a href="{{ pagination.href.next }}">Older</a></li>{% endif %}
-    {% if pagination.href.previous %}<li><a href="{{ pagination.href.previous }}">Newer</a></li>{% endif %}
-  </ol>
-</nav>
+    <ol>
+      {% if pagination.href.next %}<li><a href="{{ pagination.href.next }}">Older</a></li>{% endif %}
+      {% if pagination.href.previous %}<li><a href="{{ pagination.href.previous }}">Newer</a></li>{% endif %}
+    </ol>
+  </nav>
+</section>

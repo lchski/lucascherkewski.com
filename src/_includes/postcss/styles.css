@@ -1,3 +1,27 @@
+@import '_vars';
+@import '_typography.css';
+
+/* https://coolors.co/202c39-283845-b8b08d-f2d492-f29559 */
 body {
-    font-family: 'Exchange Book';
+    background: #202C39;
+
+    margin: 0;
+}
+
+.text-container {
+    background: var(--c-near-white);
+}
+
+.main-container {
+    max-width: 45em;
+}
+
+.main-container--links {
+    h2 {
+        font-family: var(--ff-sans);
+    }
+
+    .meta {
+        font-family: var(--ff-sans);
+    }
 }

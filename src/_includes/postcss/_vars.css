@@ -1,0 +1,36 @@
+:root {
+	--ff-sans: pt-sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--ff-serif: exchange, helvetica, Georgia, serif;
+
+	--fz-1: 3rem;
+	--fz-2: 2.25rem;
+	--fz-3: 1.5rem;
+	--fz-4: 1.25rem;
+	--fz-5: 1rem;
+	--fz-6: .875rem;
+	--fz-7: .75rem;
+
+	--spacing-neg-extra-small: -0.25rem;
+	--spacing-neg-small: -0.5rem;
+	--spacing-neg-medium: -1rem;
+	--spacing-neg-large: -2rem;
+	--spacing-neg-extra-large: -4rem;
+	--spacing-neg-extra-extra-large: -8rem;
+	--spacing-neg-extra-extra-extra-large: -16rem;
+
+	--spacing-none: 0;
+	--spacing-extra-small: .25rem;
+	--spacing-small: .5rem;
+	--spacing-medium: 1rem;
+	--spacing-large: 2rem;
+	--spacing-extra-large: 4rem;
+	--spacing-extra-extra-large: 8rem;
+	--spacing-extra-extra-extra-large: 16rem;
+
+	--c-black: #000000;
+	--c-white: #ffffff;
+	--c-near-white: #f4f4f4;
+	--c-gold: 255, 183, 0;
+	--c-purple: 94, 44, 165;
+	--c-dark-purple: 53, 25, 93;
+}
