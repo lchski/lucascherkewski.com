@@ -1,7 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
-assets
+/assets
 dist
 
 # Numerous always-ignore extensions
