@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'This week in anti-democracy…'
+number: '175'
+date: '2021-01-10 13:25:00'
+published: true
+---
+
 A sunny walk, Motown ([from Ikechúkwú Onyewuenyi’s “chez baldwin” playlist](https://hyperallergic.com/606491/listening-to-the-joy-in-james-baldwins-record-collection/)), and quiet kitchen puttering—I’m settling into winter routines.
 
 But this week was hardly routine.
