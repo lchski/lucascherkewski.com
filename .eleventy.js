@@ -5,6 +5,10 @@ module.exports = function (eleventyConfig) {
         return collection.getFilteredByGlob('src/content/links/*.md');
     });
 
+    eleventyConfig.addCollection('posts', collection => {
+        return collection.getFilteredByGlob('src/content/posts/*.md');
+    });
+
     eleventyConfig.addCollection('pages', collection => {
         return collection.getFilteredByGlob('src/content/pages/*.md');
     });
