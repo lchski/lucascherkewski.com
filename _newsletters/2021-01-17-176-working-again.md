@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Working (again)'
+number: '176'
+date: '2021-01-17 14:10:00'
+published: true
+---
+
 When I first started at the Canadian Digital Service (in May 2018!!), I (unintentionally) wrote a mini-series on working.
 
 - [\#35: Working](https://lucascherkewski.com/hit-and-miss/35-working/)
