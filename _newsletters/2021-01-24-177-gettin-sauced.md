@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Gettin’ sauced'
+number: '177'
+date: '2021-01-24 12:50:00'
+published: true
+---
+
 Goooood day! I’m bright-eyed and bushy-tailed this morning—thanks no doubt to the glorious sunshine and crisp, cold air. I hope you’re similarly energized, or in as good a mood as you can muster.
 
 I’ve written previously about [the significance of food in social gatherings, including my standing offer to bring a pasta party to get-togethers](https://lucascherkewski.com/hit-and-miss/34-portable-pasta-party-kit/). Such things aren’t quite as possible these days, but that’s okay—we find new ways! (And once it’s possible again, you _know_ I’ll be up for portable pasta parties galore.)
