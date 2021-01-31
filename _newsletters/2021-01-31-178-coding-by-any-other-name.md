@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Coding by any other name'
+number: '178'
+date: '2021-01-31 12:00:00'
+published: true
+---
+
 Hello!
 
 It’s a wonderfully sunny day here—sunshine, cheer for the heart and soul.
