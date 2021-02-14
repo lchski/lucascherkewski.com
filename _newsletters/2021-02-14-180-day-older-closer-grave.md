@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Another day older, closer to the grave'
+number: '180'
+date: '2021-02-14 15:20:00'
+published: true
+---
+
 It was a lovely week here in Ottawa—sunny, not too cold, ideal for long rambles. My adventures brought me to Hog’s Back Falls and the skateable extent of the Canal, McKay Lake and the eastern portion of the Ottawa River pathway, and always, always, back to the Rideau River, so often the backbone of my travels in this underrated city.
 
 I relished the chance to walk on my own, the trails mostly empty. Don’t get me wrong, I’m happy to socialize with people, and have a pretty full calendar—but sometimes you need  some solitary wandering, nourishing the soul. (Birds gave me good company. The cold drives many south, but those that remain are a real treat.)
