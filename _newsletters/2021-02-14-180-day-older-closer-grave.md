@@ -17,7 +17,7 @@ I also encountered some great links!
 	- [Hrisoula Gatzogiannis describes 90s _Star Trek_ fan websites, capturing also how search engines have upended our experience of the web.](https://ca.startrek.com/news/the-wonderful-world-of-star-trek-on-the-late-90s-web)
 - For your daily funny, [check out these Supreme Court of Canada valentines](https://twitter.com/KnottReelLLP/status/1361018605933051909). (Try to laugh every day!)
 - For your daily cute, I’ve enjoyed [Tui De Roy’s photos of penguins](http://penguinworld.net/our-team/photographers/tui-de-roy/). (For more, [open the “Penguins” section in this gallery](http://www.rovingtortoise.com/galleries.html#pu2685).)
-- For your daily cool, [learn more about how scientists are proactively developing and testing vaccines against coronaviruses that haven’t even infected humans yet](https://www.cbc.ca/news/technology/next-pandemic-vaccine-1.5908926).
+- For your daily cool, [learn how scientists are proactively developing and testing vaccines against coronaviruses that haven’t even infected humans yet](https://www.cbc.ca/news/technology/next-pandemic-vaccine-1.5908926). (Science—wow!)
 
 That’s it from me for today! I’m going to go sit in the sunny front room and idly draw letters. Let the brain wander, when you’re able—embrace boredom, or whatever comes. It’ll do more good than you realize.
 
