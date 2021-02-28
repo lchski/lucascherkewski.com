@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Keeping it light'
+number: '182'
+date: '2021-02-28 14:30:00'
+published: true
+---
+
 It was a morning of hoar frost and slowly clearing fog, a perfect scene setter for my riverside ramble. The birds are on their way back, slowly—the weeks ahead will yield wonders aplenty.
 
 They’re also certain to yield pandemiversaries aplenty. That’ll be interesting. Our outward lives amputated, our inward lives slowed, it sometimes feels like all that’s left is to dwell. But let’s set that aside for now.
