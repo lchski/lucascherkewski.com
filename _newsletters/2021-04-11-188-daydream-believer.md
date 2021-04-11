@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Daydream believer'
+number: '188'
+date: '2021-04-11 10:00:00'
+published: true
+---
+
 > Cheer up, sleepy Jean  
 > Oh, what can it mean  
 > To a daydream believer
