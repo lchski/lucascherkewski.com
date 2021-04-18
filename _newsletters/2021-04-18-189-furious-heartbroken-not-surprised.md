@@ -1,10 +1,18 @@
+---
+layout: study--newsletter
+title: 'Furious, heartbroken—but not surprised'
+number: '189'
+date: '2021-04-18 17:30:00'
+published: true
+---
+
 Hello!
 
 Well, it’s been quite a few days, hasn’t it? There’s been a lot of gloom. But today my family gathered on Zoom today to wish my Nonna happy birthday (twenty people across ten devices)—that was a highlight, for sure.
 
 Okay, now to the gloom, briefly—if only to note it for our future selves.
 
-Ontario legalized arbitrary police questioning and banned playgrounds (among other outdoor amenities). It [undid the policing changes](https://www.cbc.ca/news/canada/toronto/ontario-police-random-spot-checks-1.5991872) and [reopened playgrounds, while keeping most other outdoor recreation shut down](https://www.cbc.ca/news/canada/toronto/ontario-restrictions-what-you-can-what-you-cannot-do-1.5991941). It _didn’t_ do much to help workers in congregate work settings, and, [despite its claims that it’s expanding ICU capacity, it likely won’t have the people to adequately staff those beds](https://www.cbc.ca/player/play/1884162627753). (On those last fronts: it’s never too late to phone or write in favour of protections for the most vulnerable, most essential.)
+Ontario legalized arbitrary police questioning and banned playgrounds (among other outdoor amenities), interventions with little-to-no effect on [COVID’s out-of-control spread in the province](https://www.cbc.ca/news/canada/toronto/ontario-pandemic-projections-1.5990969). It [undid the policing changes](https://www.cbc.ca/news/canada/toronto/ontario-police-random-spot-checks-1.5991872) and [reopened playgrounds, while keeping most other outdoor recreation shut down](https://www.cbc.ca/news/canada/toronto/ontario-restrictions-what-you-can-what-you-cannot-do-1.5991941). It _didn’t_ do much to help workers in congregate work settings, and, [despite its claims that it’s expanding ICU capacity, it likely won’t have the people to adequately staff those beds](https://www.cbc.ca/player/play/1884162627753). (On those last fronts: it’s never too late to phone or write in favour of protections for the most vulnerable, most essential.)
 
 I’ll save you my COVID anxiety spiral, on ICUs, car crashes, overtaxed contact tracing systems, and so on. Friday, after _waves hands at the above_, I took [a woozy walk](https://frankchimero.com/blog/2013/woozy-walk/) with [José González’s cover of “This Is How We Walk On The Moon”](https://www.youtube.com/watch?v=rByhODV9M2w). It helped, as such walks often do.
 
