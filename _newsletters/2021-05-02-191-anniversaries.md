@@ -7,3 +7,9 @@
 	- and so he simply didn't.
 	- good services meet people where they are, accounting for the barriers they face and giving them the confidence to access the service that gets them on their way
 	- grateful to be able to continue trying to realize that vision through my work at CDS
+
+
+
+cool Ottawa history stuff (for this week or next)
+- on electrifying the capital (and other significant events): https://www.facebook.com/HistoricalSocietyOttawa/posts/1740788939461893 linking to https://todayinottawashistory.wordpress.com/2015/01/31/its-electrifying/ and https://ottawacitizen.com/news/local-news/capital-builders-thomas-ahearn-and-warren-soper-the-edisons-of-canada
+- on caves and tunnels beneath Ottawa: https://www.youtube.com/watch?v=p9OvA18ysuk
