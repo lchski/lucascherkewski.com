@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Anniversaries'
+number: '191'
+date: '2021-05-02 13:45:00'
+published: true
+---
+
 Hello! I hope you’ve enjoyed [a proper weekend](https://austinkleon.com/2021/04/19/i-am-no-longer-weakened-by-the-weekend/).
 
 It’s a week of anniversaries for me.
@@ -30,7 +38,11 @@ I miss _S_—his newspaper clippings, his keen eye and oddball questions, his aw
 
 ---
 
-On a lighter note, in the vein of sharing fun clippings, as _S_ used to, it’s [the anniversary of Ottawa’s first electric street lights](https://www.facebook.com/HistoricalSocietyOttawa/posts/1740788939461893). If you’d rather avoid Facebook, that write-up includes two more links: [one on electrifying Ottawa](https://todayinottawashistory.wordpress.com/2015/01/31/its-electrifying/) and [another profiling some of the people involved](https://ottawacitizen.com/news/local-news/capital-builders-thomas-ahearn-and-warren-soper-the-edisons-of-canada). While clicking around, I ended up watching [an Historical Society of Ottawa session by Andrew King, on the caves and tunnels beneath Ottawa](https://www.youtube.com/watch?v=p9OvA18ysuk). History—such fun!
+On a lighter note, in the vein of sharing fun clippings, as _S_ used to, it’s [the anniversary of Ottawa’s first electric street lights](https://www.facebook.com/HistoricalSocietyOttawa/posts/1740788939461893).
+
+If you’d rather avoid Facebook, that write-up includes two more links: [one on electrifying Ottawa](https://todayinottawashistory.wordpress.com/2015/01/31/its-electrifying/) and [another profiling some of the people involved](https://ottawacitizen.com/news/local-news/capital-builders-thomas-ahearn-and-warren-soper-the-edisons-of-canada).
+
+While clicking around, I ended up watching [an Historical Society of Ottawa session by Andrew King, on the caves and tunnels beneath Ottawa](https://www.youtube.com/watch?v=p9OvA18ysuk). History—such fun!
 
 ---
 
