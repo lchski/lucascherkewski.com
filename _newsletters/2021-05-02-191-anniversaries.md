@@ -38,6 +38,8 @@ On a lighter note, in the vein of sharing fun clippings, as _S_ used to, it’s 
 
 ---
 
+One more link before we go (I’m glad I broke for lunch between drafting and sending this issue, so I could see this piece in the meantime): [Vass Bednar dissects the appalling situation in which a volunteer-run Twitter account is becoming an official outlet for vaccine availabilities](https://www.regs2riches.com/p/-vaccine-hunting). UGH. (Bednar includes a link to [Dan Hon’s critique of a similar situation in the US](https://twitter.com/hondanhon/status/1359587806159405057)—both well worth reading.)
+
 With that, I’m off to walk and read. All the best for the week ahead!
 
 Lucas
