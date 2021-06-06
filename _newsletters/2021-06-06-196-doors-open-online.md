@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Doors Open (online)'
+number: '196'
+date: '2021-06-06 13:20:00'
+published: true
+---
+
 Hi there!
 
 This weekend is normally one of my favourites in Ottawa: Doors Open, when numerous interesting organizations, big and small, open their doors to provide public access to rarely seen spaces.
