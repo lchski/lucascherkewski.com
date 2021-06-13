@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Responding to violence'
+number: '197'
+date: '2021-06-13 15:10:00'
+published: true
+---
+
 Hello! I hope this finds you well. It’s warm in Ottawa, but compared to the heat we had earlier this week, it’s rather nice.
 
 It’s sometimes difficult to know how to approach sensitive, heavy topics with this newsletter. But, seeing as this space is largely one of “what’s on my mind”, I can’t fairly bypass these things when they happen.
