@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Cooking, staying hungry'
+number: '198'
+date: '2021-06-20 13:15:00'
+published: true
+---
+
 Hello!
 
 I’m writing this from the kitchen, a comfortable, cheery spot.
@@ -25,9 +33,9 @@ Why effort matters, in a nutshell.
 While wonderful to be nourished in body and soul, it’s also good to stay intellectually hungry. Here are some things I read in the last few weeks:
 
 - [A little over a year ago, Marie Foulston hosted a spreadsheet party.](https://onezero.medium.com/party-in-a-shared-google-doc-d576c565706e)
-- For the parliamentary nerds, [Philippe Lagassé walks us through the recent kerfuffle over the National Security and Intelligence Committee of Parliamentarians](https://lagassep.com/2021/06/17/nsicop-and-the-reality-of-a-minority-parliament/), and how its apparent sidestepping reflects Parliament working somewhat as expected.
+- For the parliamentary nerds, [Philippe Lagassé walks us through the recent kerfuffle over the National Security and Intelligence Committee of Parliamentarians](https://lagassep.com/2021/06/17/nsicop-and-the-reality-of-a-minority-parliament/), and how its apparent sidestepping reflects Parliament working largely as expected.
 - [Armine Yalnizyan unpacks the recent Cornwall Consensus, a set of policy proposals for a refined economic order.](https://futureofworkers.substack.com/p/the-audacity-of-consensus)
-- [Lara Hogan has a feedback equation, a way to structure your feedback so it’s easy to give and likely to be well received.](https://larahogan.me/blog/feedback-equation/) I encountered this [via Erin Casali, who describes giving feedback in asynchronous contexts](https://alistapart.com/article/async-design-critique-giving-feedback/).
+- [Lara Hogan has a feedback equation, a way to structure your feedback so it’s easy to give and likely to be well received.](https://larahogan.me/blog/feedback-equation/) I encountered this [via Erin Casali, who describes giving feedback in asynchronous contexts](https://alistapart.com/article/async-design-critique-giving-feedback/). Incredibly useful, in the spirit of supportive learning.
 
 Anyhow, I’m off to the stove, to cook up something or other. All the best for the week ahead!
 
