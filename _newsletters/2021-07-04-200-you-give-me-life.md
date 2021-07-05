@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: '“You give me life”'
+number: '200'
+date: '2021-07-04 10:25:00'
+published: true
+---
+
 Good evening!
 
 Somehow, I’ve been writing this newsletter for 200 weeks in a row. [Half the archive ago, I wrote about my principles for living.](https://lucascherkewski.com/hit-and-miss/100-living-principles/) Happily, they hold up.
