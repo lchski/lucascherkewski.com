@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Summer dreaming'
+number: '201'
+date: '2021-07-11 21:10:00'
+published: true
+---
+
 Hello, and a happy Sunday to you! My week was filled with family time, which has been wonderful.
 
 Such time reminded me of the quiet reassurance that comes from physical presence—though we’ve muddled through these sixteen months of video calls admirably, there’s no denying the special magic of being _close_ to people, especially if those relationships developed in a physical setting. Visiting doesn’t require much talking; indeed, [silence itself can be affirming](https://lucascherkewski.com/hit-and-miss/82-making-time-music-silence/). Here’s to more of that in times ahead.
