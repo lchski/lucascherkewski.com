@@ -18,3 +18,5 @@ I _do_ take issue with the choice of the phrase “democratic event”. Writing 
 Anyhow, that’s it from me for today—it’s time again to tend to my stock. All the best for the week ahead!
 
 Lucas
+
+P.S. Did you notice that we made it through with only one “writ” pun? So proud of myself.
