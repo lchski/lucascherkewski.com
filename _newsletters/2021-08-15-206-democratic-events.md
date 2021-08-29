@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Democratic event(s)'
+number: '206'
+date: '2021-08-15 16:00:00'
+published: true
+---
+
 Hello!
 
 I’m writing you from my kitchen, where I’m nursing a temperamental batch of stock. (Only one boil over, we’re in good shape.)

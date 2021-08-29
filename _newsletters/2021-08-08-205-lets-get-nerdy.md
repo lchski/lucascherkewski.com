@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Let’s get nerdy'
+number: '205'
+date: '2021-08-08 16:20:00'
+published: true
+---
+
 Good afternoon! 
 
 How are you? I hope this finds you as well as can be.

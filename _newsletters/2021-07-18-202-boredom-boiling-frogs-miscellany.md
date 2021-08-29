@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Boredom, boiling frogs, and miscellany'
+number: '202'
+date: '2021-07-18 17:45:00'
+published: true
+---
+
 Boredom. A mind searching for things to think about, for things to do. Webster’s 1913 edition characterizes it as weariness “by tedious iteration or by dullness”. ([Why check Webster’s 1913 edition?](https://jsomers.net/blog/dictionary))
 
 It’s a state of mind that’s evaded me for a while. There’s always been something to think about, particularly as I engaged in a protracted move. Today, I said goodbye to my housemate of four years—including sixteen of the strangest months in our lives, months in which who you lived with mattered… a lot. We were good friends, made moreso by the pandemic, and I’m glad for all those years living together.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'August free fall'
+number: '207'
+date: '2021-08-22 16:50:00'
+published: true
+---
+
 It’s the part of the season when I start liking summer. (Joni Mitchell’s “Big Yellow Taxi”, on not knowing what you’ve got ’til it’s gone, comes to mind.) The temperatures are nice(r—soon, hopefully), and I’m enjoying the effortlessness of going outside (heat aside).
 
 We’re also in the August free fall: the sunset timing has hit that part of its parabola where they occur earlier and earlier; tonight, in Ottawa, the sun sets before 8pm, and in just a month’s time it’ll set before 7pm. Summer seems to slip from our grasp, but we’ll make what of it we can.
