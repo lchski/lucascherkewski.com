@@ -1,0 +1,20 @@
+- declassifying centre / policy
+	- [notion of a declassification centre for national security files](https://www.theglobeandmail.com/politics/article-ottawa-eyes-creation-of-centre-to-declassify-historical-documents/)
+		- [Canada Declassified](https://declassified.library.utoronto.ca/) as an interesting example (though not government-run), via the October Crisis article
+	- [G&M opinion piece on ATIA review](https://www.theglobeandmail.com/opinion/article-canada-has-an-access-to-information-system-in-name-only/)
+		- > There needs to be a declassification regime for all government records. Other governments declassify documents after 30 years or less: Canadians are lucky if these files are ever released. Library and Archives Canada, in particular, should play a role in receiving such records and educating Canadians on their importance.
+		- > Once processed and released to an individual requester, the information in question should be made publicly available on a consolidated and searchable government database, including both the metadata about the record and the record itself. We should do away with the wasteful cycle of returning records back into the hands of departmental gatekeepers after every request is fulfilled.
+	- [historical research example re October Crisis](https://www.theglobeandmail.com/opinion/article-october-surprise-lack-of-access-to-historic-documents-leaves/)
+		- > Ironically, scholars seeking Canadian historical documents in 1970 were far better served in researching events 50 or even 30 years earlier than they are today.
+		- > There is a way forward. In 1979, Craig Brown, the president of the Canadian Historical Association, warned that the creation of the Access to Information Act meant the end of automatic declassification of all government records, subject to national security and privacy concerns, after 30 years. While journalists and scholars welcomed the right to access more recent documents, it came at a high price, financially and historically, because each document had to be scrutinized by what became a growing army of assessors. Astonishingly, more records were disclosed between 1967 and 1983, when the Act took effect, than in the 37 years following.
+- history ATIA
+	- Archivaria retrospectives
+	- others?
+- ATIA review
+	- process closed, ish
+	- CAJ submission https://www.cjfe.org/access-information
+	- but, if legislative reform...
+- petitioning MPs (and Senators)
+	- form letter of sorts
+	- ridings near departments of history (aka ridings near universities)
+	- what could an amendment look like?
