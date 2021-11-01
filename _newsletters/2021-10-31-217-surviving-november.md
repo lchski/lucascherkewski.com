@@ -23,6 +23,7 @@ One of the main enablers is to be _decisive_. Rather than fretting over what to 
 - Pick up an old data project
 - Read children’s literature
 - Call your grandparents—spend time with the long view
+- Turn to your [list of therapeutic things](https://lucascherkewski.com/study/therapeutic-things/)
 - For almost any of these—invite friends to join in!
 
 And, [for many more ideas, Caitlyn Greffly asked for what to “do in the evening after work that doesn’t involve screens”](https://twitter.com/thecaitcode/status/1451353379133820928).
