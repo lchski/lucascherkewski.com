@@ -9,9 +9,14 @@ One of the main enablers is to be _decisive_. Rather than whiling away time fret
 - Go to a local dog park at the end of the workday
 - Enjoy a warm drink in a sunlit park
 - Watch _Gilmore Girls_ and work through the sudoku pile
-- Indulge in a midweek movie night (maybe choose one of the feel-good movies from your pandemic movie weekends list)
+- Indulge in a midweek movie night (maybe [choose one of the feel-good movies from your pandemic movie weekends list](https://lucascherkewski.com/study/pandemic-movie-weekends/))
 - Watch an opera
 - Pick up an old data project
 - Read children’s literature
+- Call your grandparents—spend time with the long view
 
 And, [for many more ideas, Caitlyn Greffly asked for what to “do in the evening after work that doesn’t involve screens”](https://twitter.com/thecaitcode/status/1451353379133820928).
+
+How do you get through November? Or do you love it? (If so, please tell me why!) Here’s to a hopefully all-good month :) All the best for the week ahead!
+
+Lucas
