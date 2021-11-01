@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Paths (not) taken'
+number: '211'
+date: '2021-09-19 15:00:00'
+published: true
+---
+
 Hello!
 
 It’s a wonderfully sunny Sunday here in Ottawa. The political folks are out on the hustings across the country (don’t forget to [vote tomorrow, if you haven’t already](https://elections.ca/content2.aspx?section=vote&document=index&lang=e)!), my pal [Sean Boots is blogging](https://sboots.ca/2021/09/18/suggestions-for-the-next-minister-of-digital-government/), and [the LRT has derailed again](https://twitter.com/jchianello/status/1439638018365825032)—in other words, a pretty normal September Sunday.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Leaves pass to soil'
+number: '215'
+date: '2021-10-17 15:00:00'
+published: true
+---
+
 Good afternoon!
 
 Isn’t fall grand? Fiery trees give way to a satisfying crunch underfoot, ultimately yielding the musty smell of decaying leaves. Leaves pass to soil, death serves as nourishment for future life, and we head into another season of quiet preparation. Gardening crews are clearing beds and planting tulip bulbs, giving them time to overwinter before bursting forth in spring. It’s a handy metaphor for how we might spend those months to come—winter as a time to grow roots, to prepare for future bursting forth.

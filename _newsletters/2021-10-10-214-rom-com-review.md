@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'A brief rom-com review'
+number: '214'
+date: '2021-10-10 15:15:00'
+published: true
+---
+
 Good afternoon!
 
 Last night, I started watching [_Beverly Hills Cop_](https://letterboxd.com/film/beverly-hills-cop/), thinking I’d do a few sudokus while tuning in and out of the action. A few minutes in, I realized I wanted something that appealed more to my emotional side, and switched to watching [_Sleeping With Other People_](https://letterboxd.com/film/sleeping-with-other-people/) after the first action scene, while Eddie Murphy’s character is holding on in the back of a veering cigarette truck. Imagine my surprise when Jason Sudeikis’s character in _Sleeping With Other People_ later references _that exact scene_ toward the end of the movie! I love serendipitous moments like that.

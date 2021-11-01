@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Truer histories'
+number: '213'
+date: '2021-10-03 12:45:00'
+published: true
+---
+
 Hello!
 
 Somehow today’s starting off even more drizzly and grey than yesterday—[we (I, and hopefully you)](https://lucascherkewski.com/hit-and-miss/78-i-you-we/) fought off the gloom by baking biscuits and bopping to good tunes.

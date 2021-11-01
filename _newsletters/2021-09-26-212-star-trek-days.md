@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Star Trek days'
+number: '212'
+date: '2021-09-26 14:30:00'
+published: true
+---
+
 Hello!
 
 A friend’s visiting this weekend—it’s been a lovely change from routine. We bonded long ago over a shared love for Star Trek, so the weekend’s been filled with favourite movies and episodes, plus conversations punctuated by consulting my various reference books.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Registering intent'
+number: '216'
+date: '2021-10-24 10:45:00'
+published: true
+---
+
 Good morning! It’s sunny and my heart’s full.
 
 Even before physical distancing, I tried to give space while out and about. I walk at a brisk pace, which can be unnerving if I come up suddenly behind someone, trying to find space to pass on narrow sidewalks. This extends, too, to not wanting to be a threatening presence while walking—to try to change my route if I seem to be following the same route as someone else. So, I usually cross the street often, to get out of people’s way (both reactively and proactively).
