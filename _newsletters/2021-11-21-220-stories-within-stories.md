@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Stories within stories'
+number: '220'
+date: '2021-11-21 17:30:00'
+published: true
+---
+
 _(non-disaster links at the end of the email!)_
 
 If you’re in Canada, there’s a good chance you heard of the terrible rains, floods, and mudslides that came down on British Columbia late last week. Following this story was no small part of my week—disaster remains, as ever, a compelling sight, something from which you can’t look away. Disasters can also offer us many lessons. They show us humanity at is best, while we feel at our worst.
