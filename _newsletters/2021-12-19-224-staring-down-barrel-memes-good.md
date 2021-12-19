@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Staring down the barrel, at least the memes are good'
+number: '224'
+date: '2021-12-19 18:00:00'
+published: true
+---
+
 _This issue is just COVID. There’s a gallows humour quote at the end, if that’s your jam; if you’d rather keep your mind on other things, sit this one out and wait til next week’s, when I’ll do my traditional yearly reading roundup. Normally it comes the weekend before Christmas, but this week’s issue can’t wait._
 
 Fiddlesticks, eh?
