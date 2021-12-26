@@ -1,8 +1,16 @@
+---
+layout: study--newsletter
+title: 'A few books feed us well'
+number: '225'
+date: '2021-12-26 14:00:00'
+published: true
+---
+
 Good morning! Today’s the last Sunday of the year. It’s been a head-turning few weeks, capping off months full of ups and downs. I’m trying to take what little comforts I can, though even time off doesn’t feel so relaxing these days. Alas.
 
-The past few years, I’ve used the pre-Christmas newsletter to share a few books from the previous year of reading (see the [2020](https://lucascherkewski.com/hit-and-miss/172-five-books-for-the-year/), [2019](https://lucascherkewski.com/hit-and-miss/120-years-books/), [2018](https://lucascherkewski.com/hit-and-miss/68-reading-writing-healing/), or [2017](https://lucascherkewski.com/hit-and-miss/16-three-welcome-books/) editions). [Last week, I wrote about this damn virus](https://lucascherkewski.com/hit-and-miss/224-staring-down-barrel-memes-good/), so this week we’ll pick up the tradition, if slightly altered in its timing—fitting, I think, during a holiday season when so many are adjusting traditions to suit the times.
+I’ve always used the pre-Christmas newsletter to share a few books from the previous year of reading (see the [2020](https://lucascherkewski.com/hit-and-miss/172-five-books-for-the-year/), [2019](https://lucascherkewski.com/hit-and-miss/120-years-books/), [2018](https://lucascherkewski.com/hit-and-miss/68-reading-writing-healing/), or [2017](https://lucascherkewski.com/hit-and-miss/16-three-welcome-books/) editions). [Last week, I wrote about this damn virus](https://lucascherkewski.com/hit-and-miss/224-staring-down-barrel-memes-good/), so this week we’ll pick up the tradition, if slightly altered in its timing—fitting, I think, during a holiday season when so many are adjusting traditions to suit the times.
 
-I read few books this year. I’m not sure why—other things were going on, I suppose, though not particularly moreso than in years past. Of [the ten books I shelved as “read” on Goodreads this year](https://www.goodreads.com/user/year_in_books/2021/27072166), eight were from a book club with friends (which confirms the power of accountability to others for getting things done). I’ll also include a few books I haven’t “read” fully, but have turned to this year. As always, in chronological(ish) order, since it’s the least offensive arbitrary hierarchy:
+I read few books this year. I’m not sure why—other things were going on, I suppose, though not particularly moreso than in years past. Of [the ten books I shelved as “read” on Goodreads this year](https://www.goodreads.com/user/year_in_books/2021/27072166), eight were from a book club with friends (which confirms the power of accountability to others for getting things done). I’ll also include a few books I haven’t “read” fully, but have turned to for comfort this year. As always, in chronological(ish) order, since it’s the arbitrary hierarchy that offends me least:
 
 1. [_Parable of the Sower_](https://www.goodreads.com/book/show/41161349-parable-of-the-sower) and [_Parable of the Talents_](https://www.goodreads.com/book/show/41161350-parable-of-the-talents) by Octavia Butler. These are in no way _cheery_ books—Butler’s depiction of the United States in the now near future (mid-2020s) hits close to home. But they offer a framework of sorts, for thinking through difficult times. (Indeed, [adrienne maree brown uses Butler’s work for just that](https://www.goodreads.com/book/show/29633913-emergent-strategy).) And Butler’s writing draws you right in.
 2. [_The Hundred Thousand Kingdoms_ by N.K. Jemisin](https://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms) (part of her _Inheritance_ trilogy, which I’m still reading through). A different feel from the _Broken Earth_ trilogy (which I recommended last year), but good nonetheless. As ever, I find Jemisin’s world-building to be worth the price of admission alone, with the story along the way compelling you through that world.
@@ -14,7 +22,7 @@ It’s not a book, but an honourable mention to _Ted Lasso_ as the TV show I tur
 
 I spent much of yesterday morning reading excited commentary on the [launch of the James Webb Space Telescope](https://doi.org/10.1038/d41586-021-03655-4), which’ll be followed by [six months of careful deployment and calibration](https://www.scientificamerican.com/article/the-james-webb-space-telescope-has-launched-now-comes-the-hard-part1/).
 
-Both those links are good profiles, the latter more in-depth than the former—they describe aspects of the telescope’s features, including a sunshield to “cool the environment from 110 ºC on the Sun-facing side to –235 ºC on the shaded side”, to enable accurate imagery from its infrared cameras.
+Both those links are good profiles, the latter more in-depth than the former—they describe aspects of the telescope’s features, including a sunshield to “cool the environment from 110 ºC on the Sun-facing side to –235 ºC on the shaded side”, to enable accurate imagery from its infrared cameras. Incredible!
 
 Learning about the telescope sent me on various Wikipedia rabbitholes, one of my favourite ways to relax—so, thanks (and congrats) to space scientists for contributing to a great Christmas morning!
 
