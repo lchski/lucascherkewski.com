@@ -1,4 +1,12 @@
-Good evening, and a good new year to you! I just jolted out of bed, realizing I hadn’t yet sent off this newsletter—blame it on a day of driving.
+---
+layout: study--newsletter
+title: 'Digging roots'
+number: '226'
+date: '2022-01-02 22:00:00'
+published: true
+---
+
+Good evening, and a good new year to you! I just jolted out of bed, realizing I hadn’t yet sent this newsletter—blame it on a day of driving.
 
 I haven’t had much time yet to reflect on the past year or the one to come. The pandemic’s effects on time are especially noticeable at times like these, as I can’t remember many specific events off the top of my head, but it feels like it was, altogether, a decent year. For me, it included moving to a new apartment, continuing at my job, enjoying a wonderful relationship, and visiting with friends and family.
 
