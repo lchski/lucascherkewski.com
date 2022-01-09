@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Melancholy and drama, but peace'
+number: '227'
+date: '2022-01-09 16:15:00'
+published: true
+---
+
 Good afternoon. Something about an overcast winter day, gloomily raining after a day of sunny but freezing skies, causes feelings of melancholy and drama. Hence “Good afternoon”, period, no exclamation point or comma. But things aren’t so bad, really, and I’m not so serious—thank goodness we can rise above our situation, that we aren’t solely determined by how the weather makes us feel.
 
 It was a normal just-after-the-holidays January week, in which I found  an urgent fire on my desk upon returning to work, one which, whether I was dealing with it directly or not, shaped and consumed the rest of the week. Fortunately, I’ve got a great team to work with, colleagues who make even the hard days manageable—and, often, fun.
