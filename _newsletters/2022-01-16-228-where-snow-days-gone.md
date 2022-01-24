@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Where have the snow days gone'
 number: '228'
-date: '2022-01-09 13:30:00'
+date: '2022-01-16 13:30:00'
 published: true
 ---
 
