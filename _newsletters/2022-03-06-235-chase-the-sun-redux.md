@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Chase the sun (redux)'
+number: '235'
+date: '2022-03-06 14:45:00'
+published: true
+---
+
 Good afternoon!
 
 It was a tough week. And I was barely reading the news.
