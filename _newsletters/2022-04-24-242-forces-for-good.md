@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Forces for good'
+number: '242'
+date: '2022-04-24 14:15:00'
+published: true
+---
+
 Hi there,
 
 I’m perched on the ladder of a tree fort in my parents’ back yard, here in Waterloo, soaking up some sunshine, fresh air, and unseasonably warm April temperatures. The birdsong is happy and so am I.
