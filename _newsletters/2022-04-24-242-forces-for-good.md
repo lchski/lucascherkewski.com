@@ -34,7 +34,7 @@ But could this better post-apocalyptic future play out in the West, with its peo
 
 I spent a few days of this vacation doing some digital spring cleaning, reordering where and how I read. I signed out of Twitter, archived everything in my catch-all inbox, and shifted all my newsletters to [Feedbin](https://feedbin.com/). The plan is to double down on RSS / controlled Twitter / newsletters for my digital reading—all via Feedbin and [NetNewsWire](https://netnewswire.com/), with bookmarking in [Pinboard](https://pinboard.in/).
 
-I’m also considering downshifting my newspaper subscription for the summer-y months, only getting it once or twice a week, to shift my reading from the churn of the daily news (which is inevitably more depressing then motivating) to longer, slower works. (Inspired, in part, by [Melissa Gira Grant’s advice to turn to history to start and end each day, which I first shared a few years ago](https://lucascherkewski.com/hit-and-miss/32-season-2-episode-22/).)
+I’m also considering downshifting my newspaper subscription for the summer-y months, only getting it once or twice a week, to shift my reading from the churn of the daily news (which is inevitably more depressing than motivating) to longer, slower works. (Inspired, in part, by [Melissa Gira Grant’s advice to turn to history to start and end each day, which I first shared a few years ago](https://lucascherkewski.com/hit-and-miss/32-season-2-episode-22/).)
 
 As T pointed out, this could also be a time and space to read beyond non-fiction: to spend more time with poetry, for example. In honour of that, let’s close with [a poem from Mary Oliver, “Mysteries, Yes”](https://apoemaday.tumblr.com/post/614761681993842688/mysteries-yes):
 
