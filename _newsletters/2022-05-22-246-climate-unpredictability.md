@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Climate unpredictability'
+number: '246'
+date: '2022-05-22 17:45:00'
+published: true
+---
+
 Hi folks!
 
 Yesterday afternoon featured one of the fiercest storms I’ve seen in Ottawa for a while. The water running down the street was so voluminous it leapt the curb, the sky so dark it felt like nighttime in the middle of the afternoon. Walking around, the damage is apparent: trees down across the city, whole neighbourhoods still without power, and countless knock-on effects. This, coupled with the unseasonable temperatures the last few weeks, has me thinking yet again about an era of climate _unpredictability_—adapting to uncertainty seems to remain, as ever, a key skill to learn.

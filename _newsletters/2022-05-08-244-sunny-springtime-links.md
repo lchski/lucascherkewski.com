@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Sunny springtime links'
+number: '244'
+date: '2022-05-08 14:45:00'
+published: true
+---
+
 It’s a _beautiful_ spring day in Ottawa—even emphasized with italics, “beautiful” doesn’t quote cut it, which, I suppose, is why we have poetry. Life, in other words, could be much worse.
 
 On the other hand, spring heralds the return of heat, with all its pleasures and stresses. Voyaging out on the bike has been a highlight of the season so far; I’m hoping for as gradual a start to summer as we had for the spring, to keep those rides as cool and comfortable as possible.

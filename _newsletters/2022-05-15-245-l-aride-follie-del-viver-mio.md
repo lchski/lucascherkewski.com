@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'L’aride follie del viver mio'
+number: '245'
+date: '2022-05-15 15:30:00'
+published: true
+---
+
 Good afternoon!
 
 While I’ve plenty to _share_, I’ve been slow today to _write_—something about the weather, maybe, the heat leaching energy, even while I chill in relative air-conditioned comfort. I’m conscious of falling into old habits, now amplified by my access to A/C, of staying inside and avoiding physical activity—which, of course, just makes me depresso and stresso, leading me to dislike the heat ever more. Ah, what a cycle.

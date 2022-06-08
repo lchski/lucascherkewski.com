@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Financialized nesting dolls'
+number: '248'
+date: '2022-06-05 16:15:00'
+published: true
+---
+
 I’ve just spent who knows how long perusing biking maps of Ottawa, planning for countless little tours. The past week or so has seen me doing plenty of research on cat-related things—well worth it, since T and I brought home Arthur on Thursday night, and he’s already stolen our hearts. I reckon these three—biking, T, and Arthur—will be big parts of the summer ahead, and I’m so glad for it.
 
 Otherwise, it’s been a pretty lazy Sunday—for which I’m glad. Work was busy this week (lots of hurry up and wait), and socializing a bit fuller than it has been for a while. Which aren’t bad things! But they lead to a very tuckered out Lucas. Anyhow, we’re all lazing in the sun now—no complaints.
