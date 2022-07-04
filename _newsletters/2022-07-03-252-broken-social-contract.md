@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Broken social scene—wait, I mean, contract'
+number: '252'
+date: '2022-07-03 21:15:00'
+published: true
+---
+
 Hello!
 
 I hope you’re doing well. I don’t say that enough, tend not to address you directly—but it’s true, I do hope that, today and always. It’s an important affirmation, I think. I hope also that the sun shines for you, that clean water is there when you need it, that the air is light, and so on. All of these things can hurt, but, properly taken care of, they’re there to help, too. In other words, I care for both you and the environment you live in—you shape the latter, the latter shapes you, and they’re both important to me.
@@ -18,7 +26,7 @@ Tangentially, I’ve been wondering: heat exposure and long-COVID are both brain
 
 ---
 
-[Craig Mod, reflecting on catching COVID during his first trip abroad since the start of the pandemic, captured well my increasing ambivalence toward travel, particularly in a world that seems little concerned with keeping people safe.](https://craigmod.com/roden/069/)
+[Craig Mod, reflecting on catching COVID during his first trip abroad since the start of the pandemic, captures well my increasing ambivalence toward travel, particularly in a world that seems little concerned with keeping people safe.](https://craigmod.com/roden/069/)
 
 ---
 
@@ -37,7 +45,9 @@ Having been involved in one or two technosolutionist projects (am I talking abou
 
 ---
 
-You’d think that having an authoritative version of your written constitution would be important for a country. [As James Bowden points out, Canada’s written constitution (in this case, defined as the consolidated _British North America_ / _Constitution_ _Acts_) more or less lacks an authoritative version.](https://parliamentum.org/2022/06/29/who-decides-what-the-constitution-is-and-says-quebec-modifies-the-text-of-the-constitution-act-1867/) (Until the courts have to rule on a particular section, that is. Constitutions, funny things they are.) For what it’s worth, [Canada also lacks an official (as in, legally enacted) French version of most constitutional acts](https://sencanada.ca/en/sencaplus/opinion/the-irony-of-recognizing-quebecs-french-character-in-a-constitution-that-s-only-legal-in-english-senator-dalphond/).
+You’d think that having an authoritative version of your written constitution would be important for a country. [As James Bowden points out, Canada’s written constitution (in this case, defined as the consolidated _British North America_ / _Constitution_ _Acts_) more or less lacks an authoritative version.](https://parliamentum.org/2022/06/29/who-decides-what-the-constitution-is-and-says-quebec-modifies-the-text-of-the-constitution-act-1867/) (Until the courts have to rule on a particular section, that is. Constitutions, funny things they are.)
+
+For what it’s worth, [Canada also lacks an official (as in, legally enacted) French version of most constitutional acts](https://sencanada.ca/en/sencaplus/opinion/the-irony-of-recognizing-quebecs-french-character-in-a-constitution-that-s-only-legal-in-english-senator-dalphond/). (Which also leaves me wondering: how does the Supreme Court issue bilingual rulings on constitutional laws with only one officially enacted translation?)
 
 ---
 
@@ -57,14 +67,14 @@ It’s interesting that this change came after the _inquiry into_ the Walkerton 
 
 The SARS inquiries ([Ontario’s SARS Commission](http://www.archives.gov.on.ca/en/e_records/sars/report/) and the [federal government’s National Advisory Committee on SARS and Public Health](https://www.canada.ca/en/public-health/services/reports-publications/learning-sars-renewal-public-health-canada.html)) didn’t start their major lessons-learned work until SARS was more or less clearly over in Canada. And [COVID-19, of course, really _isn’t_ over—indeed, it seems about to get worse](https://www.theglobeandmail.com/canada/article-covid-19-resurgence-mask-mandate/), though it’s increasingly harder to generate and access the data that says so, with access to testing artificially limited.
 
-It feels like there’s been a neat side-step of the issue: it’s over in the ways it counts (we won’t restrict you anymore! also don’t mind the coming wave of Omicron variants, we won’t bring mask mandates back!) but not in the formal sense (now, we can make time and space for actually learning lessons from all the many ways we’ve screwed up the past few years). Maybe that’s the point—to duck the difficult reckonings that closure requires.
+It feels like there’s been a neat side-step of the issue: it’s over in the ways that count (we won’t restrict you anymore! also don’t mind the coming wave of Omicron variants, we won’t bring back mask mandates!) but not in the formal sense (now, we can make time and space for actually learning lessons from all the many ways we’ve screwed up the past few years). Maybe that’s the point—to duck the difficult reckonings that closure requires.
 
- What worries me is that the longer we wait, the harder it is to remember ([I already struggle to remember much of my small part in the summer of 2020](https://lucascherkewski.com/hit-and-miss/250-decommissioned/)), the harder it’ll be to reflect (see also my point above about cognitive decline), and the harder it’ll be to wring some kind of lasting, meaningful, _positive_ change out of this whole tragedy.
+What worries me is that the longer we wait, the harder it is to remember ([I already struggle to remember much of my small part in the summer of 2020](https://lucascherkewski.com/hit-and-miss/250-decommissioned/)), the harder it’ll be to reflect (see also my point above about cognitive decline), and the harder it’ll be to wring some kind of lasting, meaningful, _positive_ change out of this whole tragedy.
 
 ---
 
-Anyhow, if you’re looking for some non-screen reading to do, my book club just finished _Dutch House_, by Ann Patchett. We all felt that reading it was a bit like surfacing from a pleasant dream—you’re not entirely sure why you enjoyed yourself, but you’re glad for it nonetheless.
+Anyhow, if you’re looking for some non-screen reading to do, my book club just finished _The Dutch House_, by Ann Patchett. We all felt that reading it was a bit like surfacing from a pleasant dream—you’re not entirely sure why you enjoyed yourself, but you’re glad for it nonetheless.
 
-Sorry if today’s newsletter veered into a bit of a drag. But—and I say this genuinely—all the best for the week ahead.
+Sorry if today’s newsletter veered into a bit of a drag or polemic. But—and I say this genuinely—all the best for the week ahead.
 
 Lucas
