@@ -10,7 +10,8 @@
     "build": "brunch build --production"
   },
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.10"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",
