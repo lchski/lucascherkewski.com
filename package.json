@@ -9,7 +9,9 @@
     "start": "brunch watch",
     "build": "brunch build --production"
   },
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
   "devDependencies": {
     "auto-reload-brunch": "^2",
     "autoprefixer": "^8.6.3",
