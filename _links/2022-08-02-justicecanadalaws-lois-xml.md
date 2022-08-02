@@ -10,6 +10,6 @@ published: true
 ---
 Justice Canada (or, more specifically, [Andrew Pressey](https://github.com/apressey), to his enormous credit) has been quietly archiving [Canadian “legs and regs”](https://laws.justice.gc.ca/eng/) to GitHub for about a year and a half.
 
-These have long been available in XML (e.g., [XML for the _Financial Administration Act_](https://laws.justice.gc.ca/eng/acts/F-11/), but storing them in GitHub allows for: easy tracking of change over time (changes are tracked in Git! though, of course, some of these changes might be to the XML, not actually to the law itself—that’s a whole other issue to get into); a huge head-start on computational analysis projects (no scraping required, just clone the repo and go!).
+These have long been available in XML (e.g., [XML for the _Financial Administration Act_](https://laws.justice.gc.ca/eng/acts/F-11/), but storing them in GitHub allows for: easy tracking of change over time (changes are tracked in Git! though, of course, some of these changes might be to the XML, not actually to the law itself—that’s a whole other issue to get into); a huge head-start on computational analysis projects ([no more scraping required, Jason](https://github.com/JasonMWhite/gitlawca), we can just clone the repo and go!).
 
 Splendid to see.
