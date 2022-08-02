@@ -48,7 +48,7 @@ function fileNameFromBookmark(bookmark) {
 	const fileDate = new Date(bookmark.time).toLocaleString('en-CA', {timeZone: 'America/Toronto'}).slice(0, 10);
 
 	// slugify, then pull first three (at max) words in slug
-	const fileSlug = slugify(bookmark.description, {lower: true}).split('-', 3).join('-');
+	const fileSlug = slugify(bookmark.description, {lower: true, strict: true, locale: 'en'}).split('-', 3).join('-');
 
 	return `${fileDate}-${fileSlug}.md`;
 }
@@ -57,6 +57,6 @@ function saveLinkPostToDisk(bookmark) {
 	fs.writeFileSync(`${linksDirectory}${fileNameFromBookmark(bookmark)}`, convertBookmarkToLinkPost(bookmark));
 }
 
-const bookmarks = await getLatestLinkBookmarks();
+const linkBookmarks = await getLatestLinkBookmarks();
 
-saveLinkPostToDisk(bookmarks.posts[3]);
+linkBookmarks.posts.forEach(saveLinkPostToDisk);
