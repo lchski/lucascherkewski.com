@@ -20,6 +20,8 @@ jobs:
     - name: Fetch latest data
       run: |-
         node _scripts/generate-link-posts.mjs
+      env:
+        PINBOARD_API_TOKEN: ${{ secrets.PINBOARD_API_TOKEN }}
     - name: Commit and push if there are new links
       run: |-
           git config user.name "Automated"
