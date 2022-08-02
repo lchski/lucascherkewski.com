@@ -31,9 +31,11 @@ function convertBookmarkToLinkPost(bookmark) {
 	
 	const linkPostTemplate = `---
 layout: study--link
-title: '${bookmark.description}'
+title: >-
+  ${bookmark.description}
 link: '${bookmark.href}'
-link_title: '${bookmark.description}'
+link_title: >-
+  ${bookmark.description}
 date: ${bookmark.time}
 published: ${'' == bookmarkAnnotation ? 'false' : 'true'}
 ---
