@@ -1,8 +1,10 @@
 ---
 layout: study--link
-title: 'Toward an indie web(site) – Lucas Cherkewski'
+title: >-
+  Toward an indie web(site) – Lucas Cherkewski
 link: 'https://lucascherkewski.com/study/toward-an-indie-website/'
-link_title: 'Toward an indie web(site) – Lucas Cherkewski'
+link_title: >-
+  Toward an indie web(site) – Lucas Cherkewski
 date: 2022-08-02T02:26:34Z
 published: true
 ---

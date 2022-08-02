@@ -1,8 +1,10 @@
 ---
 layout: study--link
-title: 'Twenty years of my blog'
+title: >-
+  Twenty years of my blog
 link: 'https://simonwillison.net/2022/Jun/12/twenty-years/'
-link_title: 'Twenty years of my blog'
+link_title: >-
+  Twenty years of my blog
 date: 2022-07-31T00:40:22Z
 published: true
 ---
