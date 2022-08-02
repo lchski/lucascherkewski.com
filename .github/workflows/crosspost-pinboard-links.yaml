@@ -1,5 +1,4 @@
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron:  '30 * * * *' # every hour, at ~:30 https://crontab.guru/#30_*_*_*_*
