@@ -1,5 +1,9 @@
 import 'dotenv/config'
+import slugify	from 'slugify'
+import * as fs from 'fs'
 import fetch from 'node-fetch'
+
+const linksDirectory = '_links/';
 
 async function getLatestLinkBookmarks() {
 	const response = await fetch(
@@ -39,4 +43,20 @@ ${bookmarkAnnotation}
 	return (linkPostTemplate);
 }
 
+function fileNameFromBookmark(bookmark) {
+	// convert to EST (bookmarks are saved in UTC), then output in `en-CA` locale (which uses ISO dates), then slice just the date
+	const fileDate = new Date(bookmark.time).toLocaleString('en-CA', {timeZone: 'America/Toronto'}).slice(0, 10);
+
+	// slugify, then pull first three (at max) words in slug
+	const fileSlug = slugify(bookmark.description, {lower: true}).split('-', 3).join('-');
+
+	return `${fileDate}-${fileSlug}.md`;
+}
+
+function saveLinkPostToDisk(bookmark) {
+	fs.writeFileSync(`${linksDirectory}${fileNameFromBookmark(bookmark)}`, convertBookmarkToLinkPost(bookmark));
+}
+
 const bookmarks = await getLatestLinkBookmarks();
+
+saveLinkPostToDisk(bookmarks.posts[3]);
