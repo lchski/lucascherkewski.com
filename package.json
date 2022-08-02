@@ -9,7 +9,11 @@
     "start": "brunch watch",
     "build": "brunch build --production"
   },
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.10",
+    "slugify": "^1.6.5"
+  },
   "devDependencies": {
     "auto-reload-brunch": "^2",
     "autoprefixer": "^8.6.3",
