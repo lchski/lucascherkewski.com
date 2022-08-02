@@ -3,21 +3,22 @@ name: Publish Pinboard annotations
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 * * * *' # every hour, at ~:30 https://crontab.guru/#30_*_*_*_*
+    - cron: '30 11-23,0-2 * * *' # waking hours EST (7 to 22), at ~:30 https://crontab.guru/#30_11-23,0-2_*_*_*
 
 jobs:
   crosspost-pinboard-links:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Set up Node
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
         node-version: 16
+        cache: 'npm'
     - name: Pull Node packages
       run: |-
-        npm install
+        npm ci
     - name: Fetch latest data
       run: |-
         node _scripts/generate-link-posts.mjs
