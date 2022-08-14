@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'A shout to the wind'
 number: '258'
-date: '2022-08-14 09:00:00'
+date: '2022-08-14 09:15:00'
 published: true
 ---
 
@@ -18,26 +18,18 @@ The rest of today’s letter is a shout to the wind about the state of our healt
 
 Last weekend, my family gathered (all of us, for the first time since before the pandemic, which still felt harrowing to me given the continuing state of said pandemic, but I digress) to celebrate my grandparents’ 60th wedding anniversary. It was lovely, and I’m glad we did.
 
-My grandparents were married in mid-July, 1962. A world away from their provincial Italian church, [Saskatchewan doctors were nearing the end of their weeks-long strike against the province’s recently introduced provincial medicare system](https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-doctors-strike). My Nonno has shared stories from the time—that, upon returning to Canada, he talked the math over with the scientist at the glue factory where he worked, figuring that they were further ahead financially with public insurance than private, that he went to convince his fellow workers of the same—hearing which always reminds me that a public system is hardly guaranteed, that it takes convincing and work to defend.
+My grandparents were married in July, 1962. A world away from their provincial Italian church, [Saskatchewan doctors were nearing the end of their weeks-long strike against the province’s recently introduced medicare system](https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-doctors-strike). My Nonno has shared stories from the time—that, upon returning to Canada, he talked the math over with the scientist at the glue factory where he worked, figuring that they were further ahead financially with public insurance than private, that he went to convince his fellow workers of the same—hearing which always reminds me that a public system is hardly guaranteed, that it takes convincing and work to defend.
 
 Sixty years later, my grandparents’ marriage is still going strong. [Canada’s healthcare system, though, seems in the midst of an ongoing collapse](https://www.theglobeandmail.com/canada/article-more-hospitals-across-canada-forced-to-temporarily-close-their/)—headlines that hit very close to home, hearing and seeing the crushing effects of that collapse after each of T’s shifts at the hospital.
 
-It’s a classic example of structural and institutional incentives leading to rational individual decisions that cause harmful effects to the system as a whole. Hospitals are shortstaffed, so they start to limit vacation scheduling and [requiring doctors’ notes for sick leave](https://ottawa.ctvnews.ca/we-re-not-your-sick-day-police-ottawa-family-doctors-express-frustration-with-employers-requiring-covid-sick-notes-1.5992574) (further burdening overworked family doctors, when people even have family doctors!). Overworked on their understaffed shifts, nurses and other healthcare workers take stress leave, switch to part-time work (giving up health benefits in the process), or leave the system entirely. Further understaffed, administrators tighten the screws yet further, trying to eke whatever labour they can from the ever fewer who continue to show up.
+Hospitals are shortstaffed, so they start to limit vacation scheduling and [requiring doctors’ notes for sick leave](https://ottawa.ctvnews.ca/we-re-not-your-sick-day-police-ottawa-family-doctors-express-frustration-with-employers-requiring-covid-sick-notes-1.5992574) (further burdening overworked family doctors, when people even have family doctors!). Overworked and underpaid on their understaffed shifts, nurses and other healthcare workers take stress leave, switch to part-time work (giving up health benefits in the process), or leave the system entirely. Further understaffed, administrators tighten the screws yet further, trying to eke whatever labour they can from the ever fewer who continue to show up.
 
-There are real human effects to this spiral—on healthcare workers and on those they care for. Things for which we might rush to the hospital, like [swallowing a bee](https://www.cbc.ca/news/canada/toronto/doug-ford-swallows-bee-1.6549613), will now likely be many hours-long waits. I don’t blame anyone working in this system who, seeing the  apparent lack of compassion for their plight, unwilling to further bear personally this heavy burden, decides to leave. [Work won’t love us back](https://aworkinglibrary.com/reading/work-wont-love-you-back), but it _especially_ won’t love back those whose self-sacrifice it has long celebrated through word (“thank you to our frontline workers! here are some noisy pots and pans while you try to sleep after a gruelling shift!”), while exploiting through deed.
+There are real human effects to this spiral—on healthcare workers and on those they care for. When we rush to the hospital after [swallowing a bee](https://www.cbc.ca/news/canada/toronto/doug-ford-swallows-bee-1.6549613), we will inevitably wait many (many) hours. I don’t blame anyone working in this system who, seeing the  apparent lack of compassion for their plight, unwilling to further bear personally this heavy burden, decides to leave. [Work won’t love us back](https://aworkinglibrary.com/reading/work-wont-love-you-back), but it _especially_ won’t love back those whose self-sacrifice it has long celebrated through word (“thank you to our frontline workers! here are some noisy pots and pans while you try to sleep after a gruelling shift!”), while exploiting them through deed.
 
-I said earlier that my grandparents’ marriage, after sixty years, is still going strong. Both also said that “another sixty years would be too much, we’re tired now.” We’re _all_ tired now, especially so after two and a half years of this damned virus. But healthcare is, alongside climate change and housing, one of those system crises from which we cannot look away—one we must agitate and advocate to address. It can start with simple acts of support for those healthcare workers among your loved ones, for a system is nothing but the people in it—but take time, too, to write, show up, or otherwise participate politically in defence of and support for that system.
+I said earlier that my grandparents’ marriage, after sixty years, is still going strong. Both also said that “another sixty years would be too much, we’re tired now.” We’re _all_ tired now, especially so after two and a half years of this damned virus. But healthcare is, alongside climate change and housing, one of those system crises from which we cannot look away—one we must agitate and advocate to address.
 
-I had links to share, but will save them for next week—I think the message above should stand on its own. All the best for the week ahead.
+I don’t have a great call to action at this point. It is one crisis among many to which governments seem unable to respond with meaningful urgency. For me, responding to this systemic problem starts with simple acts of support for the healthcare workers among my loved ones, for a system is nothing but the people in it. Writing this piece is also a sensemaking step, for me, but I don’t know what works for you. Regardless, I hope you can take time, too, to write, talk, show up, or otherwise participate in defence of and support for those who care for us.
+
+All the best, in the meantime, for the week ahead.
 
 Lucas
-
----
-
-- Continuing one of my favourite unofficial themes on his blog, “what can public sector tech learn from urban design”, [Sean advocates for matching the timelines of tech projects to the tenures of the leaders responsible for them](https://sboots.ca/2022/08/09/shrink-projects-to-fit-leadership-turnover-rates/).
-
-https://colly.com/articles/the-story-of-bearface
-
-https://www.susanjeanrobertson.com/notes/attention/
-
-https://www.jackcheng.com/sunday/375-seeing-and-forgetting/
