@@ -2,7 +2,7 @@
 layout: study--link
 title: wikisource js-mill on-liberty-ch-2-common-sayings
 link: 'https://en.wikisource.org/wiki/Page:On_Liberty_(4th_Edition).djvu/77'
-link_title: 'J.S. Mill’s _On Liberty_, on common sayings'
+link_title_md: 'J.S. Mill’s _On Liberty_, on common sayings'
 date: 2018-12-28T22:02:53.971Z
 published: true
 ---

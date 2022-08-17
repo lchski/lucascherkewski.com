@@ -17,7 +17,13 @@ sidebar_type: link
 	{% assign sorted_links = site.links | sort: 'date' | reverse %}
 	{% for link in sorted_links %}
 		<li>
-			<h2><a href="{{ link.link }}">{{ link.link_title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
+			<h2><a href="{{ link.link }}">
+				{% if link.link_title_md %}
+					{{ link.link_title_md | markdownify | remove: '<p>' | remove: '</p>' }}
+				{% else %}
+					{{ link.link_title }}
+				{% endif %}
+			</a></h2>
 			{{ link.content | markdownify }}
 			<p class="meta">
 				<a href="{{ link.url }}">{{ link.date | date: "%l:%S %P on %B %e, %Y" }}</a>
