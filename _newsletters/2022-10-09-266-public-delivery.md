@@ -1,0 +1,28 @@
+---
+layout: study--newsletter
+title: 'Public delivery'
+number: '266'
+date: '2022-10-09 15:15:00'
+published: true
+---
+
+I often put off shopping (and the research it often requires) until I can do so in one burst, which I did recently. I recently had something like four or five deliveries coming over two or three few days (each from a different carrier!).
+
+Living in an apartment downtown, deliveries can be stressful! There’s missing them, the intercom not working, packages left at your door (or maybe not!), and so on. They’re stressful for drivers, too: nowhere to park, or parking illegally while dashing in and out of unfamiliar buildings, only to have to navigate busy streets while on a tight schedule. Hence I normally avoid deliveries, but today’s economics are such that I can only get some items online, or it’s far more practical or affordable to get them delivered versus heading out to a store in the suburbs.
+
+I try to send deliveries to the post office (which anyone can do, for free, with [Canada Post’s neato FlexDelivery service](https://www.canadapost-postescanada.ca/cpc/en/personal/receiving/alternative-delivery/flexdelivery.page)), because we have this incredible public logistics network, but many private companies, for private reasons that make sense in their contexts, opt to use other carriers that don’t have access to the public network (or won’t use it, again for private reasons), and so we have all these public pick-up and drop-off points that are _probably_ underused, and instead loads of packages just left on doorsteps and so on, with all the stress that can bring. So that sucks.
+
+This process has reminded me of—I saw it somewhere, Twitter probably—a hypothetical: “Would you choose slower delivery, if it gave your delivery drivers real benefits and better [working conditions](https://www.businessinsider.com/amazon-delivery-driver-warehouse-employee-working-conditions-van-cameras-2021-3)?” And, if slow would actually result in those things, yes! So much yes! But will it actually?
+
+Anyway. Some links:
+
+- Commercial Type released a [one-off online magazine, _The Food Issue_, with great writing by well-known authors, that’s actually—heyo!—a lengthy typography sample](https://foodissue.commercialtype.com/). A delightful way to model type, as it’s meant to be read, in meaningful words and sentences and paragraphs. (Via [Robin Rendle, who excerpted some paragraphs on the site’s backstory](https://www.robinrendle.com/notes/the-food-issue/).)
+- Miriam Suzanne, in another of the canon of “what’s a personal website _for_, anyway?”, captures the idea that [all interactions on social media (replying, retweeting, even liking) are “posting”, in a generic sense](https://www.miriamsuzanne.com/2022/06/17/hit-publish/)—we’re “already posting all the time”, in other words. A good reminder as I revisit [my on-again, off-again links section and my dreams for a more indie-web personal site](https://lucascherkewski.com/study/toward-an-indie-website/).
+- Government spending on technology has been in the news this week, with particular emphasis on the ArriveCAN app. A story in three parts (paraphrased, from headline and article contents): “[ArriveCAN will cost up to $54 million](https://www.theglobeandmail.com/politics/article-arrivecan-app-spending-government/)”; “[Tech companies say it could’ve been $1 million](https://www.theglobeandmail.com/politics/article-arrivecan-app-covid-19/)”; “[Hackathons planned to build ArriveCAN in a weekend](https://www.theglobeandmail.com/politics/article-arrivecan-hackathon-tribalscale-lazer/)”.
+	- There’s some tech saviour-ness at play here. I’d encourage folks really keen on helping government with technology to [read Cyd Harrell’s book, _A Civic Technologist’s Practice Guide_](https://cydharrell.com/book/) (which [it seems I bought around two years ago](https://twitter.com/lchski/status/1309873463096639493?lang=cs)). [Alistair Croll has offered a pretty good critique of this specific situation](https://twitter.com/acroll/status/1578971296141934592), and [Dan Hon wrote about an analogous one last year](https://newsletter.danhon.com/archive/s09e02-despairing-sisyphean-absurdity/) (a [revised version of a spicier? more tired-er? Twitter thread](https://twitter.com/hondanhon/status/1359587806159405057)).
+	- Look, I’m all for attention to government spending on technology (including the people who build—and, let’s not forget—improve, operate, maintain, and support said technology). Sometimes it’s far too much, sometimes far too little. I won’t really dig into the ArriveCAN specifics, beyond the perspectives shared above, but I will note this: the reason it’s so hard to have reasonable conversations about this is that _there’s so little public information available about what this spending did_. On the surface, it looks like it just built an app, which will _of course_ yield the critiques we’re seeing. Maybe—likely, almost certainly—it paid for more, but _there’s little way to know because there’s no more information available_.
+	- My actual point, though, isn’t about ArriveCAN—it’s that this relative opacity is, largely speaking, true for most federal government spending on technology. It’s frustrating—and [maybe it’s a symptom of broader issues in Canada’s information culture](https://www.theglobeandmail.com/canada/article-federal-hearings-begin-canada-access-to-information-system-secret/)—because it lowers the overall quality of conversations we can have in this space. More on this from me in future weeks, no doubt.
+
+In the meantime, all the best for the week ahead. The leaves are in full glory here, and maybe too for you, so please enjoy them when you can!
+
+Lucas
