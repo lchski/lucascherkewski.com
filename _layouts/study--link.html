@@ -8,7 +8,11 @@ sidebar_type: link
 <article>
 
 	<header>
-		<h1 class="f2 mb0 measure"><a class="dim light-purple" href="{{ page.link }}">{{ page.link_title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h1>
+		{% assign link_title = page.title %}
+		{% if page.link_title %}
+			{% assign link_title = page.link_title %}
+		{% endif %}
+		<h1 class="f2 mb0 measure"><a class="dim light-purple" href="{{ page.link }}">{{ link_title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h1>
 	</header>
 
 	<div class="f3 measure lh-copy serif nested-list-item-spacing">
