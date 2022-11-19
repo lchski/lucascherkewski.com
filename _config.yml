@@ -36,6 +36,9 @@ collections:
   links:
     output: true
     permalink: /links/:year/:month/:day/:title/
+  notes:
+    output: true
+    permalink: /notes/:title/
 
 
 # Build settings
