@@ -8,6 +8,9 @@
 	{% if page.url != '/' %}
 		{% assign page_title = page_title | append: ' – Lucas Cherkewski' %}
 	{% endif %}
+	{% if page.collection == 'notes' %}
+		{% assign page_title = page.date | date: "Note: %B %e, %Y at %l:%S %P – Lucas Cherkewski" %}
+	{% endif %}
 
     <title>{{ page_title | markdownify | remove: '<p>' | remove: '</p>' | remove: '<em>' | remove: '</em>' }}</title>
 

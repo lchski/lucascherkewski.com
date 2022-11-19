@@ -1,0 +1,21 @@
+---
+layout: study
+site_section: study
+include_sidebar: true
+sidebar_type: link
+---
+
+<article>
+
+	<div class="f3 measure lh-copy serif nested-list-item-spacing">
+		{{ content }}
+	</div>
+
+	<p class="meta">
+		{{ page.date | date: "%B %e, %Y at %l:%S %P" }}
+		{% if page.source %}
+			({{ page.source | append: "\)" | markdownify | remove: "<p>" | remove: "</p>" }}
+		{% endif %}
+	</p>
+
+</article>

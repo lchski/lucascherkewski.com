@@ -1,0 +1,31 @@
+---
+layout: study
+title: Notes
+include_sidebar: true
+sidebar_type: link
+---
+
+<header>
+	<h1 class="page__intro">Notes</h1>
+
+	<p>
+		Things I might’ve written on Twitter, once.
+	</p>
+
+	<hr>
+</header>
+
+<ul class="block-list text-item-list spacey-list">
+	{% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+	{% for note in sorted_notes %}
+		<li>
+			{{ note.content | markdownify }}
+			<p class="meta">
+				<a href="{{ note.url }}">{{ note.date | date: "%B %e, %Y at %l:%S %P" }}</a>
+				{% if note.source %}
+					({{ note.source | append: "\)" | markdownify | remove: "<p>" | remove: "</p>" }}
+				{% endif %}
+			</p>
+		</li>
+	{% endfor %}
+</ul>
