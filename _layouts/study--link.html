@@ -12,7 +12,12 @@ sidebar_type: link
 		{% if page.link_title %}
 			{% assign link_title = page.link_title %}
 		{% endif %}
-		<h1 class="f2 mb0 measure"><a class="dim light-purple" href="{{ page.link }}">{{ link_title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h1>
+
+		{% assign link_url = page.link %}
+		{% if page.bookmark-of %}
+			{% assign link_url = page.bookmark-of %}
+		{% endif %}
+		<h1 class="f2 mb0 measure"><a class="dim light-purple" href="{{ link_url }}">{{ link_title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h1>
 	</header>
 
 	<div class="f3 measure lh-copy serif nested-list-item-spacing">

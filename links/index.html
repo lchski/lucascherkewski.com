@@ -23,7 +23,12 @@ sidebar_type: link
 			{% elsif link.link_title %}
 				{% assign link_title = link.link_title %}
 			{% endif %}
-			<h2><a href="{{ link.link }}">{{ link_title }}</a></h2>
+
+			{% assign link_url = link.link %}
+			{% if link.bookmark-of %}
+				{% assign link_url = link.bookmark-of %}
+			{% endif %}
+			<h2><a href="{{ link_url }}">{{ link_title }}</a></h2>
 			{{ link.content | markdownify }}
 			<p class="meta">
 				<a href="{{ link.url }}">{{ link.date | date: "%l:%S %P on %B %e, %Y" }}</a>
