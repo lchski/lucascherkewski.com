@@ -1,0 +1,25 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }} – Notes</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feeds/notes.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+	{% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+    {% for note in sorted_notes limit:10 %}
+      <item>
+        <title>Note: {{ note.date | date: "%B %e, %Y at %l:%S %P" | xml_escape }}</title>
+        <description>{{ note.content | xml_escape }}</description>
+        <pubDate>{{ note.date | date_to_rfc822 }}</pubDate>
+        <link>{{ note.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ note.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
