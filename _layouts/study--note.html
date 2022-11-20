@@ -18,4 +18,13 @@ sidebar_type: link
 		{% endif %}
 	</p>
 
+	{% if page.syndication %}
+	<p class="meta">Also at:</p>
+	<ul class="meta mt0">
+		{% for syndicated_copy in page.syndication %}
+			<li><a href="{{ syndicated_copy }}">{{ syndicated_copy }}</a></li>
+		{% endfor %}
+	</ul>
+	{% endif %}
+
 </article>
