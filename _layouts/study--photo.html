@@ -1,0 +1,35 @@
+---
+layout: study
+site_section: study
+include_sidebar: true
+sidebar_type: note
+---
+
+<article>
+	{% if page.photo %}
+		{% for photo in page.photo %}
+			<img src="{{ photo.url }}" alt="{{ photo.alt }}">
+		{% endfor %}
+	{% endif %}
+
+	<div class="f3 measure lh-copy serif nested-list-item-spacing">
+		{{ content }}
+	</div>
+
+	<p class="meta">
+		{{ page.date | date: "%B %e, %Y at %l:%S %P" }}
+		{% if page.source %}
+			({{ page.source | append: "\)" | markdownify | remove: "<p>" | remove: "</p>" }}
+		{% endif %}
+	</p>
+
+	{% if page.syndication %}
+	<p class="meta">Also at:</p>
+	<ul class="meta mt0">
+		{% for syndicated_copy in page.syndication %}
+			<li><a href="{{ syndicated_copy }}">{{ syndicated_copy }}</a></li>
+		{% endfor %}
+	</ul>
+	{% endif %}
+
+</article>

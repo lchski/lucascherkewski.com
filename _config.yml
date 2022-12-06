@@ -39,6 +39,9 @@ collections:
   notes:
     output: true
     permalink: /notes/:title/
+  photos:
+    output: true
+    permalink: /photos/:title/
 
 defaults:
   -
@@ -53,6 +56,12 @@ defaults:
       type: "notes" # a collection in your site, in plural form
     values:
       layout: "study--note"
+  -
+    scope:
+      path: ""
+      type: "photos" # a collection in your site, in plural form
+    values:
+      layout: "study--photo"
 
 # Build settings
 markdown: kramdown

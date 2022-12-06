@@ -16,9 +16,14 @@ sidebar_type: note
 </header>
 
 <ul class="block-list text-item-list spacey-list">
-	{% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+	{% assign sorted_notes = site.notes | concat: site.photos | sort: 'date' | reverse %}
 	{% for note in sorted_notes %}
 		<li>
+			{% if note.photo %}
+				{% for photo in note.photo %}
+					<img src="{{ photo.url }}" alt="{{ photo.alt }}">
+				{% endfor %}
+			{% endif %}
 			{{ note.content | markdownify }}
 			<p class="meta">
 				<a href="{{ note.url }}">{{ note.date | date: "%B %e, %Y at %l:%S %P" }}</a>
