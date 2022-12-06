@@ -11,6 +11,9 @@
 	{% if page.collection == 'notes' %}
 		{% assign page_title = page.date | date: "Note: %B %e, %Y at %l:%S %P – Lucas Cherkewski" %}
 	{% endif %}
+	{% if page.collection == 'photos' %}
+		{% assign page_title = page.date | date: "Photo: %B %e, %Y at %l:%S %P – Lucas Cherkewski" %}
+	{% endif %}
 	{% if page.collection == 'links' %}
 		{% assign page_title = 'Link: ' | append: page_title %}
 	{% endif %}
