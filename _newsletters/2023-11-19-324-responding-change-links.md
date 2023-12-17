@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Responding to change (links on)'
+number: '324'
+date: '2023-11-19 22:00:00'
+published: true
+---
+
 After a very days-and-nights-busy work week, it was nice to have things a bit more normal this week. T and I are getting ready to host our first overnight visitor in the new place, which has been an effective impetus for me to finally finish unpacking and tidying the office / spare bedroom—it’ll feel good to have it in order, to have all the things in (more or less) a proper spot and all the boxes folded away.
 
 Escaping the stress of things to do at home, we joined S and V for a recital this afternoon. The performances by Kathryn Patricia Cobbler and Sonya Sweeney were excellent—there’s something to beautiful music and a beautiful space reinforcing each other, making it all so much more pleasant.
