@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Benchin’, cattin’, linkin’'
+number: '331'
+date: '2024-01-07 20:30:00'
+published: true
+---
+
 Thank you to all who wrote in with kind words wishing T and I well last week. Happy to report that we’re both back to our normal selves. (Which, for me, means various age-inappropriate aches and pains that remind me I ought to stretch more, but at least they’re _proper_.)
 
 I’ve spent a good chunk of time this week working on that workbench I mentioned. It’s more or less the one from [_The Naked Woodworker_](https://lostartpress.com/products/the-naked-woodworker) (it’s a very forgiving design, particularly for someone working with just hand tools, [one that works impressively well without a vice](https://blog.lostartpress.com/2014/12/03/workholding-with-the-naked-woodworker/)). It’s been nice to have a project to go putter away at for a while each night—nice, too, to slowly learn my limits, to remember to put the tools down and tidy up at a reasonable hour, so I don’t stay up all night thinking about woodworking. It’ll still be there tomorrow, I try to remind myself :)
