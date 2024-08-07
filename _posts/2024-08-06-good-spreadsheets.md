@@ -9,12 +9,13 @@ published: true
 
 A colleague from the CDS days recently asked for some good resources on spreadsheets / tabular data. I used to run “spreadsheetin’” sessions where I tried (through hands-on examples) to share some of the principles or practices I’ve stumbled into over the years.[^backstory] 
 
-[^backstory]: At its core, I remember the advice boiled down to “don’t use column or row highlighting alone to convey meaning”, from which we can extrapolate a bunch of good practices. That to say, these principles and practices were hardly novel!\
-\
-Really, I’d been making so-so spreadsheets for years, then read [R for Data Science](https://r4ds.had.co.nz) years ago ([there’s a new version](https://r4ds.hadley.nz), cool!). Reading [the tidy data chapter](https://r4ds.had.co.nz/tidy-data.html) and applying the tidy philosophy clarified the better practices underpinning those so-so spreadsheets, and I started making better ones.
+[^backstory]:
+	At its core, I remember the advice boiled down to “don’t use column or row highlighting alone to convey meaning”, from which we can extrapolate a bunch of good practices. That to say, these principles and practices were hardly novel!
+	
+	Really, I’d been making so-so spreadsheets for years, then read [R for Data Science](https://r4ds.had.co.nz) years ago ([there’s a new version](https://r4ds.hadley.nz), cool!). Reading [the tidy data chapter](https://r4ds.had.co.nz/tidy-data.html) and applying the tidy philosophy clarified the better practices underpinning those so-so spreadsheets, and I started making better ones.
 
 
-**Important fundamental assumption alert!** In assembling this assortment of links, I worked from this assumption: good spreadsheet / tabular data practices amount, at their core, to storing data in a way that’s usable for computers. That may not be the only purpose for good spreadsheets, of course, but I find it's a frequent and worthy one. (With the caveat that sometimes we make things less intuitively usable for _people_ by making data more immediately usable for _computers_, which is a tradeoff worth interrogating depending on the work at hand! See the end of the post for some links to readings on critical dat studies.)
+**Important fundamental assumption alert!** In assembling this assortment of links, I worked from this assumption: good spreadsheet / tabular data practices amount, at their core, to storing data in a way that’s usable for computers. That may not be the only purpose for good spreadsheets, of course, but I find it's a frequent and worthy one. (With the caveat that sometimes we make things less intuitively usable for _people_ by making data more immediately usable for _computers_, which is a tradeoff worth interrogating depending on the work at hand! See the end of the post for some links to readings on critical data studies.)
 
 With that in mind:
 
