@@ -34,6 +34,8 @@ But good spreadsheets (and / or other forms of tabular data storage!) will get y
 
 If you’d like to interrogate the idea of data from a critical perspective (because who wouldn’t want to do that while gaining some practical skills!?), some good readings:
 
-- [_“Raw Data” Is an Oxymoron_](https://direct.mit.edu/books/edited-volume/3992/Raw-Data-Is-an-Oxymoron), an open-access edited book, discusses the contrast between “raw” and “cooked” data in the introduction by Lisa Gitelman and Virginia Jackson.
+- [_“Raw Data” Is an Oxymoron_](https://direct.mit.edu/books/edited-volume/3992/Raw-Data-Is-an-Oxymoron), an ~~open-access~~[^open-access] edited book, discusses the contrast between “raw” and “cooked” data in the introduction by Lisa Gitelman and Virginia Jackson.
 - [Rob Kitchin’s brief summary of his book _Data Lives: How Data Are Made and Shape Our World_](https://www.transformingsociety.co.uk/2021/02/09/telling-data-stories-narrating-how-data-are-cooked-and-consumed/) carries on this metaphor, discussing the field of critical data studies.
 - [Kitchin and Tracey Lauriault discuss the nature of data, and the influence of data infrastructure on data (and vice versa)](https://kitchin.org/wp-content/uploads/2019/04/DG-Ch-8-preprint.pdf) in a chapter in [the 2018 book _Digital Geographies_](https://uk.sagepub.com/en-gb/eur/digital-geographies/book258271#description). This is probably a good middle ground between the previous two (a whole book and a blog post), discussing many of the same concepts in an engaging way.
+
+[^open-access]: *August 11, 2024 update:* This book is not open access! My bad! If others know of an equivalent-ish suggestion, I’d be glad to share it here.
