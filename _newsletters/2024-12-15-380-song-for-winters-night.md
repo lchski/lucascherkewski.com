@@ -1,6 +1,6 @@
 ---
 layout: study--newsletter
-title: '“Song for a Winter's Night”'
+title: '“Song for a Winter’s Night”'
 number: '380'
 date: '2024-12-15 19:06:36 -0500'
 published: true
