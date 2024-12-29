@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Another year’s books'
+number: '329'
+date: '2023-12-24 15:15:00'
+published: true
+---
+
 Phew, hi!
 
 It’s been quite a week—A was sick (better now!), some difficult conversations in and around my extended family (ongoing…), and all kinds of wondering about what the next year will bring (which only time can tell). Last night, we rewatched _Die Hard_, and it was great fun seeing T so excited about it. Fun also to recount with my sister the many, many ways it was referenced in _Brooklyn 99_. (In years past, we’ve paired the movie with B99’s Christmas-shopping-turned-Die-Hard episode, and the _Bob’s Burgers_ _Die Hard_ musical episode, but we were all pretty zonked last night.)
