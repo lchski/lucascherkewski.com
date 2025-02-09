@@ -23,3 +23,5 @@ Okay, onto some links:
 For the rest of the weekend, I’ll be either cooking, woodworking, admiring [beautiful chairs](https://duncanellinwood.substack.com/p/ladderback-stick-chair), playing video games, [chuckling at clever posters](https://austinkleon.substack.com/p/4-posters-to-hang-in-your-studio), or watching _Star Trek: Lower Decks_. I hope yours is equally as restful—all the best for the week ahead!
 
 Lucas
+
+P.S. If you’re in Ottawa and would like to go for a skate, send me a note!
