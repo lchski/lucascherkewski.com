@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Try carpolling'
 number: '390'
-date: '2025-02-23 09:00:00 -0500'
+date: '2025-02-23 08:30:00 -0500'
 published: true
 ---
 
