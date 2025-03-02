@@ -12,7 +12,7 @@ Oh boy. Where to begin, and where to go? Today, let’s meander.
 
 The last few days have been weird, energy-wise. The go-go-go of the last few weeks finally hit, delivering a day or two of tiredness in exchange. Today was better, somewhat—the sunshine helped, as did spending some time poking away at a data project.
 
-I’ve been thinking about a post Tom MacWright wrote last year, “[Work hard and take everything really seriously](https://macwright.com/2024/01/28/work-hard-and-take-everything-seriously)”. The closing line captures it well: 
+I’ve been considering a post Tom MacWright wrote last year, “[Work hard and take everything really seriously](https://macwright.com/2024/01/28/work-hard-and-take-everything-seriously)”. The closing line captures it well: 
 
 > You can burn out by going too fast, or your flame can dim because you don’t let yourself spend silly amounts of time on silly projects to satisfy your intellectual curiosity. Beware of both outcomes: cultivate your enthusiasm for the things you want to hang onto.
 
@@ -38,17 +38,7 @@ A few others have written about 18F’s closure. Ben Werdmuller captured succinc
 
 The last word’s yet to be written about 18F. While 18F.gov now returns an error, [18F.org](https://18f.org/) offers a closing message from the team—and opens the possibility of more.
 
-***
-
-Poking around 18F’s extensive web presence raised something else in me. A core tenet of orgs like 18F is working in the open. You could see this in their website, or in [their extensive GitHub repositories](https://github.com/18F).
-
-What I love about the repositories (1,200+!!), in particular, is that, as you scroll through them, you see many with longstanding histories, actively updated, right alongside others with little-to-no content, ideas expressed but not explored. And that’s great! That’s the real work of work, made visible, and accessible to any with the wherewithal to look around. Even if nobody does, even if you don’t know what a GitHub repository is, the fact that you _can_—what a beautiful thing.
-
-This practice means that “shutting down” a working-in-the-open organization is not as straightforward as it is with conventional organizations. While staff are reportedly locked out of their corporate accounts, and the main website no longer works, 18F’s GitHub repositories remain online, as do some of their subdomains. Working in the open also makes a shutdown that much more visible, more measurable in a way—you see directly what’s lost, and can follow along as it happens.
-
-A lasting legacy of 18F will be [the many great resources they produced](https://web.archive.org/web/20250117225333/https://18f.gsa.gov/guides/). We learned so much from those guides, even [adapting some of them to the Canadian context](https://cds-snc.github.io/policy-politique/en/2020/de-risking-government-it-projects/). Sadly, they may live on long-term only in the Wayback Machine.
-
-For now, though, while the GitHub account remains active, we can take advantage of Git’s distributed nature to make local copies. In Git, any copy of a repository can contain its whole history—isn’t that beautiful? This morning, I cloned a number of 18F’s repositories to my local machine, doing some small part to preserve and honour that legacy of hard, meaningful work. It brought to mind [Mandy Brown’s reflections on the importance of both written and oral history](https://aworkinglibrary.com/writing/undiscovered), with her hopeful conclusion: “And maybe that’s a clue: perhaps a story well told can be trusted to outlast both paper and stone.”
+_I had written a whole other section on how 18F worked in the open, offering a window into its important work, and how that window remains open even as the organization is shut down. This newsletter was too long, so now the section’s on my site: “[18F worked in the open](https://lucascherkewski.com/study/18f-working-openly/)”._
 
 ***
 
