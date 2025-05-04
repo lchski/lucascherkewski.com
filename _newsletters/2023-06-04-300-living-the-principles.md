@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Living the principles'
+number: '300'
+date: '2023-06-04 18:25:00'
+published: true
+---
+
 Hi!
 
 A very happy Sunday to you. We’ve had a whirlwind few days, but in a way that feels as relaxing as it’s been full: a woodworking course yesterday morning (such fun!), checking out some Doors Open spots today (the greenhouse at Rideau Hall, excellent as always), visiting with friends in Strathcona park (another spot that’s consistently great, especially with friends).
