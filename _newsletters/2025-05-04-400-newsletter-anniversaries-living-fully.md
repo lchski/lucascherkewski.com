@@ -23,6 +23,7 @@ It’s a treat to find and share interesting things with you each week—thank y
 - A good reminder from Annie Mueller on [how much people can change in ten years](https://anniemueller.com/posts/people-can-change).
 - Speaking of doing mechanical things this weekend, I enjoyed [Simon Collison’s brief post about fixing an espresso machine](https://colly.com/journal/coffee-fix)—the merits of being methodical. (I caught myself in a moment of impatience while putting my tire back on today, cooled my head, thought it through, and worked the problem out. If only I could always catch myself in those moments!)
 - Simon’s also [been journalling about his time at CAMP](https://colly.com/journal/tag:camp%20france), an arts residency in the French Pyrenees. Been very neat to follow along.
+- There was an election this week! (Or, really, 343 elections. But we’ll round to one.) So much appreciation to all the poll workers and other staff who work tirelessly to enable people across this vast, varied country to vote. This story of [voting in Canada’s North](https://www.theglobeandmail.com/gift/27602ea8006269cbbc1c17fb5cd3e556fdc5449a87027a1be993352938c26c9b/OW5AS6U7KZCTBMDAIT6PK7QGOE/) welled up a lot of good feelings in me.
 
 I know it’s in the footer, and up in today’s intro—but, again, thank you for following along here. It means a lot. All the best for the week ahead!
 
