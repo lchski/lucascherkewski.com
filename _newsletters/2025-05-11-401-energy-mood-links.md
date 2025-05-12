@@ -72,7 +72,7 @@ For another good example of presenting basic stats (sums, really!) in an accessi
 
 ***
 
-It’s mentioned briefly, but the other essential part of this story (“[Mother of all knives](https://www.theglobeandmail.com/gift/27602ea8006269cbbc1c17fb5cd3e556fdc5449a87027a1be993352938c26c9b/3V6DTTSPB5FVROVLSVNCRMAPKM/)”, on the mom and/or grandma and/or nonna knife, depending on your inclination) is that, with a nonna knife, _your thumb is the cutting board_. Legends.
+It’s mentioned briefly, but the other essential part of “[Mother of all knives](https://www.theglobeandmail.com/gift/27602ea8006269cbbc1c17fb5cd3e556fdc5449a87027a1be993352938c26c9b/3V6DTTSPB5FVROVLSVNCRMAPKM/)” (on the mom and/or grandma and/or nonna knife, depending on your inclination) is that, with a nonna knife, _your thumb is the cutting board_. Legends.
 
 ///
 
