@@ -36,12 +36,6 @@ This grants an outsized influence to those who mobilize their research into free
 
 (Incidentally, I recall this as being top of mind in formatting [_Delivering digital services by 2025_](https://web.archive.org/web/20191121085939/https://digital.canada.ca/roadmap-2025/)—it came out as a nice PDF if you printed it.[^roadmap])
 
-[^roadmap]: The “roadmap”, as it was affectionately called, is sadly now only available via the Wayback Machine. Publishing that roadmap was also received as an audacious move by some within the public service at the time. Even with this—important!—caveat:\
-\
-“CDS does not have the authority to decide on behalf of government to make this a priority. But part of CDS’s mandate is to provide advice to government about digital service delivery. In that spirit, we offer the beginning of a roadmap for how the Government of Canada could rise to the Table’s challenge.”\
-\
-Anyhow, that mixed reception offers a whole other lesson on how the public service operates. I think publishing it was still the right call, and something we ought to become more comfortable with—stating public positions, even when they’re challenging. Also, holy cow, it’s 2025—we’ve arrived, but are we there yet? 
-
 Ironically, it’s this outsized influence that exposes the hypocrisy in barriers (often in the name of fairness, self-imposed or otherwise) to simply reaching out to people for advice or input: now, input is reduced to that which is easily available in written form; the result of fairalysis paralysis is, sadly, weakened analysis.
 
 ***
@@ -53,3 +47,11 @@ Before we go on our way, [a few words from Jack Cheng’s recent newsletter](htt
 Well, the thing is done—now on to whatever. All the best for the week ahead!
 
 Lucas
+
+
+
+[^roadmap]: The “roadmap”, as it was affectionately called, is sadly now only available via the Wayback Machine. Publishing that roadmap was also received as an audacious move by some within the public service at the time. Even with this—important!—caveat:
+
+    “CDS does not have the authority to decide on behalf of government to make this a priority. But part of CDS’s mandate is to provide advice to government about digital service delivery. In that spirit, we offer the beginning of a roadmap for how the Government of Canada could rise to the Table’s challenge.”
+
+    Anyhow, that mixed reception offers a whole other lesson on how the public service operates. I think publishing it was still the right call, and something we ought to become more comfortable with—stating public positions, even when they’re challenging. Also, holy cow, it’s 2025—we’ve arrived, but are we there yet? 
