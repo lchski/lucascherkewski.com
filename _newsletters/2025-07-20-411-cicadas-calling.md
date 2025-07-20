@@ -12,10 +12,11 @@ I suppose, then, that we’ve officially arrived at the [dog days of summer](htt
 
 ***
 
-State of things:
+Life reading and listening:
 
-- Word on the [concerning fate of saplings in UK woodlands](https://www.theguardian.com/environment/2025/jul/10/britain-ancient-woodlands-failing-regenerate-forests-climate-drought-heat-disease-deer-hope-aoe)—fewer and fewer are making it past five years of age.
-- A contemporary account of [the specialization of industrial manufacturing in China](https://interconnected.org/home/2025/07/18/shenzhen), through the eyes of Matt Webb’s journey manufacturing the [Poem/1 clock](https://interconnected.org/home/2024/02/01/kickstarter).
+- Two from Paul Wells! First, “[The Summer Reading Episode](https://paulwells.substack.com/p/the-summer-reading-episode)”, a roundtable with a great format: one book you’re reading this summer, and one that sticks with you from summers past. Second, a [Q&A with singer Dan Mangan](https://paulwells.substack.com/p/the-q-and-a-youre-competing-in-the) on becoming known in the age of social media, and [Side Door](https://sidedooraccess.com/home), a business he started with a friend to make it easy to host and play at independent venues (like living rooms, backyards, coffeeshops, and more).
+- Collated by Maria Popova at _The Marginalian_, some quotations by Springsteen on his attempts at [a mindful approach to depression](https://www.themarginalian.org/2022/07/20/bruce-springsteen-depression/) (a persistent struggle in his life), to name and sit with the feeling.
+- An awesome film line-up of “[Compelling Speculations on Human Survival](https://adriennemareebrown.net/2025/07/19/compelling-speculations-on-human-survival/)” curated by adrienne maree brown. (Not just awesome because it includes _Star Trek IV_, “The One with the Whales”, which I was tempted to rewatch this weekend, but also tempted by all the others, but _also_ tempted by _The Bicycle Thieves_ because Bytowne was showing it but neither showtime worked for us.)
 
 ***
 
@@ -33,12 +34,14 @@ Computer stuff:
 
 ***
 
-Life reading and listening:
+State of things:
 
-- Two from Paul Wells! First, “[The Summer Reading Episode](https://paulwells.substack.com/p/the-summer-reading-episode)”, a roundtable with a great format: one book you’re reading this summer, and one that sticks with you from summers past. Second, a [Q&A with singer Dan Mangan](https://paulwells.substack.com/p/the-q-and-a-youre-competing-in-the) on becoming known in the age of social media, and [Side Door](https://sidedooraccess.com/home), a business he started with a friend to make it easy to host and play at independent venues (like living rooms, backyards, coffeeshops, and more).
-- Collated by Maria Popova at _The Marginalian_, some quotations by Springsteen on his attempts at [a mindful approach to depression](https://www.themarginalian.org/2022/07/20/bruce-springsteen-depression/) (a persistent struggle in his life), to name and sit with the feeling.
-- An awesome film line-up of “[Compelling Speculations on Human Survival](https://adriennemareebrown.net/2025/07/19/compelling-speculations-on-human-survival/)” curated by adrienne maree brown. (Not just awesome because it includes _Star Trek IV_, “The One with the Whales”, which I was tempted to rewatch this weekend, but also tempted by all the others, but _also_ tempted by _The Bicycle Thieves_ because Bytowne was showing it but neither showtime worked for us.)
+- Word on the [concerning fate of saplings in UK woodlands](https://www.theguardian.com/environment/2025/jul/10/britain-ancient-woodlands-failing-regenerate-forests-climate-drought-heat-disease-deer-hope-aoe)—fewer and fewer are making it past five years of age.
+- A contemporary account of [the specialization of industrial manufacturing in China](https://interconnected.org/home/2025/07/18/shenzhen), through the eyes of Matt Webb’s journey manufacturing the [Poem/1 clock](https://interconnected.org/home/2024/02/01/kickstarter).
+
+***
 
 All the best for the week ahead!
 
 Lucas
+
