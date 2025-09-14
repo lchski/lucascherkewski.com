@@ -43,6 +43,7 @@ Any highlights in that unending stream of podcast episodes? I’m glad you asked
 Final bits and/or bobs:
 
 - [Robin Rendle’s reflections on _Poverty, By America_](https://robinrendle.com/notes/notes-on-poverty/) use his personal experience with poverty to illustrate the book’s central themes—really good.
+- [Anne Trubek’s _Notes from a Small Press_](https://notesfromasmallpress.substack.com/) is one of my long-time favourite newsletters, offering a window into the publishing industry. Trubek recently wrote about how to read more, specifically [how to read more _for pleasure_](https://notesfromasmallpress.substack.com/p/how-to-read-more).
 - [Lean](https://overreacted.io/the-math-is-haunted/) is a programming language for math proofs, that can then actually verify those proofs. Imagining how all the parts of a proof would read in Lean brings to mind that [much of `jq`’s standard library is itself written in `jq`](https://github.com/jqlang/jq/blob/master/src/builtin.jq). Anyway, I’m very glad other people are into math like this—I will happily benefit from your enthusiasm!! (via SB)
 - Question and answers about [life with a “dumbphone”](https://blog.avas.space/dumbphone-wife/).
 
