@@ -30,15 +30,6 @@ This is, incidentally, [not the first time KitKat got looped into the AI scene](
 
 ***
 
-Speaking of AI (lol), _Star Trek: Strange New Worlds_ had an excellent scene a while back that had me thinking about guardrails for the current crop of large language models. In it, Nurse Chapel asks the medical lab computer to compute  survivability scenarios for different surgeries, even ones using illegal drugs or ones prohibited by policy.
-
-Is this something guardrails should prevent, or at least deter? 
-Model training and system prompts are sometimes shaped to prevent “bad” actions. But then you’re hundreds of years in the future, on some starship somewhere, and the morally just approach is to do just that bad action.
-
-(To be clear, I favour guardrails. I favour guardrails even on what these companies are doing generally! Ethics is hard in any case, extra so with new technologies, but pondering these intersections is good brain work.)
-
-***
-
 Any highlights in that unending stream of podcast episodes? I’m glad you asked:
 
 - [Episode 420 of _Ben Franklin’s World_](https://benfranklinsworld.com/episode-420-peter-kastor-creating-the-u-s-federal-government/), interviewing Peter Kastor about his project [_Creating a Federal Government, 1789–1827_](https://creatingafederalgovernment.wustl.edu/). If the title of that project alone isn’t enough to see why I was excited about it, get this: it’s a database, manually transcribed from numerous primary sources, of nearly every U.S. federal employee in the first almost four decades of the U.S. government’s existence.[^havetocountit] SO MUCH GREAT STUFF IN THIS EPISODE!
