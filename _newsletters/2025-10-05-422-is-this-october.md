@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Is this… October?'
 number: '422'
-date: '2025-10-05 15:30:00 -0400'
+date: '2025-10-05 15:55:00 -0400'
 published: true
 ---
 
@@ -23,9 +23,9 @@ Two neat local items:
 
 To leave you, the closing words from [“I Am Once Again Sitting by a River” by Winston Hearn](https://www.winstonhearn.com/wrote/2025/i-am-once-again-sitting-by-a-river/):
 
-> it seems to understand\
-> that which believes itself to be in control\
-> has not yet been flooded\
+> it seems to understand  
+> that which believes itself to be in control  
+> has not yet been flooded  
 > with the lessons of time
 
 All the best for the week ahead!
