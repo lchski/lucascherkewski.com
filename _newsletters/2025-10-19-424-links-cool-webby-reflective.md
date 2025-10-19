@@ -22,11 +22,11 @@ It’s maybe a bigger point, about being conscious of and engaged with how we’
 
 Cool:
 
-- [Communauto has rolled out its FLEX service in Ottawa/Gatineau](https://ottawacitizen.com/news/communauto-flex-ottawa-car-sharing), complementing its station-based offering. As big Communauto fans, we're pretty pumped. There’s lots of good detail in this article, including some of the main issues to sort out during the pilot period. I particularly liked this quote from Councillor Ariel Troster, responding to potential complaints about use of on-street parking: “The city owns the road, streets are for everyone, a parking spot that happens to be on a city road isn’t your personal property. People adjust!”
+- [Communauto has rolled out its FLEX service in Ottawa/Gatineau](https://ottawacitizen.com/news/communauto-flex-ottawa-car-sharing), complementing its station-based offering. As big Communauto fans, we’re pretty pumped. There’s lots of good detail in this article, including some of the main issues to sort out during the pilot period. I particularly liked this quote from Councillor Ariel Troster, responding to potential complaints about use of on-street parking: “The city owns the road, streets are for everyone, a parking spot that happens to be on a city road isn’t your personal property. People adjust!”
 - An obituary and tribute to [the slow steady work of building up a historical database](https://historyofparliament.com/2025/10/15/michael-rush-and-the-database/), starting on index cards and becoming the [_Members of Parliament after 1832_ tool](https://membersafter1832.historyofparliamentonline.org/).
 - [Behind the scenes research for a Linotype book.](https://buttondown.com/linotypebook/archive/issue-no-15-in-praise-of-a-library/)
 
-Webby (_lit_ [per the Lucas Cherkewski dictionary]: “of the web”):
+Webby (_lit._ [per the Lucas Cherkewski dictionary]: “of the web”):
 
 - [Mita Williams on the how and why of ActivityPub](https://librarian.aedileworks.com/2025/10/13/how-i-use-activitypub-and-why/) (the protocol that powers the fediverse, including Mastodon).
 - By contrast to social media, or maybe a “yes, and”, [how conversations move in the blogosphere](https://werd.io/what-made-blogging-different/).
