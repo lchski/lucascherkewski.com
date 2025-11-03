@@ -19,9 +19,9 @@ B mentioned today that I should share some baseball trivia. I’ve not got any, 
 ***
 
 - A few unconnected-but-related posts on the “weird web” (of which I’m aspirationally sometimes a part?):
-	- [John Gruber wrote about niche blogs](https://daringfireball.net/linked/2025/11/01/uni-watch-rip), echoing my vague sense that there’s someone publishing cool stuff about any topic (but is there really?).
-	- Frank Chimero pointed out [the pleasure of actually checking out your friends’ sites](https://manuelmoreale.com/interview/frank-chimero) (and seeing their neat designs!!).
-	- Craig Mod wrote about [how smartphones, corporate social media, and the rest reshape and restrict opportunities for creative expression](https://craigmod.com/ridgeline/217/). Another way (and Frank speaks to this, too) is to embrace your own place, wherever and however it is, not necessarily seeking growth or metrics.
+  - [John Gruber wrote about niche blogs](https://daringfireball.net/linked/2025/11/01/uni-watch-rip), echoing my vague sense that there’s someone publishing cool stuff about any topic (but is there really?).
+  - Frank Chimero pointed out [the pleasure of actually checking out your friends’ sites](https://manuelmoreale.com/interview/frank-chimero) (and seeing their neat designs!!).
+  - Craig Mod wrote about [how smartphones, corporate social media, and the rest reshape and restrict opportunities for creative expression](https://craigmod.com/ridgeline/217/). Another way (and Frank speaks to this, too) is to embrace your own place, wherever and however it is, not necessarily seeking growth or metrics.
 - For a great example of that beloved web at work, see [Annie Mueller’s poems, “Love letters 11-13”](https://anniemueller.com/posts/love-letters-11-13).
 
 ***
@@ -30,10 +30,12 @@ B mentioned today that I should share some baseball trivia. I’ve not got any, 
 - Shortly after (or as) last week’s newsletter came out, [the provincial government walked back their mooted changes to security of tenure](https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-government-walks-back-on-plan-to-consider-changes-to-renters-right-to-security-of-tenure/). Yay, outrage works? Though “now is not the time” is a particular choice of words, and it’s telling they were both comfortable and inclined to even raise this idea.
 - Ottawa’s Lansdowne site is up for further development (MOAR CORPORATIZATION TO PREVENT MOAR DOLLAR LOSS), and [a potential victim of the work is a unique public art lighting installation](https://ottawacitizen.com/news/artist-lansdowne-installation-scrap-metal), partly due to the need to maintain the installation’s lights and electronics. The creator of _Moving Surfaces_, Jill Anholt, pointed out the sorry fact that the LED screens in the stadium likely have a bigger maintenance budget than those for the art installation. Ah, this city.
 
+***
+
 Three lighter ones to close:
 
 - The [Minecraft Halloween update](https://minecraft.fandom.com/wiki/Halloween_Update) came out fifteen years ago, marking about fifteen years since I bought Minecraft (though I’d been playing the free versions for a bit longer). Been a while now since I opened it, but many fond memories of hours in those worlds, alone and with many, many friends. Impressive to note what the game was back then, and how much it’s changed since.
-- [Ourse](https://www.ourse.ca/) is a new furniture company from friend of the show Jake Oliveira and Jason Henderson with some beautiful work.
+- [Ourse](https://www.ourse.ca/) is a new furniture company with some beautiful work, including from friend of the show Jake Oliveira.
 - Speaking of beautiful work, I’d be remiss not to share [David Fisher’s latest trio of shrink pots](https://davidffisher.com/2025/11/01/three-shrink-pots/). In my notes for today, I just wrote “BEAUTY POTS”—so true.
 
 All the best for the week ahead!
