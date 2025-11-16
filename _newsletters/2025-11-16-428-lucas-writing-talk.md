@@ -10,7 +10,7 @@ Somehow, it’s Sunday again. Always caught off by short weeks, particularly whe
 
 ***
 
-Lucas writing a talk is, as with many folks confronted with doing so, a particularly anguished Lucas. The subject matter’s dear to my heart, but, as ever, the question is how to best deliver it for the particular audience. 
+Lucas writing a talk is, as with many folks confronted with doing so, a particularly anguished Lucas. The subject matter’s dear to my heart (the parliamentary process!!), but, as ever, the question is how to best deliver it for the particular audience. 
 
 Doing this reminds me of perhaps the fundamental state of creative work: sometimes doing the work looks like _not doing_ the work. It can be: working the words for an hour, but turning up little; then stepping away for a drink of water (without a screen at hand), and an idea suddenly striking, fully-formed, just waiting to be captured when back to the keyboard.
 
