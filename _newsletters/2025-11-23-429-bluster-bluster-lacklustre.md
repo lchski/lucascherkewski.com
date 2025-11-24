@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Bluster, bluster, let this not be lacklustre'
 number: '429'
-date: '2025-11-23 17:38:36 -0500'
+date: '2025-11-23 20:00:00 -0500'
 published: true
 ---
 
