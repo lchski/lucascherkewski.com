@@ -1,12 +1,12 @@
 ---
 layout: study--newsletter
-title: 'Santa’s workshop'
+title: 'In Santa’s workshop, I’m the elf'
 number: '430'
 date: '2025-11-30 14:00:00 -0500'
 published: true
 ---
 
-Have spent some nights and weekends happily making sawdust and shavings in recent weeks. Last year, T made knit gifts for many in our friends and family—this year, it’s my turn, and everyone’s getting wood!
+Have spent some nights and weekends happily making sawdust and shavings in recent weeks. Last year, T made knit gifts for many of our friends and family—this year, it’s my turn, and everyone’s getting wood!
 
 As a result, I feel like an elf, the workshop piled with projects in various states of completion, and me facing the occasional tension between what I should be working on (the gifts!) and my itch to finish older projects. (The loophole here is to declare an older, unfinished project as a “Christmas gift to self”. I wonder if that Dutch tool chest will fit under the tree!)
 
