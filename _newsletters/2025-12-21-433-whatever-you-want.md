@@ -38,4 +38,4 @@ All the best for the week ahead!
 
 Lucas
 
-P.S. Today’s title is courtesy of T, who, as I despaired that I was ready to send the newsletter but for a good title, encouragingly said she always likes my newsletter titles. Then, after a pause, said “Call it whatever you want!” before bouncing away.
+P.S. Today’s title is courtesy of T, who, as I despaired that I was ready to send the newsletter but for a good title, encouragingly said she always likes my newsletter titles. Then, after a pause, said “Call it whatever you want!” before cheerily bouncing away to eat fruit.
