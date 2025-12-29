@@ -19,6 +19,8 @@ A few do come to mind, though:
 - [_Things Become Other Things_](https://craigmod.com/books/things_become_other_things/) by Craig Mod: I didn’t fully _read_ TBOT this year, but have enjoyed reading _about_ it through [Craig’s various newsletters](https://craigmod.com/newsletters/). Craig’s energy and perspective always makes for a good read.
 - [_Consolations_](https://davidwhyte.com/store/book/consolations/) by David Whyte: An excellent book of “is it prose or is it poetry” to keep at the bedside.
 
+***
+
 2025 has been quite a year. Not so sad to see it go, other than how easy math has been with a nice “round” number like 25. 
 
 I’m closing out this last _Hit and Miss_ of the year after a week with loved ones, sitting now in bed with three particularly loved ones close at hand—Pema in my lap, Arthur at my feet, and T at my side. I hope you’ve also had, or are soon to have, some time with loved ones.
