@@ -21,6 +21,8 @@ A few do come to mind, though:
 
 2025 has been quite a year. Not so sad to see it go, other than how easy math has been with a nice “round” number like 25. 
 
-I’m closing out this last _Hit and Miss_ of the year after a week with loved ones, sitting now in bed with three particularly loved ones close at hand—Pema in my lap, Arthur at my feet, and T at my side. I hope you’ve also had, or are soon to have, some time with loved ones—all the best for the week, and year, ahead!
+I’m closing out this last _Hit and Miss_ of the year after a week with loved ones, sitting now in bed with three particularly loved ones close at hand—Pema in my lap, Arthur at my feet, and T at my side. I hope you’ve also had, or are soon to have, some time with loved ones.
+
+2026 will, I think, also be quite a year, but for very different reasons—ones I’m deeply grateful, glad, and excited for. May you also have some great things to look forward to. Thank you, always, for reading my writing here. All the best for the week, and year, ahead!
 
 Lucas
