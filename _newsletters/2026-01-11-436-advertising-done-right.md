@@ -48,4 +48,4 @@ Some lighter ones:
 
 All the best for the week ahead!
 
-Lucas 
+Lucas
