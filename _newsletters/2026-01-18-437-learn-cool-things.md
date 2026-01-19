@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Let’s learn some cool things'
 number: '437'
-date: '2026-01-18 19:52:33 -0500'
+date: '2026-01-18 20:25:00 -0500'
 published: true
 ---
 
