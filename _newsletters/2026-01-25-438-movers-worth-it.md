@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Movers are worth it'
 number: '438'
-date: '2026-01-25 15:30:41 -0500'
+date: '2026-01-25 15:50:00 -0500'
 published: true
 ---
 
