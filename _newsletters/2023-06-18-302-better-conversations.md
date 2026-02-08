@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Better conversations'
+number: '302'
+date: '2023-06-18 14:28:00 -0400'
+published: true
+---
+
 Hello!
 
 Sunny, blue skies have emerged from an overcast morning (though I like the gloom, some days—it encourages a general feeling of quiet, a welcome break from noise and hubbub). My brain is full of project ideas, and I’m looking forward to the slow days of summer for a chance to make those projects a reality.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Finishing things'
+number: '321'
+date: '2023-10-29 11:21:00 -0400'
+published: true
+---
+
 Another weekend of juggling too many things—one day I’ll be sensible about what I can actually accomplish in a day, a year, a life! There’s a long list from having moved, though huge thanks and kudos to the hard work T’s done to already make this place feel like home. That said, it’s my turn to do some home-y things—reflecting that, a quick round-up of observations and links from the week:
 
 - Finished our hallway bench this week! Was fun to work with [Martin](https://www.instagram.com/martinthornell/) on it over the last few weeks—it’ll make a great addition to the front hall. It was a quintessential woodworking project: designing it partially in advance, partially on the fly; fixing several mistakes that didn’t make sense, but needed fixing anyhow; retrofitting the structure a bit after testing it out, to strengthen a flex-y bit; practicing different techniques just for the fun of it. Thanks also to [Jason](https://www.instagram.com/jharveywoodworks/) for some tips on chamfering with a block plane, a fun little touch for the bench’s stretcher.

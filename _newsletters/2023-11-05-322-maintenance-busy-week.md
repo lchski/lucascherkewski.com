@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Maintenance before a busy week'
+number: '322'
+date: '2023-11-05 10:16:00 -0500'
+published: true
+---
+
 Good morning! 
 
 Yesterday was one of those lovely “maintenance” days. Both in the broadest sense—getting groceries, making sauce for the week ahead, going for nourishing walks in the sun, unpacking and organizing—and the literal sense—I had some new tools to tend to. When cooking an acorn squash, something I’d never done before, I was reminded of Tamar Adler’s excellent advice for testing if a vegetable’s done cooking: when you automatically go for a second bite, it’s done (or, at least, done enough). There are probably some bigger lessons to draw from that—an exercise for the reader.

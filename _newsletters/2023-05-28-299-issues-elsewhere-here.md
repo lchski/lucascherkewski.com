@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Issues elsewhere, issues here'
+number: '299'
+date: '2023-05-28 18:48:00 -0400'
+published: true
+---
+
 Hello!
 
 I spent the morning as a biking kit man to T and T’s mom, who ran the Ottawa marathon today. CONGRATS BOTH!! It was so awesome to see their accomplishment, gruelling as it was at times, and to share it with S and V at some key points along the route. We’re all thoroughly zonked, so I’ll just leave some links and head off to rest.

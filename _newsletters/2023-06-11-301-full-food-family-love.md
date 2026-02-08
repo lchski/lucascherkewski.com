@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Full of food, family, and love'
+number: '301'
+date: '2023-06-11 22:20:00 -0400'
+published: true
+---
+
 Hello!
 
 Writing, very (_very_) full with food, after a full day visiting family. We’ve had a busy few weeks, with lots of emotional ups and downs, but are glad to be able to spend time with loved ones.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Old favourites in a time of change'
+number: '317'
+date: '2023-10-01 09:33:00 -0400'
+published: true
+---
+
 Hello from a mostly-not-jet-lagged Lucas! It was quite a time adjusting to Ontario, uh, time, but I far preferred being awake early to always wanting to sleep in.
 
 There’ll be more on Japan another time, but [Craig Mod’s latest _Ridgeline_ captured well some of our experiences in Tokyo](https://craigmod.com/ridgeline/171/): sweltering in the late summer heat, exploring Yanaka and nearby neighbourhoods, and marvelling at all that can be found between two stops on a train line.

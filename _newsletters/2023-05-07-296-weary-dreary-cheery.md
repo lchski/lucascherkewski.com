@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'From weary of dreary to cheery'
+number: '296'
+date: '2023-05-07 17:04:00 -0400'
+published: true
+---
+
 Whew! We made it through a dreary week of April showers, and are now truly treated with May flowers.
 
 I’ve had Springsteen’s “Glory Days” going through my head (and, on the not so rare occasion, my vocal chords). Perhaps it’s from seeing videos of [Michelle Obama’s appearance singing the song with Springsteen in Barcelona](https://www.latimes.com/entertainment-arts/music/story/2023-04-30/michelle-obama-bruce-springsteen-barcelona-backup-singer).

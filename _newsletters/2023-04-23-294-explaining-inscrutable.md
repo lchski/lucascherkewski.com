@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Explaining the inscrutable'
+number: '294'
+date: '2023-04-23 17:13:00 -0400'
+published: true
+---
+
 It’s an overcast Sunday and there’s a mariachi band playing outside, which, much to T and A’s chagrin, means I’m trumpet-mouthing along (I suppose we should all be glad I haven’t yet broken out my actual trumpet). It’s not been quite the relaxing weekend either of us were expecting (not because of the mariachi band, but because of various continued health adventures), but we’re hanging in nonetheless.
 
 ***

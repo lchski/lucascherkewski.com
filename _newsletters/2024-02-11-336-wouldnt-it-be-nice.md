@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Wouldn’t it be nice'
+number: '336'
+date: '2024-02-11 19:09:00 -0500'
+published: true
+---
+
 Hello!
 
 Have had one of those off days—it wasn’t bad, really, just low energy, the time always passing more quickly than hoped. Ah well. I’m currently sitting in the spare room with Pema, trying to coax her into leaving Arthur alone (or, at least, to more peacefully co-exist with him); this hasn’t been particularly successful today, which is definitely impacting morale.

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Tired, so tired'
+number: '291'
+date: '2023-04-02 20:56:00 -0400'
+published: true
+---
+
 Folks, it’s been a day—a week—a month. In hard ways, yes, though also in good ways! But I am thoroughly tired. The kind of tired where you’re waiting for the tears to come, but they don’t, then they show up at the most unexpected of moments. We’re back in Ottawa now, after a long stretch mostly on the road, but there’ll be more travels, soon enough.
 
 I’m not following much outside my world right now, with few thoughts to offer there, either. Next week, I hope to have the energy to catalogue a few cool things from the last month, but we’ll have to see. (Maybe there’ll even be… photos!?)

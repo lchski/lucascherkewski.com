@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Byeeee, January!'
+number: '334'
+date: '2024-01-28 16:41:00 -0500'
+published: true
+---
+
 The winter doldrums are alive and well this week. T and I are both on the up-and-up, slowly, but have varying kinds of lingering _meh_. Coupled with the weather—gloom!!—and friends and family dealing with various issues and ailments, it’s been a bit of a low week. I won’t be sad to see January gone, even if it means we’re already a twelfth of the way through the year!
 
 Two links in conversation this week, plus one:

@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: '(not) Ottawa things'
+number: '295'
+date: '2023-04-30 16:09:00 -0400'
+published: true
+---
+
 Hello!
 
 It’s been—finally—a mostly chill, restful weekend. Long overdue, and grateful for it. We read, ate ice cream, did some light shopping, caught up with family (including Oma!), and later today will catch up with friends. No travel, nor trips to the hospital, nor much distress. I even had a chance to write some data parsing code! (To [get a breakdown of my Communauto trips from PDF invoices](https://github.com/lchski/communauto-analysis/blob/main/load.R), so thrilling are my interests.)

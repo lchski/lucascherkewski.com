@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Good summer'
+number: '309'
+date: '2023-08-06 11:19:00 -0400'
+published: true
+---
+
 Ah, August—the good part of summer. Still hot, yes, but less consistently so. Cooler nights, the occasional balmy day, little treats to make the heat more bearable, comfortable and nice before we again give up the heat for so many months.
 
 Several links from this week:

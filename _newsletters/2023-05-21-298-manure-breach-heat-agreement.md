@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Manure breach heat agreement'
+number: '298'
+date: '2023-05-21 15:42:00 -0400'
+published: true
+---
+
 Hello!
 
 I smelled manure from the Experimental Farm while out biking this morning, and it gave me a great smile—manure’s a smell that reminds me of home, growing up near where suburban Waterloo gives way to farmer’s markets and fields. 

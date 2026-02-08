@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Enjoy those cool evenings'
+number: '312'
+date: '2023-08-27 11:12:00 -0400'
+published: true
+---
+
 Folks! The evenings are cool and the mornings crisp! Fall is coming! This is not a drill!!
 
 Very full days behind and ahead of us—with some exciting news to share in weeks ahead—so will just share some links, while hoping you’re getting chances to enjoy beautiful weather and quiet days.

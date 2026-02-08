@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Midyear goals'
+number: '304'
+date: '2023-07-02 17:01:00 -0400'
+published: true
+---
+
 Hello!
 
 We’re just wrapping up a really lovely visit from my family, which included a brunch today with our closest Ottawa family, S+V. Very glad for the chance to visit these past few days.

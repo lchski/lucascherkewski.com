@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Extra extra extra!'
+number: '305'
+date: '2023-07-09 19:55:00 -0400'
+published: true
+---
+
 Hello!
 
 Coming off a lovely weekend full of T time, family time, friend time, and hobby time—very glad for all the people I get to share life with. It’s left me quite tired, though, so I’ll just share some links with light annotation. T and I are finishing _The Terminal_ and an ice cream cake tonight, so there’s much to save my brain for!!

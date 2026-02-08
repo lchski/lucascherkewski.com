@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Full of fulfillment'
+number: '308'
+date: '2023-07-30 21:28:00 -0400'
+published: true
+---
+
 Hello!
 
 A happy Sunday to you :) Writing, again, at the end of a full but fulfilling weekend. This weekend featured hours in parks, enjoying the grass and the scenery and the quiet—yesterday, visiting some dear friends back in town for a visit with their baby; today, imagining the future and reading with T. Really enjoying this cool weather break—here’s to August, the better part of summer. 

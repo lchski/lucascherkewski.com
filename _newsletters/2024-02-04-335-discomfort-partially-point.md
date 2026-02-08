@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'Discomfort is (partially) the point'
+number: '335'
+date: '2024-02-04 19:48:00 -0500'
+published: true
+---
+
 Hello!
 
 After a bit of agonizing, I spent a few happy hours in the community woodshop this afternoon. It was great to be back, and motivating—while machines can be loud and fast, they also make it easier to jump ahead in a project.

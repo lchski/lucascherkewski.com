@@ -1,3 +1,11 @@
+---
+layout: study--newsletter
+title: 'The internet is good, actually?'
+number: '307'
+date: '2023-07-23 22:02:00 -0400'
+published: true
+---
+
 Hello! 
 
 Writing after an unexpectedly full weekend, tired but thankfully not drained:
