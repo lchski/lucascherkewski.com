@@ -5,24 +5,9 @@
   "author": "Lucas Cherkewski",
   "version": "0.0.1",
   "repository": "",
-  "scripts": {
-    "start": "brunch watch",
-    "build": "brunch build --production"
-  },
   "dependencies": {
     "dotenv": "^16.0.1",
     "node-fetch": "^3.2.10",
     "slugify": "^1.6.5"
-  },
-  "devDependencies": {
-    "auto-reload-brunch": "^2",
-    "autoprefixer": "^8.6.3",
-    "brunch": "^2",
-    "clean-css-brunch": "^2",
-    "csswring": "^6.0.3",
-    "normalize.css": "^8.0.0",
-    "postcss-brunch": "^2.1.0",
-    "postcss-custom-properties": "^7.0.0",
-    "postcss-import": "^11.1.0"
   }
 }
