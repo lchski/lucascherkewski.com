@@ -5,8 +5,8 @@ mkdir assets
 mkdir assets/css
 
 ## CSS
-npm install
-npm run build
+cp _assets/main.css assets/css/main.css
+cp -r _assets/_css assets/css/
 
 ## Images
 cp -r _assets/_images assets/img/
