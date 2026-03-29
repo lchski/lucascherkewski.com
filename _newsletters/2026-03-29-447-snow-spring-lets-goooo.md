@@ -1,6 +1,6 @@
 ---
 layout: study--newsletter
-title: 'Snow, spring, let’s gooooo'
+title: 'Snow, spring, let’s goooo'
 number: '447'
 date: '2026-03-29 17:00:00 -0400'
 published: true
