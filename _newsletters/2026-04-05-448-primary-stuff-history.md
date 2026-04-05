@@ -18,7 +18,7 @@ It also had me thinking about all the other kinds of primary sources being creat
 
 Anyhow, I found it remarkable that New Zealand had an oral history project with political leaders. It seemed both therapeutic for the politicians while in office, but also an incredible source after the fact. Imagine my surprise to learn, after the film, that [the Alexander Turnbull Library has ceased its 40+-year run of oral history recordings](https://www.rnz.co.nz/national/programmes/nights/audio/2018932729/historic-oral-diaries-from-nz-prime-ministers-abruptly-ended). A shame for future historians, and just as a documentary exemplifying its worth is making the rounds.
 
-The film is a good watch, though definitely a few warnings in mind: the film covers the pandemic years in detail, including New Zealand’s version of a convoy / occupation, as well as the response to the Christchurch terrorist attack—no world leader escapes heavy topics, and the film doesn’t shy away from them.
+The film is a good watch, though definitely with a few warnings in mind: the film covers the pandemic years in detail, including New Zealand’s version of a convoy / occupation, as well as the response to the Christchurch terrorist attack—no world leader escapes heavy topics, and the film doesn’t shy away from them.
 
 ***
 
