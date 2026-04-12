@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Variations on themes'
 number: '449'
-date: '2026-04-12 11:29:36 -0400'
+date: '2026-04-12 14:40:00 -0400'
 published: true
 ---
 
