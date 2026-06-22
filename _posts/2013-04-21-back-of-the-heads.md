@@ -6,6 +6,8 @@ summary: While attending a recent concert, I thought about the perspective of cr
 published: true
 ---
 
+_Originally published on my old site, at [ecustom.ca/articles/back-of-the-heads](https://ecustom.ca/articles/back-of-the-heads/)._ 
+
 Recently I attended a concert with a solo singer in front of a full orchestra. Concerts are wonderful, not just for their beautiful music but also for the interesting social dynamics and small details you notice in the performances.
 
 When the singer was belting out his lyrics, there were moments when the conductor of the orchestra would turn from his post and watch the singer in amazement at the great skill which the singer possessed. What struck me at that moment was a feeling of perspective.
