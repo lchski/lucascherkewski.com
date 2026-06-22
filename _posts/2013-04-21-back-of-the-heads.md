@@ -50,7 +50,7 @@ Gaze upon your creation with a sense of pride. You did it, you accomplished your
 
 Doubtless, when making your product you had to make many decisions. By looking at your product from the creator perspective, you can see all the decisions you made manifested in a final form, and evaluate how each of them affected the final product. This will help you learn and grow as you become better at decision making through self-evaluation.
 
-##Share the results of your actions with others.
+## Share the results of your actions with others.
 
 This creator's perspective allows you to share what you made with others. Beyond that, though, it allows you to share your reflections on your decisions with the world. This will help you to help others grow, which is a most rewarding result.
 
