@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'But have you considered resting'
 number: '461'
-date: '2026-07-05 21:10:00 -0400'
+date: '2026-07-05 21:15:00 -0400'
 published: true
 ---
 
@@ -16,11 +16,14 @@ Catharsis came in all forms, from bursting out in deep, body-wrenching sobs at t
 
 There’s, hopefully, a foreseeable end to these busier times, and the busy-ness is partly due to some really excellent things on the horizon. But my goodness, it’s a lot for now.
 
+***
+
 It _was_ a successful time off in that I kept thinking “ah, I’m off today but not working tomorrow, must be Saturday today, I’ll have to write my newsletter tomorrow”, and then that day would arrive and the cycle would repeat anon. But Sunday’s now here, for real!
 
 Just a few links this week, because, well, see above.
 
 - “[Manifesto: The Mad Farmer Liberation Front](https://bookpeopleblog.com/2011/04/05/poem-of-the-day-manifesto-the-mad-farmer-liberation-front/)” by Wendell Berry ([via Austin Kleon](https://austinkleon.substack.com/p/the-air-is-getting-hotter))
+- “[Oceans and Galaxies and Lifetimes](https://angelogiomateo.substack.com/p/oceans-and-galaxies-and-lifetimes): What does it mean to me to be Filipino?” by Angelo Gio Mateo
 - “[Why do we salute with 21 guns?](https://www.cbc.ca/news/canada/newfoundland-labrador/why-do-we-salute-with-21-guns-9.7254310)” by Ainsley Hawthorn (multiple people sent this to me, and I appreciate you all for it)
 - “[A History of Menus is a Menu of History](https://pudding.cool/2026/06/menu-story/)” by _The Pudding_ (through which you can explore [5,000 restaurant menus from 1880 through 1920](https://pudding.cool/2026/06/menu-collection/))
 - “[I Bought a House and Became Part of the Problem](https://thewalrus.ca/i-bought-a-house-and-became-part-of-the-problem/)” by David Moscrop
