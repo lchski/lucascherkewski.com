@@ -8,6 +8,8 @@ published: true
 
 Hi! A great week / weekend with old friends, for which I’m really grateful given how things’ve been these past few weeks. (Highlights: farm! hike! BBQ! ice cream! more ice cream!!) But even time with the best people sometimes isn’t enough, and I’m still feeling thoroughly worn out. Earlier to bed tonight, I hope, and we’ll see what tomorrow brings.
 
+Thank you for reading along, even as my opening note each week likely reads much the same: “struggling, feeling meh, but muddling through”. Showing up here is one of those routines that does _something_ for me, [enrichment](https://winnielim.org/journal/pursuing-enrichment-with-my-partner/) for a body that may otherwise melt. Knowing you’re here makes it that much easier to show up. Thank you.
+
 ***
 
 Mined the bookmark database for a few links on “life despite feelings of meh”:
