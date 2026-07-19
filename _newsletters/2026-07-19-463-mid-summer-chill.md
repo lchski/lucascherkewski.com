@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'Mid-summer chill'
 number: '463'
-date: '2026-07-19 16:46:02 -0400'
+date: '2026-07-19 17:30:00 -0400'
 published: true
 ---
 
