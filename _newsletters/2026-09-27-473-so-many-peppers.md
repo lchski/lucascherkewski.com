@@ -2,7 +2,7 @@
 layout: study--newsletter
 title: 'So many PEPPERS'
 number: '473'
-date: '2026-09-27 20:53:42 -0400'
+date: '2026-09-27 21:30:00 -0400'
 published: true
 ---
 
