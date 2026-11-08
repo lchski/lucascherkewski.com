@@ -8,7 +8,7 @@ published: true
 
 Been a bit of a heavy week back, even as it’s been nice to spend time at home, catch up with friends, and dive back into work (yes, even that!).
 
-One of the heavier moments was learning of the passing of [Curtis McCord](https://www.linkedin.com/pulse/letters-curtis-canadian-anti-monopoly-project-ucsrc/), one of the many bright folks I’ve had the pleasure of crossing paths with over the years. Curtis was one of those dependable, delightful folks that you’re always glad to spend time with. He was a deep thinker who also had great recommendations for forest foraging. I’ll miss our consistently excellent calls and conversations.
+One of the heavier moments was learning of the passing of [Curtis McCord](https://www.linkedin.com/pulse/letters-curtis-canadian-anti-monopoly-project-ucsrc/), one of the many bright folks with whom I’ve had the pleasure of crossing paths over the years. Curtis was one of those dependable, delightful folks that you’re always glad to spend time with. He was a deep thinker who also had great recommendations for forest foraging. I’ll miss our consistently excellent calls and conversations.
 
 Here’s to thinking hard and relaxing well, just as Curtis would do.
 
